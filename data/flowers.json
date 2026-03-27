@@ -1,0 +1,6302 @@
+[
+  {
+    "name": {
+      "en": "Rose (en)",
+      "hi": "Rose (hi)",
+      "kn": "Rose (kn)",
+      "ta": "Rose (ta)",
+      "te": "Rose (te)",
+      "mr": "Rose (mr)",
+      "bn": "Rose (bn)",
+      "gu": "Rose (gu)",
+      "ml": "Rose (ml)",
+      "pa": "Rose (pa)"
+    },
+    "scientific": "Rose_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rose"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Rose is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rose"
+    ]
+  },
+  {
+    "name": {
+      "en": "Lotus (en)",
+      "hi": "Lotus (hi)",
+      "kn": "Lotus (kn)",
+      "ta": "Lotus (ta)",
+      "te": "Lotus (te)",
+      "mr": "Lotus (mr)",
+      "bn": "Lotus (bn)",
+      "gu": "Lotus (gu)",
+      "ml": "Lotus (ml)",
+      "pa": "Lotus (pa)"
+    },
+    "scientific": "Lotus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Lotus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Lotus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "lotus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Jasmine (en)",
+      "hi": "Jasmine (hi)",
+      "kn": "Jasmine (kn)",
+      "ta": "Jasmine (ta)",
+      "te": "Jasmine (te)",
+      "mr": "Jasmine (mr)",
+      "bn": "Jasmine (bn)",
+      "gu": "Jasmine (gu)",
+      "ml": "Jasmine (ml)",
+      "pa": "Jasmine (pa)"
+    },
+    "scientific": "Jasmine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Jasmine"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Jasmine is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "jasmine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Marigold (en)",
+      "hi": "Marigold (hi)",
+      "kn": "Marigold (kn)",
+      "ta": "Marigold (ta)",
+      "te": "Marigold (te)",
+      "mr": "Marigold (mr)",
+      "bn": "Marigold (bn)",
+      "gu": "Marigold (gu)",
+      "ml": "Marigold (ml)",
+      "pa": "Marigold (pa)"
+    },
+    "scientific": "Marigold_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Marigold"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Marigold is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "marigold"
+    ]
+  },
+  {
+    "name": {
+      "en": "Hibiscus (en)",
+      "hi": "Hibiscus (hi)",
+      "kn": "Hibiscus (kn)",
+      "ta": "Hibiscus (ta)",
+      "te": "Hibiscus (te)",
+      "mr": "Hibiscus (mr)",
+      "bn": "Hibiscus (bn)",
+      "gu": "Hibiscus (gu)",
+      "ml": "Hibiscus (ml)",
+      "pa": "Hibiscus (pa)"
+    },
+    "scientific": "Hibiscus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Hibiscus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Hibiscus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "hibiscus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rose (en)",
+      "hi": "Rose (hi)",
+      "kn": "Rose (kn)",
+      "ta": "Rose (ta)",
+      "te": "Rose (te)",
+      "mr": "Rose (mr)",
+      "bn": "Rose (bn)",
+      "gu": "Rose (gu)",
+      "ml": "Rose (ml)",
+      "pa": "Rose (pa)"
+    },
+    "scientific": "Rose_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rose"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Rose is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rose"
+    ]
+  },
+  {
+    "name": {
+      "en": "Lotus (en)",
+      "hi": "Lotus (hi)",
+      "kn": "Lotus (kn)",
+      "ta": "Lotus (ta)",
+      "te": "Lotus (te)",
+      "mr": "Lotus (mr)",
+      "bn": "Lotus (bn)",
+      "gu": "Lotus (gu)",
+      "ml": "Lotus (ml)",
+      "pa": "Lotus (pa)"
+    },
+    "scientific": "Lotus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Lotus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Lotus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "lotus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Jasmine (en)",
+      "hi": "Jasmine (hi)",
+      "kn": "Jasmine (kn)",
+      "ta": "Jasmine (ta)",
+      "te": "Jasmine (te)",
+      "mr": "Jasmine (mr)",
+      "bn": "Jasmine (bn)",
+      "gu": "Jasmine (gu)",
+      "ml": "Jasmine (ml)",
+      "pa": "Jasmine (pa)"
+    },
+    "scientific": "Jasmine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Jasmine"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Jasmine is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "jasmine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Marigold (en)",
+      "hi": "Marigold (hi)",
+      "kn": "Marigold (kn)",
+      "ta": "Marigold (ta)",
+      "te": "Marigold (te)",
+      "mr": "Marigold (mr)",
+      "bn": "Marigold (bn)",
+      "gu": "Marigold (gu)",
+      "ml": "Marigold (ml)",
+      "pa": "Marigold (pa)"
+    },
+    "scientific": "Marigold_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Marigold"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Marigold is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "marigold"
+    ]
+  },
+  {
+    "name": {
+      "en": "Hibiscus (en)",
+      "hi": "Hibiscus (hi)",
+      "kn": "Hibiscus (kn)",
+      "ta": "Hibiscus (ta)",
+      "te": "Hibiscus (te)",
+      "mr": "Hibiscus (mr)",
+      "bn": "Hibiscus (bn)",
+      "gu": "Hibiscus (gu)",
+      "ml": "Hibiscus (ml)",
+      "pa": "Hibiscus (pa)"
+    },
+    "scientific": "Hibiscus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Hibiscus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Hibiscus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "hibiscus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rose (en)",
+      "hi": "Rose (hi)",
+      "kn": "Rose (kn)",
+      "ta": "Rose (ta)",
+      "te": "Rose (te)",
+      "mr": "Rose (mr)",
+      "bn": "Rose (bn)",
+      "gu": "Rose (gu)",
+      "ml": "Rose (ml)",
+      "pa": "Rose (pa)"
+    },
+    "scientific": "Rose_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rose"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Rose is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rose"
+    ]
+  },
+  {
+    "name": {
+      "en": "Lotus (en)",
+      "hi": "Lotus (hi)",
+      "kn": "Lotus (kn)",
+      "ta": "Lotus (ta)",
+      "te": "Lotus (te)",
+      "mr": "Lotus (mr)",
+      "bn": "Lotus (bn)",
+      "gu": "Lotus (gu)",
+      "ml": "Lotus (ml)",
+      "pa": "Lotus (pa)"
+    },
+    "scientific": "Lotus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Lotus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Lotus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "lotus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Jasmine (en)",
+      "hi": "Jasmine (hi)",
+      "kn": "Jasmine (kn)",
+      "ta": "Jasmine (ta)",
+      "te": "Jasmine (te)",
+      "mr": "Jasmine (mr)",
+      "bn": "Jasmine (bn)",
+      "gu": "Jasmine (gu)",
+      "ml": "Jasmine (ml)",
+      "pa": "Jasmine (pa)"
+    },
+    "scientific": "Jasmine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Jasmine"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Jasmine is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "jasmine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Marigold (en)",
+      "hi": "Marigold (hi)",
+      "kn": "Marigold (kn)",
+      "ta": "Marigold (ta)",
+      "te": "Marigold (te)",
+      "mr": "Marigold (mr)",
+      "bn": "Marigold (bn)",
+      "gu": "Marigold (gu)",
+      "ml": "Marigold (ml)",
+      "pa": "Marigold (pa)"
+    },
+    "scientific": "Marigold_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Marigold"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Marigold is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "marigold"
+    ]
+  },
+  {
+    "name": {
+      "en": "Hibiscus (en)",
+      "hi": "Hibiscus (hi)",
+      "kn": "Hibiscus (kn)",
+      "ta": "Hibiscus (ta)",
+      "te": "Hibiscus (te)",
+      "mr": "Hibiscus (mr)",
+      "bn": "Hibiscus (bn)",
+      "gu": "Hibiscus (gu)",
+      "ml": "Hibiscus (ml)",
+      "pa": "Hibiscus (pa)"
+    },
+    "scientific": "Hibiscus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Hibiscus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Hibiscus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "hibiscus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rose (en)",
+      "hi": "Rose (hi)",
+      "kn": "Rose (kn)",
+      "ta": "Rose (ta)",
+      "te": "Rose (te)",
+      "mr": "Rose (mr)",
+      "bn": "Rose (bn)",
+      "gu": "Rose (gu)",
+      "ml": "Rose (ml)",
+      "pa": "Rose (pa)"
+    },
+    "scientific": "Rose_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rose"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Rose is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rose"
+    ]
+  },
+  {
+    "name": {
+      "en": "Lotus (en)",
+      "hi": "Lotus (hi)",
+      "kn": "Lotus (kn)",
+      "ta": "Lotus (ta)",
+      "te": "Lotus (te)",
+      "mr": "Lotus (mr)",
+      "bn": "Lotus (bn)",
+      "gu": "Lotus (gu)",
+      "ml": "Lotus (ml)",
+      "pa": "Lotus (pa)"
+    },
+    "scientific": "Lotus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Lotus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Lotus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "lotus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Jasmine (en)",
+      "hi": "Jasmine (hi)",
+      "kn": "Jasmine (kn)",
+      "ta": "Jasmine (ta)",
+      "te": "Jasmine (te)",
+      "mr": "Jasmine (mr)",
+      "bn": "Jasmine (bn)",
+      "gu": "Jasmine (gu)",
+      "ml": "Jasmine (ml)",
+      "pa": "Jasmine (pa)"
+    },
+    "scientific": "Jasmine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Jasmine"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Jasmine is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "jasmine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Marigold (en)",
+      "hi": "Marigold (hi)",
+      "kn": "Marigold (kn)",
+      "ta": "Marigold (ta)",
+      "te": "Marigold (te)",
+      "mr": "Marigold (mr)",
+      "bn": "Marigold (bn)",
+      "gu": "Marigold (gu)",
+      "ml": "Marigold (ml)",
+      "pa": "Marigold (pa)"
+    },
+    "scientific": "Marigold_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Marigold"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Marigold is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "marigold"
+    ]
+  },
+  {
+    "name": {
+      "en": "Hibiscus (en)",
+      "hi": "Hibiscus (hi)",
+      "kn": "Hibiscus (kn)",
+      "ta": "Hibiscus (ta)",
+      "te": "Hibiscus (te)",
+      "mr": "Hibiscus (mr)",
+      "bn": "Hibiscus (bn)",
+      "gu": "Hibiscus (gu)",
+      "ml": "Hibiscus (ml)",
+      "pa": "Hibiscus (pa)"
+    },
+    "scientific": "Hibiscus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Hibiscus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Hibiscus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "hibiscus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rose (en)",
+      "hi": "Rose (hi)",
+      "kn": "Rose (kn)",
+      "ta": "Rose (ta)",
+      "te": "Rose (te)",
+      "mr": "Rose (mr)",
+      "bn": "Rose (bn)",
+      "gu": "Rose (gu)",
+      "ml": "Rose (ml)",
+      "pa": "Rose (pa)"
+    },
+    "scientific": "Rose_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rose"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Rose is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rose"
+    ]
+  },
+  {
+    "name": {
+      "en": "Lotus (en)",
+      "hi": "Lotus (hi)",
+      "kn": "Lotus (kn)",
+      "ta": "Lotus (ta)",
+      "te": "Lotus (te)",
+      "mr": "Lotus (mr)",
+      "bn": "Lotus (bn)",
+      "gu": "Lotus (gu)",
+      "ml": "Lotus (ml)",
+      "pa": "Lotus (pa)"
+    },
+    "scientific": "Lotus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Lotus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Lotus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "lotus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Jasmine (en)",
+      "hi": "Jasmine (hi)",
+      "kn": "Jasmine (kn)",
+      "ta": "Jasmine (ta)",
+      "te": "Jasmine (te)",
+      "mr": "Jasmine (mr)",
+      "bn": "Jasmine (bn)",
+      "gu": "Jasmine (gu)",
+      "ml": "Jasmine (ml)",
+      "pa": "Jasmine (pa)"
+    },
+    "scientific": "Jasmine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Jasmine"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Jasmine is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "jasmine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Marigold (en)",
+      "hi": "Marigold (hi)",
+      "kn": "Marigold (kn)",
+      "ta": "Marigold (ta)",
+      "te": "Marigold (te)",
+      "mr": "Marigold (mr)",
+      "bn": "Marigold (bn)",
+      "gu": "Marigold (gu)",
+      "ml": "Marigold (ml)",
+      "pa": "Marigold (pa)"
+    },
+    "scientific": "Marigold_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Marigold"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Marigold is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "marigold"
+    ]
+  },
+  {
+    "name": {
+      "en": "Hibiscus (en)",
+      "hi": "Hibiscus (hi)",
+      "kn": "Hibiscus (kn)",
+      "ta": "Hibiscus (ta)",
+      "te": "Hibiscus (te)",
+      "mr": "Hibiscus (mr)",
+      "bn": "Hibiscus (bn)",
+      "gu": "Hibiscus (gu)",
+      "ml": "Hibiscus (ml)",
+      "pa": "Hibiscus (pa)"
+    },
+    "scientific": "Hibiscus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Hibiscus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Hibiscus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "hibiscus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rose (en)",
+      "hi": "Rose (hi)",
+      "kn": "Rose (kn)",
+      "ta": "Rose (ta)",
+      "te": "Rose (te)",
+      "mr": "Rose (mr)",
+      "bn": "Rose (bn)",
+      "gu": "Rose (gu)",
+      "ml": "Rose (ml)",
+      "pa": "Rose (pa)"
+    },
+    "scientific": "Rose_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rose"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Rose is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rose"
+    ]
+  },
+  {
+    "name": {
+      "en": "Lotus (en)",
+      "hi": "Lotus (hi)",
+      "kn": "Lotus (kn)",
+      "ta": "Lotus (ta)",
+      "te": "Lotus (te)",
+      "mr": "Lotus (mr)",
+      "bn": "Lotus (bn)",
+      "gu": "Lotus (gu)",
+      "ml": "Lotus (ml)",
+      "pa": "Lotus (pa)"
+    },
+    "scientific": "Lotus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Lotus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Lotus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "lotus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Jasmine (en)",
+      "hi": "Jasmine (hi)",
+      "kn": "Jasmine (kn)",
+      "ta": "Jasmine (ta)",
+      "te": "Jasmine (te)",
+      "mr": "Jasmine (mr)",
+      "bn": "Jasmine (bn)",
+      "gu": "Jasmine (gu)",
+      "ml": "Jasmine (ml)",
+      "pa": "Jasmine (pa)"
+    },
+    "scientific": "Jasmine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Jasmine"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Jasmine is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "jasmine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Marigold (en)",
+      "hi": "Marigold (hi)",
+      "kn": "Marigold (kn)",
+      "ta": "Marigold (ta)",
+      "te": "Marigold (te)",
+      "mr": "Marigold (mr)",
+      "bn": "Marigold (bn)",
+      "gu": "Marigold (gu)",
+      "ml": "Marigold (ml)",
+      "pa": "Marigold (pa)"
+    },
+    "scientific": "Marigold_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Marigold"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Marigold is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "marigold"
+    ]
+  },
+  {
+    "name": {
+      "en": "Hibiscus (en)",
+      "hi": "Hibiscus (hi)",
+      "kn": "Hibiscus (kn)",
+      "ta": "Hibiscus (ta)",
+      "te": "Hibiscus (te)",
+      "mr": "Hibiscus (mr)",
+      "bn": "Hibiscus (bn)",
+      "gu": "Hibiscus (gu)",
+      "ml": "Hibiscus (ml)",
+      "pa": "Hibiscus (pa)"
+    },
+    "scientific": "Hibiscus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Hibiscus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Hibiscus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "hibiscus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rose (en)",
+      "hi": "Rose (hi)",
+      "kn": "Rose (kn)",
+      "ta": "Rose (ta)",
+      "te": "Rose (te)",
+      "mr": "Rose (mr)",
+      "bn": "Rose (bn)",
+      "gu": "Rose (gu)",
+      "ml": "Rose (ml)",
+      "pa": "Rose (pa)"
+    },
+    "scientific": "Rose_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rose"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Rose is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rose"
+    ]
+  },
+  {
+    "name": {
+      "en": "Lotus (en)",
+      "hi": "Lotus (hi)",
+      "kn": "Lotus (kn)",
+      "ta": "Lotus (ta)",
+      "te": "Lotus (te)",
+      "mr": "Lotus (mr)",
+      "bn": "Lotus (bn)",
+      "gu": "Lotus (gu)",
+      "ml": "Lotus (ml)",
+      "pa": "Lotus (pa)"
+    },
+    "scientific": "Lotus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Lotus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Lotus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "lotus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Jasmine (en)",
+      "hi": "Jasmine (hi)",
+      "kn": "Jasmine (kn)",
+      "ta": "Jasmine (ta)",
+      "te": "Jasmine (te)",
+      "mr": "Jasmine (mr)",
+      "bn": "Jasmine (bn)",
+      "gu": "Jasmine (gu)",
+      "ml": "Jasmine (ml)",
+      "pa": "Jasmine (pa)"
+    },
+    "scientific": "Jasmine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Jasmine"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Jasmine is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "jasmine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Marigold (en)",
+      "hi": "Marigold (hi)",
+      "kn": "Marigold (kn)",
+      "ta": "Marigold (ta)",
+      "te": "Marigold (te)",
+      "mr": "Marigold (mr)",
+      "bn": "Marigold (bn)",
+      "gu": "Marigold (gu)",
+      "ml": "Marigold (ml)",
+      "pa": "Marigold (pa)"
+    },
+    "scientific": "Marigold_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Marigold"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Marigold is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "marigold"
+    ]
+  },
+  {
+    "name": {
+      "en": "Hibiscus (en)",
+      "hi": "Hibiscus (hi)",
+      "kn": "Hibiscus (kn)",
+      "ta": "Hibiscus (ta)",
+      "te": "Hibiscus (te)",
+      "mr": "Hibiscus (mr)",
+      "bn": "Hibiscus (bn)",
+      "gu": "Hibiscus (gu)",
+      "ml": "Hibiscus (ml)",
+      "pa": "Hibiscus (pa)"
+    },
+    "scientific": "Hibiscus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Hibiscus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Hibiscus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "hibiscus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rose (en)",
+      "hi": "Rose (hi)",
+      "kn": "Rose (kn)",
+      "ta": "Rose (ta)",
+      "te": "Rose (te)",
+      "mr": "Rose (mr)",
+      "bn": "Rose (bn)",
+      "gu": "Rose (gu)",
+      "ml": "Rose (ml)",
+      "pa": "Rose (pa)"
+    },
+    "scientific": "Rose_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rose"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Rose is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rose"
+    ]
+  },
+  {
+    "name": {
+      "en": "Lotus (en)",
+      "hi": "Lotus (hi)",
+      "kn": "Lotus (kn)",
+      "ta": "Lotus (ta)",
+      "te": "Lotus (te)",
+      "mr": "Lotus (mr)",
+      "bn": "Lotus (bn)",
+      "gu": "Lotus (gu)",
+      "ml": "Lotus (ml)",
+      "pa": "Lotus (pa)"
+    },
+    "scientific": "Lotus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Lotus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Lotus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "lotus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Jasmine (en)",
+      "hi": "Jasmine (hi)",
+      "kn": "Jasmine (kn)",
+      "ta": "Jasmine (ta)",
+      "te": "Jasmine (te)",
+      "mr": "Jasmine (mr)",
+      "bn": "Jasmine (bn)",
+      "gu": "Jasmine (gu)",
+      "ml": "Jasmine (ml)",
+      "pa": "Jasmine (pa)"
+    },
+    "scientific": "Jasmine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Jasmine"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Jasmine is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "jasmine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Marigold (en)",
+      "hi": "Marigold (hi)",
+      "kn": "Marigold (kn)",
+      "ta": "Marigold (ta)",
+      "te": "Marigold (te)",
+      "mr": "Marigold (mr)",
+      "bn": "Marigold (bn)",
+      "gu": "Marigold (gu)",
+      "ml": "Marigold (ml)",
+      "pa": "Marigold (pa)"
+    },
+    "scientific": "Marigold_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Marigold"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Marigold is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "marigold"
+    ]
+  },
+  {
+    "name": {
+      "en": "Hibiscus (en)",
+      "hi": "Hibiscus (hi)",
+      "kn": "Hibiscus (kn)",
+      "ta": "Hibiscus (ta)",
+      "te": "Hibiscus (te)",
+      "mr": "Hibiscus (mr)",
+      "bn": "Hibiscus (bn)",
+      "gu": "Hibiscus (gu)",
+      "ml": "Hibiscus (ml)",
+      "pa": "Hibiscus (pa)"
+    },
+    "scientific": "Hibiscus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Hibiscus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Hibiscus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "hibiscus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rose (en)",
+      "hi": "Rose (hi)",
+      "kn": "Rose (kn)",
+      "ta": "Rose (ta)",
+      "te": "Rose (te)",
+      "mr": "Rose (mr)",
+      "bn": "Rose (bn)",
+      "gu": "Rose (gu)",
+      "ml": "Rose (ml)",
+      "pa": "Rose (pa)"
+    },
+    "scientific": "Rose_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rose"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Rose is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rose"
+    ]
+  },
+  {
+    "name": {
+      "en": "Lotus (en)",
+      "hi": "Lotus (hi)",
+      "kn": "Lotus (kn)",
+      "ta": "Lotus (ta)",
+      "te": "Lotus (te)",
+      "mr": "Lotus (mr)",
+      "bn": "Lotus (bn)",
+      "gu": "Lotus (gu)",
+      "ml": "Lotus (ml)",
+      "pa": "Lotus (pa)"
+    },
+    "scientific": "Lotus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Lotus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Lotus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "lotus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Jasmine (en)",
+      "hi": "Jasmine (hi)",
+      "kn": "Jasmine (kn)",
+      "ta": "Jasmine (ta)",
+      "te": "Jasmine (te)",
+      "mr": "Jasmine (mr)",
+      "bn": "Jasmine (bn)",
+      "gu": "Jasmine (gu)",
+      "ml": "Jasmine (ml)",
+      "pa": "Jasmine (pa)"
+    },
+    "scientific": "Jasmine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Jasmine"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Jasmine is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "jasmine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Marigold (en)",
+      "hi": "Marigold (hi)",
+      "kn": "Marigold (kn)",
+      "ta": "Marigold (ta)",
+      "te": "Marigold (te)",
+      "mr": "Marigold (mr)",
+      "bn": "Marigold (bn)",
+      "gu": "Marigold (gu)",
+      "ml": "Marigold (ml)",
+      "pa": "Marigold (pa)"
+    },
+    "scientific": "Marigold_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Marigold"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Marigold is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "marigold"
+    ]
+  },
+  {
+    "name": {
+      "en": "Hibiscus (en)",
+      "hi": "Hibiscus (hi)",
+      "kn": "Hibiscus (kn)",
+      "ta": "Hibiscus (ta)",
+      "te": "Hibiscus (te)",
+      "mr": "Hibiscus (mr)",
+      "bn": "Hibiscus (bn)",
+      "gu": "Hibiscus (gu)",
+      "ml": "Hibiscus (ml)",
+      "pa": "Hibiscus (pa)"
+    },
+    "scientific": "Hibiscus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Hibiscus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Hibiscus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "hibiscus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rose (en)",
+      "hi": "Rose (hi)",
+      "kn": "Rose (kn)",
+      "ta": "Rose (ta)",
+      "te": "Rose (te)",
+      "mr": "Rose (mr)",
+      "bn": "Rose (bn)",
+      "gu": "Rose (gu)",
+      "ml": "Rose (ml)",
+      "pa": "Rose (pa)"
+    },
+    "scientific": "Rose_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rose"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Rose is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rose"
+    ]
+  },
+  {
+    "name": {
+      "en": "Lotus (en)",
+      "hi": "Lotus (hi)",
+      "kn": "Lotus (kn)",
+      "ta": "Lotus (ta)",
+      "te": "Lotus (te)",
+      "mr": "Lotus (mr)",
+      "bn": "Lotus (bn)",
+      "gu": "Lotus (gu)",
+      "ml": "Lotus (ml)",
+      "pa": "Lotus (pa)"
+    },
+    "scientific": "Lotus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Lotus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Lotus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "lotus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Jasmine (en)",
+      "hi": "Jasmine (hi)",
+      "kn": "Jasmine (kn)",
+      "ta": "Jasmine (ta)",
+      "te": "Jasmine (te)",
+      "mr": "Jasmine (mr)",
+      "bn": "Jasmine (bn)",
+      "gu": "Jasmine (gu)",
+      "ml": "Jasmine (ml)",
+      "pa": "Jasmine (pa)"
+    },
+    "scientific": "Jasmine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Jasmine"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Jasmine is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "jasmine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Marigold (en)",
+      "hi": "Marigold (hi)",
+      "kn": "Marigold (kn)",
+      "ta": "Marigold (ta)",
+      "te": "Marigold (te)",
+      "mr": "Marigold (mr)",
+      "bn": "Marigold (bn)",
+      "gu": "Marigold (gu)",
+      "ml": "Marigold (ml)",
+      "pa": "Marigold (pa)"
+    },
+    "scientific": "Marigold_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Marigold"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Marigold is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "marigold"
+    ]
+  },
+  {
+    "name": {
+      "en": "Hibiscus (en)",
+      "hi": "Hibiscus (hi)",
+      "kn": "Hibiscus (kn)",
+      "ta": "Hibiscus (ta)",
+      "te": "Hibiscus (te)",
+      "mr": "Hibiscus (mr)",
+      "bn": "Hibiscus (bn)",
+      "gu": "Hibiscus (gu)",
+      "ml": "Hibiscus (ml)",
+      "pa": "Hibiscus (pa)"
+    },
+    "scientific": "Hibiscus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Hibiscus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Hibiscus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "hibiscus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rose (en)",
+      "hi": "Rose (hi)",
+      "kn": "Rose (kn)",
+      "ta": "Rose (ta)",
+      "te": "Rose (te)",
+      "mr": "Rose (mr)",
+      "bn": "Rose (bn)",
+      "gu": "Rose (gu)",
+      "ml": "Rose (ml)",
+      "pa": "Rose (pa)"
+    },
+    "scientific": "Rose_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rose"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Rose is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rose"
+    ]
+  },
+  {
+    "name": {
+      "en": "Lotus (en)",
+      "hi": "Lotus (hi)",
+      "kn": "Lotus (kn)",
+      "ta": "Lotus (ta)",
+      "te": "Lotus (te)",
+      "mr": "Lotus (mr)",
+      "bn": "Lotus (bn)",
+      "gu": "Lotus (gu)",
+      "ml": "Lotus (ml)",
+      "pa": "Lotus (pa)"
+    },
+    "scientific": "Lotus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Lotus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Lotus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "lotus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Jasmine (en)",
+      "hi": "Jasmine (hi)",
+      "kn": "Jasmine (kn)",
+      "ta": "Jasmine (ta)",
+      "te": "Jasmine (te)",
+      "mr": "Jasmine (mr)",
+      "bn": "Jasmine (bn)",
+      "gu": "Jasmine (gu)",
+      "ml": "Jasmine (ml)",
+      "pa": "Jasmine (pa)"
+    },
+    "scientific": "Jasmine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Jasmine"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Jasmine is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "jasmine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Marigold (en)",
+      "hi": "Marigold (hi)",
+      "kn": "Marigold (kn)",
+      "ta": "Marigold (ta)",
+      "te": "Marigold (te)",
+      "mr": "Marigold (mr)",
+      "bn": "Marigold (bn)",
+      "gu": "Marigold (gu)",
+      "ml": "Marigold (ml)",
+      "pa": "Marigold (pa)"
+    },
+    "scientific": "Marigold_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Marigold"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Marigold is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "marigold"
+    ]
+  },
+  {
+    "name": {
+      "en": "Hibiscus (en)",
+      "hi": "Hibiscus (hi)",
+      "kn": "Hibiscus (kn)",
+      "ta": "Hibiscus (ta)",
+      "te": "Hibiscus (te)",
+      "mr": "Hibiscus (mr)",
+      "bn": "Hibiscus (bn)",
+      "gu": "Hibiscus (gu)",
+      "ml": "Hibiscus (ml)",
+      "pa": "Hibiscus (pa)"
+    },
+    "scientific": "Hibiscus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Hibiscus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Hibiscus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "hibiscus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rose (en)",
+      "hi": "Rose (hi)",
+      "kn": "Rose (kn)",
+      "ta": "Rose (ta)",
+      "te": "Rose (te)",
+      "mr": "Rose (mr)",
+      "bn": "Rose (bn)",
+      "gu": "Rose (gu)",
+      "ml": "Rose (ml)",
+      "pa": "Rose (pa)"
+    },
+    "scientific": "Rose_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rose"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Rose is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rose"
+    ]
+  },
+  {
+    "name": {
+      "en": "Lotus (en)",
+      "hi": "Lotus (hi)",
+      "kn": "Lotus (kn)",
+      "ta": "Lotus (ta)",
+      "te": "Lotus (te)",
+      "mr": "Lotus (mr)",
+      "bn": "Lotus (bn)",
+      "gu": "Lotus (gu)",
+      "ml": "Lotus (ml)",
+      "pa": "Lotus (pa)"
+    },
+    "scientific": "Lotus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Lotus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Lotus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "lotus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Jasmine (en)",
+      "hi": "Jasmine (hi)",
+      "kn": "Jasmine (kn)",
+      "ta": "Jasmine (ta)",
+      "te": "Jasmine (te)",
+      "mr": "Jasmine (mr)",
+      "bn": "Jasmine (bn)",
+      "gu": "Jasmine (gu)",
+      "ml": "Jasmine (ml)",
+      "pa": "Jasmine (pa)"
+    },
+    "scientific": "Jasmine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Jasmine"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Jasmine is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "jasmine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Marigold (en)",
+      "hi": "Marigold (hi)",
+      "kn": "Marigold (kn)",
+      "ta": "Marigold (ta)",
+      "te": "Marigold (te)",
+      "mr": "Marigold (mr)",
+      "bn": "Marigold (bn)",
+      "gu": "Marigold (gu)",
+      "ml": "Marigold (ml)",
+      "pa": "Marigold (pa)"
+    },
+    "scientific": "Marigold_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Marigold"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Marigold is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "marigold"
+    ]
+  },
+  {
+    "name": {
+      "en": "Hibiscus (en)",
+      "hi": "Hibiscus (hi)",
+      "kn": "Hibiscus (kn)",
+      "ta": "Hibiscus (ta)",
+      "te": "Hibiscus (te)",
+      "mr": "Hibiscus (mr)",
+      "bn": "Hibiscus (bn)",
+      "gu": "Hibiscus (gu)",
+      "ml": "Hibiscus (ml)",
+      "pa": "Hibiscus (pa)"
+    },
+    "scientific": "Hibiscus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Hibiscus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Hibiscus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "hibiscus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rose (en)",
+      "hi": "Rose (hi)",
+      "kn": "Rose (kn)",
+      "ta": "Rose (ta)",
+      "te": "Rose (te)",
+      "mr": "Rose (mr)",
+      "bn": "Rose (bn)",
+      "gu": "Rose (gu)",
+      "ml": "Rose (ml)",
+      "pa": "Rose (pa)"
+    },
+    "scientific": "Rose_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rose"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Rose is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rose"
+    ]
+  },
+  {
+    "name": {
+      "en": "Lotus (en)",
+      "hi": "Lotus (hi)",
+      "kn": "Lotus (kn)",
+      "ta": "Lotus (ta)",
+      "te": "Lotus (te)",
+      "mr": "Lotus (mr)",
+      "bn": "Lotus (bn)",
+      "gu": "Lotus (gu)",
+      "ml": "Lotus (ml)",
+      "pa": "Lotus (pa)"
+    },
+    "scientific": "Lotus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Lotus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Lotus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "lotus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Jasmine (en)",
+      "hi": "Jasmine (hi)",
+      "kn": "Jasmine (kn)",
+      "ta": "Jasmine (ta)",
+      "te": "Jasmine (te)",
+      "mr": "Jasmine (mr)",
+      "bn": "Jasmine (bn)",
+      "gu": "Jasmine (gu)",
+      "ml": "Jasmine (ml)",
+      "pa": "Jasmine (pa)"
+    },
+    "scientific": "Jasmine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Jasmine"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Jasmine is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "jasmine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Marigold (en)",
+      "hi": "Marigold (hi)",
+      "kn": "Marigold (kn)",
+      "ta": "Marigold (ta)",
+      "te": "Marigold (te)",
+      "mr": "Marigold (mr)",
+      "bn": "Marigold (bn)",
+      "gu": "Marigold (gu)",
+      "ml": "Marigold (ml)",
+      "pa": "Marigold (pa)"
+    },
+    "scientific": "Marigold_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Marigold"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Marigold is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "marigold"
+    ]
+  },
+  {
+    "name": {
+      "en": "Hibiscus (en)",
+      "hi": "Hibiscus (hi)",
+      "kn": "Hibiscus (kn)",
+      "ta": "Hibiscus (ta)",
+      "te": "Hibiscus (te)",
+      "mr": "Hibiscus (mr)",
+      "bn": "Hibiscus (bn)",
+      "gu": "Hibiscus (gu)",
+      "ml": "Hibiscus (ml)",
+      "pa": "Hibiscus (pa)"
+    },
+    "scientific": "Hibiscus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Hibiscus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Hibiscus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "hibiscus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rose (en)",
+      "hi": "Rose (hi)",
+      "kn": "Rose (kn)",
+      "ta": "Rose (ta)",
+      "te": "Rose (te)",
+      "mr": "Rose (mr)",
+      "bn": "Rose (bn)",
+      "gu": "Rose (gu)",
+      "ml": "Rose (ml)",
+      "pa": "Rose (pa)"
+    },
+    "scientific": "Rose_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rose"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Rose is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rose"
+    ]
+  },
+  {
+    "name": {
+      "en": "Lotus (en)",
+      "hi": "Lotus (hi)",
+      "kn": "Lotus (kn)",
+      "ta": "Lotus (ta)",
+      "te": "Lotus (te)",
+      "mr": "Lotus (mr)",
+      "bn": "Lotus (bn)",
+      "gu": "Lotus (gu)",
+      "ml": "Lotus (ml)",
+      "pa": "Lotus (pa)"
+    },
+    "scientific": "Lotus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Lotus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Lotus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "lotus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Jasmine (en)",
+      "hi": "Jasmine (hi)",
+      "kn": "Jasmine (kn)",
+      "ta": "Jasmine (ta)",
+      "te": "Jasmine (te)",
+      "mr": "Jasmine (mr)",
+      "bn": "Jasmine (bn)",
+      "gu": "Jasmine (gu)",
+      "ml": "Jasmine (ml)",
+      "pa": "Jasmine (pa)"
+    },
+    "scientific": "Jasmine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Jasmine"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Jasmine is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "jasmine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Marigold (en)",
+      "hi": "Marigold (hi)",
+      "kn": "Marigold (kn)",
+      "ta": "Marigold (ta)",
+      "te": "Marigold (te)",
+      "mr": "Marigold (mr)",
+      "bn": "Marigold (bn)",
+      "gu": "Marigold (gu)",
+      "ml": "Marigold (ml)",
+      "pa": "Marigold (pa)"
+    },
+    "scientific": "Marigold_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Marigold"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Marigold is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "marigold"
+    ]
+  },
+  {
+    "name": {
+      "en": "Hibiscus (en)",
+      "hi": "Hibiscus (hi)",
+      "kn": "Hibiscus (kn)",
+      "ta": "Hibiscus (ta)",
+      "te": "Hibiscus (te)",
+      "mr": "Hibiscus (mr)",
+      "bn": "Hibiscus (bn)",
+      "gu": "Hibiscus (gu)",
+      "ml": "Hibiscus (ml)",
+      "pa": "Hibiscus (pa)"
+    },
+    "scientific": "Hibiscus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Hibiscus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Hibiscus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "hibiscus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rose (en)",
+      "hi": "Rose (hi)",
+      "kn": "Rose (kn)",
+      "ta": "Rose (ta)",
+      "te": "Rose (te)",
+      "mr": "Rose (mr)",
+      "bn": "Rose (bn)",
+      "gu": "Rose (gu)",
+      "ml": "Rose (ml)",
+      "pa": "Rose (pa)"
+    },
+    "scientific": "Rose_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rose"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Rose is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rose"
+    ]
+  },
+  {
+    "name": {
+      "en": "Lotus (en)",
+      "hi": "Lotus (hi)",
+      "kn": "Lotus (kn)",
+      "ta": "Lotus (ta)",
+      "te": "Lotus (te)",
+      "mr": "Lotus (mr)",
+      "bn": "Lotus (bn)",
+      "gu": "Lotus (gu)",
+      "ml": "Lotus (ml)",
+      "pa": "Lotus (pa)"
+    },
+    "scientific": "Lotus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Lotus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Lotus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "lotus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Jasmine (en)",
+      "hi": "Jasmine (hi)",
+      "kn": "Jasmine (kn)",
+      "ta": "Jasmine (ta)",
+      "te": "Jasmine (te)",
+      "mr": "Jasmine (mr)",
+      "bn": "Jasmine (bn)",
+      "gu": "Jasmine (gu)",
+      "ml": "Jasmine (ml)",
+      "pa": "Jasmine (pa)"
+    },
+    "scientific": "Jasmine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Jasmine"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Jasmine is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "jasmine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Marigold (en)",
+      "hi": "Marigold (hi)",
+      "kn": "Marigold (kn)",
+      "ta": "Marigold (ta)",
+      "te": "Marigold (te)",
+      "mr": "Marigold (mr)",
+      "bn": "Marigold (bn)",
+      "gu": "Marigold (gu)",
+      "ml": "Marigold (ml)",
+      "pa": "Marigold (pa)"
+    },
+    "scientific": "Marigold_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Marigold"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Marigold is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "marigold"
+    ]
+  },
+  {
+    "name": {
+      "en": "Hibiscus (en)",
+      "hi": "Hibiscus (hi)",
+      "kn": "Hibiscus (kn)",
+      "ta": "Hibiscus (ta)",
+      "te": "Hibiscus (te)",
+      "mr": "Hibiscus (mr)",
+      "bn": "Hibiscus (bn)",
+      "gu": "Hibiscus (gu)",
+      "ml": "Hibiscus (ml)",
+      "pa": "Hibiscus (pa)"
+    },
+    "scientific": "Hibiscus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Hibiscus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Hibiscus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "hibiscus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rose (en)",
+      "hi": "Rose (hi)",
+      "kn": "Rose (kn)",
+      "ta": "Rose (ta)",
+      "te": "Rose (te)",
+      "mr": "Rose (mr)",
+      "bn": "Rose (bn)",
+      "gu": "Rose (gu)",
+      "ml": "Rose (ml)",
+      "pa": "Rose (pa)"
+    },
+    "scientific": "Rose_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rose"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Rose is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rose"
+    ]
+  },
+  {
+    "name": {
+      "en": "Lotus (en)",
+      "hi": "Lotus (hi)",
+      "kn": "Lotus (kn)",
+      "ta": "Lotus (ta)",
+      "te": "Lotus (te)",
+      "mr": "Lotus (mr)",
+      "bn": "Lotus (bn)",
+      "gu": "Lotus (gu)",
+      "ml": "Lotus (ml)",
+      "pa": "Lotus (pa)"
+    },
+    "scientific": "Lotus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Lotus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Lotus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "lotus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Jasmine (en)",
+      "hi": "Jasmine (hi)",
+      "kn": "Jasmine (kn)",
+      "ta": "Jasmine (ta)",
+      "te": "Jasmine (te)",
+      "mr": "Jasmine (mr)",
+      "bn": "Jasmine (bn)",
+      "gu": "Jasmine (gu)",
+      "ml": "Jasmine (ml)",
+      "pa": "Jasmine (pa)"
+    },
+    "scientific": "Jasmine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Jasmine"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Jasmine is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "jasmine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Marigold (en)",
+      "hi": "Marigold (hi)",
+      "kn": "Marigold (kn)",
+      "ta": "Marigold (ta)",
+      "te": "Marigold (te)",
+      "mr": "Marigold (mr)",
+      "bn": "Marigold (bn)",
+      "gu": "Marigold (gu)",
+      "ml": "Marigold (ml)",
+      "pa": "Marigold (pa)"
+    },
+    "scientific": "Marigold_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Marigold"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Marigold is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "marigold"
+    ]
+  },
+  {
+    "name": {
+      "en": "Hibiscus (en)",
+      "hi": "Hibiscus (hi)",
+      "kn": "Hibiscus (kn)",
+      "ta": "Hibiscus (ta)",
+      "te": "Hibiscus (te)",
+      "mr": "Hibiscus (mr)",
+      "bn": "Hibiscus (bn)",
+      "gu": "Hibiscus (gu)",
+      "ml": "Hibiscus (ml)",
+      "pa": "Hibiscus (pa)"
+    },
+    "scientific": "Hibiscus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Hibiscus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Hibiscus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "hibiscus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rose (en)",
+      "hi": "Rose (hi)",
+      "kn": "Rose (kn)",
+      "ta": "Rose (ta)",
+      "te": "Rose (te)",
+      "mr": "Rose (mr)",
+      "bn": "Rose (bn)",
+      "gu": "Rose (gu)",
+      "ml": "Rose (ml)",
+      "pa": "Rose (pa)"
+    },
+    "scientific": "Rose_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rose"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Rose is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rose"
+    ]
+  },
+  {
+    "name": {
+      "en": "Lotus (en)",
+      "hi": "Lotus (hi)",
+      "kn": "Lotus (kn)",
+      "ta": "Lotus (ta)",
+      "te": "Lotus (te)",
+      "mr": "Lotus (mr)",
+      "bn": "Lotus (bn)",
+      "gu": "Lotus (gu)",
+      "ml": "Lotus (ml)",
+      "pa": "Lotus (pa)"
+    },
+    "scientific": "Lotus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Lotus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Lotus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "lotus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Jasmine (en)",
+      "hi": "Jasmine (hi)",
+      "kn": "Jasmine (kn)",
+      "ta": "Jasmine (ta)",
+      "te": "Jasmine (te)",
+      "mr": "Jasmine (mr)",
+      "bn": "Jasmine (bn)",
+      "gu": "Jasmine (gu)",
+      "ml": "Jasmine (ml)",
+      "pa": "Jasmine (pa)"
+    },
+    "scientific": "Jasmine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Jasmine"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Jasmine is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "jasmine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Marigold (en)",
+      "hi": "Marigold (hi)",
+      "kn": "Marigold (kn)",
+      "ta": "Marigold (ta)",
+      "te": "Marigold (te)",
+      "mr": "Marigold (mr)",
+      "bn": "Marigold (bn)",
+      "gu": "Marigold (gu)",
+      "ml": "Marigold (ml)",
+      "pa": "Marigold (pa)"
+    },
+    "scientific": "Marigold_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Marigold"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Marigold is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "marigold"
+    ]
+  },
+  {
+    "name": {
+      "en": "Hibiscus (en)",
+      "hi": "Hibiscus (hi)",
+      "kn": "Hibiscus (kn)",
+      "ta": "Hibiscus (ta)",
+      "te": "Hibiscus (te)",
+      "mr": "Hibiscus (mr)",
+      "bn": "Hibiscus (bn)",
+      "gu": "Hibiscus (gu)",
+      "ml": "Hibiscus (ml)",
+      "pa": "Hibiscus (pa)"
+    },
+    "scientific": "Hibiscus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Hibiscus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Hibiscus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "hibiscus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rose (en)",
+      "hi": "Rose (hi)",
+      "kn": "Rose (kn)",
+      "ta": "Rose (ta)",
+      "te": "Rose (te)",
+      "mr": "Rose (mr)",
+      "bn": "Rose (bn)",
+      "gu": "Rose (gu)",
+      "ml": "Rose (ml)",
+      "pa": "Rose (pa)"
+    },
+    "scientific": "Rose_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rose"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Rose is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rose"
+    ]
+  },
+  {
+    "name": {
+      "en": "Lotus (en)",
+      "hi": "Lotus (hi)",
+      "kn": "Lotus (kn)",
+      "ta": "Lotus (ta)",
+      "te": "Lotus (te)",
+      "mr": "Lotus (mr)",
+      "bn": "Lotus (bn)",
+      "gu": "Lotus (gu)",
+      "ml": "Lotus (ml)",
+      "pa": "Lotus (pa)"
+    },
+    "scientific": "Lotus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Lotus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Lotus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "lotus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Jasmine (en)",
+      "hi": "Jasmine (hi)",
+      "kn": "Jasmine (kn)",
+      "ta": "Jasmine (ta)",
+      "te": "Jasmine (te)",
+      "mr": "Jasmine (mr)",
+      "bn": "Jasmine (bn)",
+      "gu": "Jasmine (gu)",
+      "ml": "Jasmine (ml)",
+      "pa": "Jasmine (pa)"
+    },
+    "scientific": "Jasmine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Jasmine"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Jasmine is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "jasmine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Marigold (en)",
+      "hi": "Marigold (hi)",
+      "kn": "Marigold (kn)",
+      "ta": "Marigold (ta)",
+      "te": "Marigold (te)",
+      "mr": "Marigold (mr)",
+      "bn": "Marigold (bn)",
+      "gu": "Marigold (gu)",
+      "ml": "Marigold (ml)",
+      "pa": "Marigold (pa)"
+    },
+    "scientific": "Marigold_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Marigold"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Marigold is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "marigold"
+    ]
+  },
+  {
+    "name": {
+      "en": "Hibiscus (en)",
+      "hi": "Hibiscus (hi)",
+      "kn": "Hibiscus (kn)",
+      "ta": "Hibiscus (ta)",
+      "te": "Hibiscus (te)",
+      "mr": "Hibiscus (mr)",
+      "bn": "Hibiscus (bn)",
+      "gu": "Hibiscus (gu)",
+      "ml": "Hibiscus (ml)",
+      "pa": "Hibiscus (pa)"
+    },
+    "scientific": "Hibiscus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Hibiscus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Hibiscus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "hibiscus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rose (en)",
+      "hi": "Rose (hi)",
+      "kn": "Rose (kn)",
+      "ta": "Rose (ta)",
+      "te": "Rose (te)",
+      "mr": "Rose (mr)",
+      "bn": "Rose (bn)",
+      "gu": "Rose (gu)",
+      "ml": "Rose (ml)",
+      "pa": "Rose (pa)"
+    },
+    "scientific": "Rose_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rose"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Rose is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rose"
+    ]
+  },
+  {
+    "name": {
+      "en": "Lotus (en)",
+      "hi": "Lotus (hi)",
+      "kn": "Lotus (kn)",
+      "ta": "Lotus (ta)",
+      "te": "Lotus (te)",
+      "mr": "Lotus (mr)",
+      "bn": "Lotus (bn)",
+      "gu": "Lotus (gu)",
+      "ml": "Lotus (ml)",
+      "pa": "Lotus (pa)"
+    },
+    "scientific": "Lotus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Lotus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Lotus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "lotus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Jasmine (en)",
+      "hi": "Jasmine (hi)",
+      "kn": "Jasmine (kn)",
+      "ta": "Jasmine (ta)",
+      "te": "Jasmine (te)",
+      "mr": "Jasmine (mr)",
+      "bn": "Jasmine (bn)",
+      "gu": "Jasmine (gu)",
+      "ml": "Jasmine (ml)",
+      "pa": "Jasmine (pa)"
+    },
+    "scientific": "Jasmine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Jasmine"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Jasmine is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "jasmine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Marigold (en)",
+      "hi": "Marigold (hi)",
+      "kn": "Marigold (kn)",
+      "ta": "Marigold (ta)",
+      "te": "Marigold (te)",
+      "mr": "Marigold (mr)",
+      "bn": "Marigold (bn)",
+      "gu": "Marigold (gu)",
+      "ml": "Marigold (ml)",
+      "pa": "Marigold (pa)"
+    },
+    "scientific": "Marigold_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Marigold"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Marigold is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "marigold"
+    ]
+  },
+  {
+    "name": {
+      "en": "Hibiscus (en)",
+      "hi": "Hibiscus (hi)",
+      "kn": "Hibiscus (kn)",
+      "ta": "Hibiscus (ta)",
+      "te": "Hibiscus (te)",
+      "mr": "Hibiscus (mr)",
+      "bn": "Hibiscus (bn)",
+      "gu": "Hibiscus (gu)",
+      "ml": "Hibiscus (ml)",
+      "pa": "Hibiscus (pa)"
+    },
+    "scientific": "Hibiscus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Hibiscus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Hibiscus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "hibiscus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rose (en)",
+      "hi": "Rose (hi)",
+      "kn": "Rose (kn)",
+      "ta": "Rose (ta)",
+      "te": "Rose (te)",
+      "mr": "Rose (mr)",
+      "bn": "Rose (bn)",
+      "gu": "Rose (gu)",
+      "ml": "Rose (ml)",
+      "pa": "Rose (pa)"
+    },
+    "scientific": "Rose_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rose"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Rose is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rose"
+    ]
+  },
+  {
+    "name": {
+      "en": "Lotus (en)",
+      "hi": "Lotus (hi)",
+      "kn": "Lotus (kn)",
+      "ta": "Lotus (ta)",
+      "te": "Lotus (te)",
+      "mr": "Lotus (mr)",
+      "bn": "Lotus (bn)",
+      "gu": "Lotus (gu)",
+      "ml": "Lotus (ml)",
+      "pa": "Lotus (pa)"
+    },
+    "scientific": "Lotus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Lotus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Lotus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "lotus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Jasmine (en)",
+      "hi": "Jasmine (hi)",
+      "kn": "Jasmine (kn)",
+      "ta": "Jasmine (ta)",
+      "te": "Jasmine (te)",
+      "mr": "Jasmine (mr)",
+      "bn": "Jasmine (bn)",
+      "gu": "Jasmine (gu)",
+      "ml": "Jasmine (ml)",
+      "pa": "Jasmine (pa)"
+    },
+    "scientific": "Jasmine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Jasmine"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Jasmine is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "jasmine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Marigold (en)",
+      "hi": "Marigold (hi)",
+      "kn": "Marigold (kn)",
+      "ta": "Marigold (ta)",
+      "te": "Marigold (te)",
+      "mr": "Marigold (mr)",
+      "bn": "Marigold (bn)",
+      "gu": "Marigold (gu)",
+      "ml": "Marigold (ml)",
+      "pa": "Marigold (pa)"
+    },
+    "scientific": "Marigold_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Marigold"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Marigold is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "marigold"
+    ]
+  },
+  {
+    "name": {
+      "en": "Hibiscus (en)",
+      "hi": "Hibiscus (hi)",
+      "kn": "Hibiscus (kn)",
+      "ta": "Hibiscus (ta)",
+      "te": "Hibiscus (te)",
+      "mr": "Hibiscus (mr)",
+      "bn": "Hibiscus (bn)",
+      "gu": "Hibiscus (gu)",
+      "ml": "Hibiscus (ml)",
+      "pa": "Hibiscus (pa)"
+    },
+    "scientific": "Hibiscus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Hibiscus"
+    },
+    "category": "Flowers",
+    "description": {
+      "en": "Hibiscus is widely used in India under flowers category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "hibiscus"
+    ]
+  }
+]

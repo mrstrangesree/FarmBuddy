@@ -1,0 +1,6302 @@
+[
+  {
+    "name": {
+      "en": "Turmeric (en)",
+      "hi": "Turmeric (hi)",
+      "kn": "Turmeric (kn)",
+      "ta": "Turmeric (ta)",
+      "te": "Turmeric (te)",
+      "mr": "Turmeric (mr)",
+      "bn": "Turmeric (bn)",
+      "gu": "Turmeric (gu)",
+      "ml": "Turmeric (ml)",
+      "pa": "Turmeric (pa)"
+    },
+    "scientific": "Turmeric_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Turmeric"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Turmeric is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "turmeric"
+    ]
+  },
+  {
+    "name": {
+      "en": "Black Pepper (en)",
+      "hi": "Black Pepper (hi)",
+      "kn": "Black Pepper (kn)",
+      "ta": "Black Pepper (ta)",
+      "te": "Black Pepper (te)",
+      "mr": "Black Pepper (mr)",
+      "bn": "Black Pepper (bn)",
+      "gu": "Black Pepper (gu)",
+      "ml": "Black Pepper (ml)",
+      "pa": "Black Pepper (pa)"
+    },
+    "scientific": "Black_Pepper_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Black"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Black Pepper is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "black pepper"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cardamom (en)",
+      "hi": "Cardamom (hi)",
+      "kn": "Cardamom (kn)",
+      "ta": "Cardamom (ta)",
+      "te": "Cardamom (te)",
+      "mr": "Cardamom (mr)",
+      "bn": "Cardamom (bn)",
+      "gu": "Cardamom (gu)",
+      "ml": "Cardamom (ml)",
+      "pa": "Cardamom (pa)"
+    },
+    "scientific": "Cardamom_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cardamom"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cardamom is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cardamom"
+    ]
+  },
+  {
+    "name": {
+      "en": "Clove (en)",
+      "hi": "Clove (hi)",
+      "kn": "Clove (kn)",
+      "ta": "Clove (ta)",
+      "te": "Clove (te)",
+      "mr": "Clove (mr)",
+      "bn": "Clove (bn)",
+      "gu": "Clove (gu)",
+      "ml": "Clove (ml)",
+      "pa": "Clove (pa)"
+    },
+    "scientific": "Clove_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Clove"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Clove is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "clove"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cumin (en)",
+      "hi": "Cumin (hi)",
+      "kn": "Cumin (kn)",
+      "ta": "Cumin (ta)",
+      "te": "Cumin (te)",
+      "mr": "Cumin (mr)",
+      "bn": "Cumin (bn)",
+      "gu": "Cumin (gu)",
+      "ml": "Cumin (ml)",
+      "pa": "Cumin (pa)"
+    },
+    "scientific": "Cumin_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cumin"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cumin is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cumin"
+    ]
+  },
+  {
+    "name": {
+      "en": "Turmeric (en)",
+      "hi": "Turmeric (hi)",
+      "kn": "Turmeric (kn)",
+      "ta": "Turmeric (ta)",
+      "te": "Turmeric (te)",
+      "mr": "Turmeric (mr)",
+      "bn": "Turmeric (bn)",
+      "gu": "Turmeric (gu)",
+      "ml": "Turmeric (ml)",
+      "pa": "Turmeric (pa)"
+    },
+    "scientific": "Turmeric_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Turmeric"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Turmeric is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "turmeric"
+    ]
+  },
+  {
+    "name": {
+      "en": "Black Pepper (en)",
+      "hi": "Black Pepper (hi)",
+      "kn": "Black Pepper (kn)",
+      "ta": "Black Pepper (ta)",
+      "te": "Black Pepper (te)",
+      "mr": "Black Pepper (mr)",
+      "bn": "Black Pepper (bn)",
+      "gu": "Black Pepper (gu)",
+      "ml": "Black Pepper (ml)",
+      "pa": "Black Pepper (pa)"
+    },
+    "scientific": "Black_Pepper_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Black"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Black Pepper is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "black pepper"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cardamom (en)",
+      "hi": "Cardamom (hi)",
+      "kn": "Cardamom (kn)",
+      "ta": "Cardamom (ta)",
+      "te": "Cardamom (te)",
+      "mr": "Cardamom (mr)",
+      "bn": "Cardamom (bn)",
+      "gu": "Cardamom (gu)",
+      "ml": "Cardamom (ml)",
+      "pa": "Cardamom (pa)"
+    },
+    "scientific": "Cardamom_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cardamom"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cardamom is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cardamom"
+    ]
+  },
+  {
+    "name": {
+      "en": "Clove (en)",
+      "hi": "Clove (hi)",
+      "kn": "Clove (kn)",
+      "ta": "Clove (ta)",
+      "te": "Clove (te)",
+      "mr": "Clove (mr)",
+      "bn": "Clove (bn)",
+      "gu": "Clove (gu)",
+      "ml": "Clove (ml)",
+      "pa": "Clove (pa)"
+    },
+    "scientific": "Clove_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Clove"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Clove is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "clove"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cumin (en)",
+      "hi": "Cumin (hi)",
+      "kn": "Cumin (kn)",
+      "ta": "Cumin (ta)",
+      "te": "Cumin (te)",
+      "mr": "Cumin (mr)",
+      "bn": "Cumin (bn)",
+      "gu": "Cumin (gu)",
+      "ml": "Cumin (ml)",
+      "pa": "Cumin (pa)"
+    },
+    "scientific": "Cumin_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cumin"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cumin is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cumin"
+    ]
+  },
+  {
+    "name": {
+      "en": "Turmeric (en)",
+      "hi": "Turmeric (hi)",
+      "kn": "Turmeric (kn)",
+      "ta": "Turmeric (ta)",
+      "te": "Turmeric (te)",
+      "mr": "Turmeric (mr)",
+      "bn": "Turmeric (bn)",
+      "gu": "Turmeric (gu)",
+      "ml": "Turmeric (ml)",
+      "pa": "Turmeric (pa)"
+    },
+    "scientific": "Turmeric_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Turmeric"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Turmeric is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "turmeric"
+    ]
+  },
+  {
+    "name": {
+      "en": "Black Pepper (en)",
+      "hi": "Black Pepper (hi)",
+      "kn": "Black Pepper (kn)",
+      "ta": "Black Pepper (ta)",
+      "te": "Black Pepper (te)",
+      "mr": "Black Pepper (mr)",
+      "bn": "Black Pepper (bn)",
+      "gu": "Black Pepper (gu)",
+      "ml": "Black Pepper (ml)",
+      "pa": "Black Pepper (pa)"
+    },
+    "scientific": "Black_Pepper_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Black"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Black Pepper is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "black pepper"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cardamom (en)",
+      "hi": "Cardamom (hi)",
+      "kn": "Cardamom (kn)",
+      "ta": "Cardamom (ta)",
+      "te": "Cardamom (te)",
+      "mr": "Cardamom (mr)",
+      "bn": "Cardamom (bn)",
+      "gu": "Cardamom (gu)",
+      "ml": "Cardamom (ml)",
+      "pa": "Cardamom (pa)"
+    },
+    "scientific": "Cardamom_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cardamom"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cardamom is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cardamom"
+    ]
+  },
+  {
+    "name": {
+      "en": "Clove (en)",
+      "hi": "Clove (hi)",
+      "kn": "Clove (kn)",
+      "ta": "Clove (ta)",
+      "te": "Clove (te)",
+      "mr": "Clove (mr)",
+      "bn": "Clove (bn)",
+      "gu": "Clove (gu)",
+      "ml": "Clove (ml)",
+      "pa": "Clove (pa)"
+    },
+    "scientific": "Clove_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Clove"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Clove is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "clove"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cumin (en)",
+      "hi": "Cumin (hi)",
+      "kn": "Cumin (kn)",
+      "ta": "Cumin (ta)",
+      "te": "Cumin (te)",
+      "mr": "Cumin (mr)",
+      "bn": "Cumin (bn)",
+      "gu": "Cumin (gu)",
+      "ml": "Cumin (ml)",
+      "pa": "Cumin (pa)"
+    },
+    "scientific": "Cumin_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cumin"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cumin is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cumin"
+    ]
+  },
+  {
+    "name": {
+      "en": "Turmeric (en)",
+      "hi": "Turmeric (hi)",
+      "kn": "Turmeric (kn)",
+      "ta": "Turmeric (ta)",
+      "te": "Turmeric (te)",
+      "mr": "Turmeric (mr)",
+      "bn": "Turmeric (bn)",
+      "gu": "Turmeric (gu)",
+      "ml": "Turmeric (ml)",
+      "pa": "Turmeric (pa)"
+    },
+    "scientific": "Turmeric_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Turmeric"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Turmeric is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "turmeric"
+    ]
+  },
+  {
+    "name": {
+      "en": "Black Pepper (en)",
+      "hi": "Black Pepper (hi)",
+      "kn": "Black Pepper (kn)",
+      "ta": "Black Pepper (ta)",
+      "te": "Black Pepper (te)",
+      "mr": "Black Pepper (mr)",
+      "bn": "Black Pepper (bn)",
+      "gu": "Black Pepper (gu)",
+      "ml": "Black Pepper (ml)",
+      "pa": "Black Pepper (pa)"
+    },
+    "scientific": "Black_Pepper_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Black"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Black Pepper is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "black pepper"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cardamom (en)",
+      "hi": "Cardamom (hi)",
+      "kn": "Cardamom (kn)",
+      "ta": "Cardamom (ta)",
+      "te": "Cardamom (te)",
+      "mr": "Cardamom (mr)",
+      "bn": "Cardamom (bn)",
+      "gu": "Cardamom (gu)",
+      "ml": "Cardamom (ml)",
+      "pa": "Cardamom (pa)"
+    },
+    "scientific": "Cardamom_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cardamom"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cardamom is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cardamom"
+    ]
+  },
+  {
+    "name": {
+      "en": "Clove (en)",
+      "hi": "Clove (hi)",
+      "kn": "Clove (kn)",
+      "ta": "Clove (ta)",
+      "te": "Clove (te)",
+      "mr": "Clove (mr)",
+      "bn": "Clove (bn)",
+      "gu": "Clove (gu)",
+      "ml": "Clove (ml)",
+      "pa": "Clove (pa)"
+    },
+    "scientific": "Clove_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Clove"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Clove is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "clove"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cumin (en)",
+      "hi": "Cumin (hi)",
+      "kn": "Cumin (kn)",
+      "ta": "Cumin (ta)",
+      "te": "Cumin (te)",
+      "mr": "Cumin (mr)",
+      "bn": "Cumin (bn)",
+      "gu": "Cumin (gu)",
+      "ml": "Cumin (ml)",
+      "pa": "Cumin (pa)"
+    },
+    "scientific": "Cumin_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cumin"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cumin is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cumin"
+    ]
+  },
+  {
+    "name": {
+      "en": "Turmeric (en)",
+      "hi": "Turmeric (hi)",
+      "kn": "Turmeric (kn)",
+      "ta": "Turmeric (ta)",
+      "te": "Turmeric (te)",
+      "mr": "Turmeric (mr)",
+      "bn": "Turmeric (bn)",
+      "gu": "Turmeric (gu)",
+      "ml": "Turmeric (ml)",
+      "pa": "Turmeric (pa)"
+    },
+    "scientific": "Turmeric_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Turmeric"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Turmeric is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "turmeric"
+    ]
+  },
+  {
+    "name": {
+      "en": "Black Pepper (en)",
+      "hi": "Black Pepper (hi)",
+      "kn": "Black Pepper (kn)",
+      "ta": "Black Pepper (ta)",
+      "te": "Black Pepper (te)",
+      "mr": "Black Pepper (mr)",
+      "bn": "Black Pepper (bn)",
+      "gu": "Black Pepper (gu)",
+      "ml": "Black Pepper (ml)",
+      "pa": "Black Pepper (pa)"
+    },
+    "scientific": "Black_Pepper_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Black"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Black Pepper is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "black pepper"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cardamom (en)",
+      "hi": "Cardamom (hi)",
+      "kn": "Cardamom (kn)",
+      "ta": "Cardamom (ta)",
+      "te": "Cardamom (te)",
+      "mr": "Cardamom (mr)",
+      "bn": "Cardamom (bn)",
+      "gu": "Cardamom (gu)",
+      "ml": "Cardamom (ml)",
+      "pa": "Cardamom (pa)"
+    },
+    "scientific": "Cardamom_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cardamom"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cardamom is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cardamom"
+    ]
+  },
+  {
+    "name": {
+      "en": "Clove (en)",
+      "hi": "Clove (hi)",
+      "kn": "Clove (kn)",
+      "ta": "Clove (ta)",
+      "te": "Clove (te)",
+      "mr": "Clove (mr)",
+      "bn": "Clove (bn)",
+      "gu": "Clove (gu)",
+      "ml": "Clove (ml)",
+      "pa": "Clove (pa)"
+    },
+    "scientific": "Clove_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Clove"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Clove is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "clove"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cumin (en)",
+      "hi": "Cumin (hi)",
+      "kn": "Cumin (kn)",
+      "ta": "Cumin (ta)",
+      "te": "Cumin (te)",
+      "mr": "Cumin (mr)",
+      "bn": "Cumin (bn)",
+      "gu": "Cumin (gu)",
+      "ml": "Cumin (ml)",
+      "pa": "Cumin (pa)"
+    },
+    "scientific": "Cumin_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cumin"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cumin is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cumin"
+    ]
+  },
+  {
+    "name": {
+      "en": "Turmeric (en)",
+      "hi": "Turmeric (hi)",
+      "kn": "Turmeric (kn)",
+      "ta": "Turmeric (ta)",
+      "te": "Turmeric (te)",
+      "mr": "Turmeric (mr)",
+      "bn": "Turmeric (bn)",
+      "gu": "Turmeric (gu)",
+      "ml": "Turmeric (ml)",
+      "pa": "Turmeric (pa)"
+    },
+    "scientific": "Turmeric_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Turmeric"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Turmeric is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "turmeric"
+    ]
+  },
+  {
+    "name": {
+      "en": "Black Pepper (en)",
+      "hi": "Black Pepper (hi)",
+      "kn": "Black Pepper (kn)",
+      "ta": "Black Pepper (ta)",
+      "te": "Black Pepper (te)",
+      "mr": "Black Pepper (mr)",
+      "bn": "Black Pepper (bn)",
+      "gu": "Black Pepper (gu)",
+      "ml": "Black Pepper (ml)",
+      "pa": "Black Pepper (pa)"
+    },
+    "scientific": "Black_Pepper_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Black"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Black Pepper is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "black pepper"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cardamom (en)",
+      "hi": "Cardamom (hi)",
+      "kn": "Cardamom (kn)",
+      "ta": "Cardamom (ta)",
+      "te": "Cardamom (te)",
+      "mr": "Cardamom (mr)",
+      "bn": "Cardamom (bn)",
+      "gu": "Cardamom (gu)",
+      "ml": "Cardamom (ml)",
+      "pa": "Cardamom (pa)"
+    },
+    "scientific": "Cardamom_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cardamom"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cardamom is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cardamom"
+    ]
+  },
+  {
+    "name": {
+      "en": "Clove (en)",
+      "hi": "Clove (hi)",
+      "kn": "Clove (kn)",
+      "ta": "Clove (ta)",
+      "te": "Clove (te)",
+      "mr": "Clove (mr)",
+      "bn": "Clove (bn)",
+      "gu": "Clove (gu)",
+      "ml": "Clove (ml)",
+      "pa": "Clove (pa)"
+    },
+    "scientific": "Clove_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Clove"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Clove is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "clove"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cumin (en)",
+      "hi": "Cumin (hi)",
+      "kn": "Cumin (kn)",
+      "ta": "Cumin (ta)",
+      "te": "Cumin (te)",
+      "mr": "Cumin (mr)",
+      "bn": "Cumin (bn)",
+      "gu": "Cumin (gu)",
+      "ml": "Cumin (ml)",
+      "pa": "Cumin (pa)"
+    },
+    "scientific": "Cumin_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cumin"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cumin is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cumin"
+    ]
+  },
+  {
+    "name": {
+      "en": "Turmeric (en)",
+      "hi": "Turmeric (hi)",
+      "kn": "Turmeric (kn)",
+      "ta": "Turmeric (ta)",
+      "te": "Turmeric (te)",
+      "mr": "Turmeric (mr)",
+      "bn": "Turmeric (bn)",
+      "gu": "Turmeric (gu)",
+      "ml": "Turmeric (ml)",
+      "pa": "Turmeric (pa)"
+    },
+    "scientific": "Turmeric_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Turmeric"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Turmeric is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "turmeric"
+    ]
+  },
+  {
+    "name": {
+      "en": "Black Pepper (en)",
+      "hi": "Black Pepper (hi)",
+      "kn": "Black Pepper (kn)",
+      "ta": "Black Pepper (ta)",
+      "te": "Black Pepper (te)",
+      "mr": "Black Pepper (mr)",
+      "bn": "Black Pepper (bn)",
+      "gu": "Black Pepper (gu)",
+      "ml": "Black Pepper (ml)",
+      "pa": "Black Pepper (pa)"
+    },
+    "scientific": "Black_Pepper_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Black"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Black Pepper is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "black pepper"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cardamom (en)",
+      "hi": "Cardamom (hi)",
+      "kn": "Cardamom (kn)",
+      "ta": "Cardamom (ta)",
+      "te": "Cardamom (te)",
+      "mr": "Cardamom (mr)",
+      "bn": "Cardamom (bn)",
+      "gu": "Cardamom (gu)",
+      "ml": "Cardamom (ml)",
+      "pa": "Cardamom (pa)"
+    },
+    "scientific": "Cardamom_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cardamom"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cardamom is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cardamom"
+    ]
+  },
+  {
+    "name": {
+      "en": "Clove (en)",
+      "hi": "Clove (hi)",
+      "kn": "Clove (kn)",
+      "ta": "Clove (ta)",
+      "te": "Clove (te)",
+      "mr": "Clove (mr)",
+      "bn": "Clove (bn)",
+      "gu": "Clove (gu)",
+      "ml": "Clove (ml)",
+      "pa": "Clove (pa)"
+    },
+    "scientific": "Clove_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Clove"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Clove is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "clove"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cumin (en)",
+      "hi": "Cumin (hi)",
+      "kn": "Cumin (kn)",
+      "ta": "Cumin (ta)",
+      "te": "Cumin (te)",
+      "mr": "Cumin (mr)",
+      "bn": "Cumin (bn)",
+      "gu": "Cumin (gu)",
+      "ml": "Cumin (ml)",
+      "pa": "Cumin (pa)"
+    },
+    "scientific": "Cumin_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cumin"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cumin is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cumin"
+    ]
+  },
+  {
+    "name": {
+      "en": "Turmeric (en)",
+      "hi": "Turmeric (hi)",
+      "kn": "Turmeric (kn)",
+      "ta": "Turmeric (ta)",
+      "te": "Turmeric (te)",
+      "mr": "Turmeric (mr)",
+      "bn": "Turmeric (bn)",
+      "gu": "Turmeric (gu)",
+      "ml": "Turmeric (ml)",
+      "pa": "Turmeric (pa)"
+    },
+    "scientific": "Turmeric_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Turmeric"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Turmeric is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "turmeric"
+    ]
+  },
+  {
+    "name": {
+      "en": "Black Pepper (en)",
+      "hi": "Black Pepper (hi)",
+      "kn": "Black Pepper (kn)",
+      "ta": "Black Pepper (ta)",
+      "te": "Black Pepper (te)",
+      "mr": "Black Pepper (mr)",
+      "bn": "Black Pepper (bn)",
+      "gu": "Black Pepper (gu)",
+      "ml": "Black Pepper (ml)",
+      "pa": "Black Pepper (pa)"
+    },
+    "scientific": "Black_Pepper_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Black"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Black Pepper is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "black pepper"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cardamom (en)",
+      "hi": "Cardamom (hi)",
+      "kn": "Cardamom (kn)",
+      "ta": "Cardamom (ta)",
+      "te": "Cardamom (te)",
+      "mr": "Cardamom (mr)",
+      "bn": "Cardamom (bn)",
+      "gu": "Cardamom (gu)",
+      "ml": "Cardamom (ml)",
+      "pa": "Cardamom (pa)"
+    },
+    "scientific": "Cardamom_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cardamom"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cardamom is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cardamom"
+    ]
+  },
+  {
+    "name": {
+      "en": "Clove (en)",
+      "hi": "Clove (hi)",
+      "kn": "Clove (kn)",
+      "ta": "Clove (ta)",
+      "te": "Clove (te)",
+      "mr": "Clove (mr)",
+      "bn": "Clove (bn)",
+      "gu": "Clove (gu)",
+      "ml": "Clove (ml)",
+      "pa": "Clove (pa)"
+    },
+    "scientific": "Clove_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Clove"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Clove is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "clove"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cumin (en)",
+      "hi": "Cumin (hi)",
+      "kn": "Cumin (kn)",
+      "ta": "Cumin (ta)",
+      "te": "Cumin (te)",
+      "mr": "Cumin (mr)",
+      "bn": "Cumin (bn)",
+      "gu": "Cumin (gu)",
+      "ml": "Cumin (ml)",
+      "pa": "Cumin (pa)"
+    },
+    "scientific": "Cumin_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cumin"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cumin is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cumin"
+    ]
+  },
+  {
+    "name": {
+      "en": "Turmeric (en)",
+      "hi": "Turmeric (hi)",
+      "kn": "Turmeric (kn)",
+      "ta": "Turmeric (ta)",
+      "te": "Turmeric (te)",
+      "mr": "Turmeric (mr)",
+      "bn": "Turmeric (bn)",
+      "gu": "Turmeric (gu)",
+      "ml": "Turmeric (ml)",
+      "pa": "Turmeric (pa)"
+    },
+    "scientific": "Turmeric_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Turmeric"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Turmeric is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "turmeric"
+    ]
+  },
+  {
+    "name": {
+      "en": "Black Pepper (en)",
+      "hi": "Black Pepper (hi)",
+      "kn": "Black Pepper (kn)",
+      "ta": "Black Pepper (ta)",
+      "te": "Black Pepper (te)",
+      "mr": "Black Pepper (mr)",
+      "bn": "Black Pepper (bn)",
+      "gu": "Black Pepper (gu)",
+      "ml": "Black Pepper (ml)",
+      "pa": "Black Pepper (pa)"
+    },
+    "scientific": "Black_Pepper_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Black"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Black Pepper is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "black pepper"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cardamom (en)",
+      "hi": "Cardamom (hi)",
+      "kn": "Cardamom (kn)",
+      "ta": "Cardamom (ta)",
+      "te": "Cardamom (te)",
+      "mr": "Cardamom (mr)",
+      "bn": "Cardamom (bn)",
+      "gu": "Cardamom (gu)",
+      "ml": "Cardamom (ml)",
+      "pa": "Cardamom (pa)"
+    },
+    "scientific": "Cardamom_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cardamom"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cardamom is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cardamom"
+    ]
+  },
+  {
+    "name": {
+      "en": "Clove (en)",
+      "hi": "Clove (hi)",
+      "kn": "Clove (kn)",
+      "ta": "Clove (ta)",
+      "te": "Clove (te)",
+      "mr": "Clove (mr)",
+      "bn": "Clove (bn)",
+      "gu": "Clove (gu)",
+      "ml": "Clove (ml)",
+      "pa": "Clove (pa)"
+    },
+    "scientific": "Clove_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Clove"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Clove is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "clove"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cumin (en)",
+      "hi": "Cumin (hi)",
+      "kn": "Cumin (kn)",
+      "ta": "Cumin (ta)",
+      "te": "Cumin (te)",
+      "mr": "Cumin (mr)",
+      "bn": "Cumin (bn)",
+      "gu": "Cumin (gu)",
+      "ml": "Cumin (ml)",
+      "pa": "Cumin (pa)"
+    },
+    "scientific": "Cumin_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cumin"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cumin is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cumin"
+    ]
+  },
+  {
+    "name": {
+      "en": "Turmeric (en)",
+      "hi": "Turmeric (hi)",
+      "kn": "Turmeric (kn)",
+      "ta": "Turmeric (ta)",
+      "te": "Turmeric (te)",
+      "mr": "Turmeric (mr)",
+      "bn": "Turmeric (bn)",
+      "gu": "Turmeric (gu)",
+      "ml": "Turmeric (ml)",
+      "pa": "Turmeric (pa)"
+    },
+    "scientific": "Turmeric_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Turmeric"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Turmeric is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "turmeric"
+    ]
+  },
+  {
+    "name": {
+      "en": "Black Pepper (en)",
+      "hi": "Black Pepper (hi)",
+      "kn": "Black Pepper (kn)",
+      "ta": "Black Pepper (ta)",
+      "te": "Black Pepper (te)",
+      "mr": "Black Pepper (mr)",
+      "bn": "Black Pepper (bn)",
+      "gu": "Black Pepper (gu)",
+      "ml": "Black Pepper (ml)",
+      "pa": "Black Pepper (pa)"
+    },
+    "scientific": "Black_Pepper_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Black"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Black Pepper is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "black pepper"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cardamom (en)",
+      "hi": "Cardamom (hi)",
+      "kn": "Cardamom (kn)",
+      "ta": "Cardamom (ta)",
+      "te": "Cardamom (te)",
+      "mr": "Cardamom (mr)",
+      "bn": "Cardamom (bn)",
+      "gu": "Cardamom (gu)",
+      "ml": "Cardamom (ml)",
+      "pa": "Cardamom (pa)"
+    },
+    "scientific": "Cardamom_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cardamom"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cardamom is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cardamom"
+    ]
+  },
+  {
+    "name": {
+      "en": "Clove (en)",
+      "hi": "Clove (hi)",
+      "kn": "Clove (kn)",
+      "ta": "Clove (ta)",
+      "te": "Clove (te)",
+      "mr": "Clove (mr)",
+      "bn": "Clove (bn)",
+      "gu": "Clove (gu)",
+      "ml": "Clove (ml)",
+      "pa": "Clove (pa)"
+    },
+    "scientific": "Clove_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Clove"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Clove is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "clove"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cumin (en)",
+      "hi": "Cumin (hi)",
+      "kn": "Cumin (kn)",
+      "ta": "Cumin (ta)",
+      "te": "Cumin (te)",
+      "mr": "Cumin (mr)",
+      "bn": "Cumin (bn)",
+      "gu": "Cumin (gu)",
+      "ml": "Cumin (ml)",
+      "pa": "Cumin (pa)"
+    },
+    "scientific": "Cumin_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cumin"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cumin is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cumin"
+    ]
+  },
+  {
+    "name": {
+      "en": "Turmeric (en)",
+      "hi": "Turmeric (hi)",
+      "kn": "Turmeric (kn)",
+      "ta": "Turmeric (ta)",
+      "te": "Turmeric (te)",
+      "mr": "Turmeric (mr)",
+      "bn": "Turmeric (bn)",
+      "gu": "Turmeric (gu)",
+      "ml": "Turmeric (ml)",
+      "pa": "Turmeric (pa)"
+    },
+    "scientific": "Turmeric_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Turmeric"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Turmeric is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "turmeric"
+    ]
+  },
+  {
+    "name": {
+      "en": "Black Pepper (en)",
+      "hi": "Black Pepper (hi)",
+      "kn": "Black Pepper (kn)",
+      "ta": "Black Pepper (ta)",
+      "te": "Black Pepper (te)",
+      "mr": "Black Pepper (mr)",
+      "bn": "Black Pepper (bn)",
+      "gu": "Black Pepper (gu)",
+      "ml": "Black Pepper (ml)",
+      "pa": "Black Pepper (pa)"
+    },
+    "scientific": "Black_Pepper_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Black"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Black Pepper is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "black pepper"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cardamom (en)",
+      "hi": "Cardamom (hi)",
+      "kn": "Cardamom (kn)",
+      "ta": "Cardamom (ta)",
+      "te": "Cardamom (te)",
+      "mr": "Cardamom (mr)",
+      "bn": "Cardamom (bn)",
+      "gu": "Cardamom (gu)",
+      "ml": "Cardamom (ml)",
+      "pa": "Cardamom (pa)"
+    },
+    "scientific": "Cardamom_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cardamom"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cardamom is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cardamom"
+    ]
+  },
+  {
+    "name": {
+      "en": "Clove (en)",
+      "hi": "Clove (hi)",
+      "kn": "Clove (kn)",
+      "ta": "Clove (ta)",
+      "te": "Clove (te)",
+      "mr": "Clove (mr)",
+      "bn": "Clove (bn)",
+      "gu": "Clove (gu)",
+      "ml": "Clove (ml)",
+      "pa": "Clove (pa)"
+    },
+    "scientific": "Clove_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Clove"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Clove is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "clove"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cumin (en)",
+      "hi": "Cumin (hi)",
+      "kn": "Cumin (kn)",
+      "ta": "Cumin (ta)",
+      "te": "Cumin (te)",
+      "mr": "Cumin (mr)",
+      "bn": "Cumin (bn)",
+      "gu": "Cumin (gu)",
+      "ml": "Cumin (ml)",
+      "pa": "Cumin (pa)"
+    },
+    "scientific": "Cumin_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cumin"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cumin is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cumin"
+    ]
+  },
+  {
+    "name": {
+      "en": "Turmeric (en)",
+      "hi": "Turmeric (hi)",
+      "kn": "Turmeric (kn)",
+      "ta": "Turmeric (ta)",
+      "te": "Turmeric (te)",
+      "mr": "Turmeric (mr)",
+      "bn": "Turmeric (bn)",
+      "gu": "Turmeric (gu)",
+      "ml": "Turmeric (ml)",
+      "pa": "Turmeric (pa)"
+    },
+    "scientific": "Turmeric_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Turmeric"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Turmeric is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "turmeric"
+    ]
+  },
+  {
+    "name": {
+      "en": "Black Pepper (en)",
+      "hi": "Black Pepper (hi)",
+      "kn": "Black Pepper (kn)",
+      "ta": "Black Pepper (ta)",
+      "te": "Black Pepper (te)",
+      "mr": "Black Pepper (mr)",
+      "bn": "Black Pepper (bn)",
+      "gu": "Black Pepper (gu)",
+      "ml": "Black Pepper (ml)",
+      "pa": "Black Pepper (pa)"
+    },
+    "scientific": "Black_Pepper_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Black"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Black Pepper is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "black pepper"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cardamom (en)",
+      "hi": "Cardamom (hi)",
+      "kn": "Cardamom (kn)",
+      "ta": "Cardamom (ta)",
+      "te": "Cardamom (te)",
+      "mr": "Cardamom (mr)",
+      "bn": "Cardamom (bn)",
+      "gu": "Cardamom (gu)",
+      "ml": "Cardamom (ml)",
+      "pa": "Cardamom (pa)"
+    },
+    "scientific": "Cardamom_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cardamom"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cardamom is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cardamom"
+    ]
+  },
+  {
+    "name": {
+      "en": "Clove (en)",
+      "hi": "Clove (hi)",
+      "kn": "Clove (kn)",
+      "ta": "Clove (ta)",
+      "te": "Clove (te)",
+      "mr": "Clove (mr)",
+      "bn": "Clove (bn)",
+      "gu": "Clove (gu)",
+      "ml": "Clove (ml)",
+      "pa": "Clove (pa)"
+    },
+    "scientific": "Clove_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Clove"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Clove is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "clove"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cumin (en)",
+      "hi": "Cumin (hi)",
+      "kn": "Cumin (kn)",
+      "ta": "Cumin (ta)",
+      "te": "Cumin (te)",
+      "mr": "Cumin (mr)",
+      "bn": "Cumin (bn)",
+      "gu": "Cumin (gu)",
+      "ml": "Cumin (ml)",
+      "pa": "Cumin (pa)"
+    },
+    "scientific": "Cumin_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cumin"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cumin is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cumin"
+    ]
+  },
+  {
+    "name": {
+      "en": "Turmeric (en)",
+      "hi": "Turmeric (hi)",
+      "kn": "Turmeric (kn)",
+      "ta": "Turmeric (ta)",
+      "te": "Turmeric (te)",
+      "mr": "Turmeric (mr)",
+      "bn": "Turmeric (bn)",
+      "gu": "Turmeric (gu)",
+      "ml": "Turmeric (ml)",
+      "pa": "Turmeric (pa)"
+    },
+    "scientific": "Turmeric_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Turmeric"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Turmeric is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "turmeric"
+    ]
+  },
+  {
+    "name": {
+      "en": "Black Pepper (en)",
+      "hi": "Black Pepper (hi)",
+      "kn": "Black Pepper (kn)",
+      "ta": "Black Pepper (ta)",
+      "te": "Black Pepper (te)",
+      "mr": "Black Pepper (mr)",
+      "bn": "Black Pepper (bn)",
+      "gu": "Black Pepper (gu)",
+      "ml": "Black Pepper (ml)",
+      "pa": "Black Pepper (pa)"
+    },
+    "scientific": "Black_Pepper_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Black"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Black Pepper is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "black pepper"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cardamom (en)",
+      "hi": "Cardamom (hi)",
+      "kn": "Cardamom (kn)",
+      "ta": "Cardamom (ta)",
+      "te": "Cardamom (te)",
+      "mr": "Cardamom (mr)",
+      "bn": "Cardamom (bn)",
+      "gu": "Cardamom (gu)",
+      "ml": "Cardamom (ml)",
+      "pa": "Cardamom (pa)"
+    },
+    "scientific": "Cardamom_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cardamom"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cardamom is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cardamom"
+    ]
+  },
+  {
+    "name": {
+      "en": "Clove (en)",
+      "hi": "Clove (hi)",
+      "kn": "Clove (kn)",
+      "ta": "Clove (ta)",
+      "te": "Clove (te)",
+      "mr": "Clove (mr)",
+      "bn": "Clove (bn)",
+      "gu": "Clove (gu)",
+      "ml": "Clove (ml)",
+      "pa": "Clove (pa)"
+    },
+    "scientific": "Clove_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Clove"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Clove is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "clove"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cumin (en)",
+      "hi": "Cumin (hi)",
+      "kn": "Cumin (kn)",
+      "ta": "Cumin (ta)",
+      "te": "Cumin (te)",
+      "mr": "Cumin (mr)",
+      "bn": "Cumin (bn)",
+      "gu": "Cumin (gu)",
+      "ml": "Cumin (ml)",
+      "pa": "Cumin (pa)"
+    },
+    "scientific": "Cumin_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cumin"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cumin is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cumin"
+    ]
+  },
+  {
+    "name": {
+      "en": "Turmeric (en)",
+      "hi": "Turmeric (hi)",
+      "kn": "Turmeric (kn)",
+      "ta": "Turmeric (ta)",
+      "te": "Turmeric (te)",
+      "mr": "Turmeric (mr)",
+      "bn": "Turmeric (bn)",
+      "gu": "Turmeric (gu)",
+      "ml": "Turmeric (ml)",
+      "pa": "Turmeric (pa)"
+    },
+    "scientific": "Turmeric_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Turmeric"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Turmeric is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "turmeric"
+    ]
+  },
+  {
+    "name": {
+      "en": "Black Pepper (en)",
+      "hi": "Black Pepper (hi)",
+      "kn": "Black Pepper (kn)",
+      "ta": "Black Pepper (ta)",
+      "te": "Black Pepper (te)",
+      "mr": "Black Pepper (mr)",
+      "bn": "Black Pepper (bn)",
+      "gu": "Black Pepper (gu)",
+      "ml": "Black Pepper (ml)",
+      "pa": "Black Pepper (pa)"
+    },
+    "scientific": "Black_Pepper_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Black"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Black Pepper is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "black pepper"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cardamom (en)",
+      "hi": "Cardamom (hi)",
+      "kn": "Cardamom (kn)",
+      "ta": "Cardamom (ta)",
+      "te": "Cardamom (te)",
+      "mr": "Cardamom (mr)",
+      "bn": "Cardamom (bn)",
+      "gu": "Cardamom (gu)",
+      "ml": "Cardamom (ml)",
+      "pa": "Cardamom (pa)"
+    },
+    "scientific": "Cardamom_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cardamom"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cardamom is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cardamom"
+    ]
+  },
+  {
+    "name": {
+      "en": "Clove (en)",
+      "hi": "Clove (hi)",
+      "kn": "Clove (kn)",
+      "ta": "Clove (ta)",
+      "te": "Clove (te)",
+      "mr": "Clove (mr)",
+      "bn": "Clove (bn)",
+      "gu": "Clove (gu)",
+      "ml": "Clove (ml)",
+      "pa": "Clove (pa)"
+    },
+    "scientific": "Clove_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Clove"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Clove is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "clove"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cumin (en)",
+      "hi": "Cumin (hi)",
+      "kn": "Cumin (kn)",
+      "ta": "Cumin (ta)",
+      "te": "Cumin (te)",
+      "mr": "Cumin (mr)",
+      "bn": "Cumin (bn)",
+      "gu": "Cumin (gu)",
+      "ml": "Cumin (ml)",
+      "pa": "Cumin (pa)"
+    },
+    "scientific": "Cumin_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cumin"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cumin is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cumin"
+    ]
+  },
+  {
+    "name": {
+      "en": "Turmeric (en)",
+      "hi": "Turmeric (hi)",
+      "kn": "Turmeric (kn)",
+      "ta": "Turmeric (ta)",
+      "te": "Turmeric (te)",
+      "mr": "Turmeric (mr)",
+      "bn": "Turmeric (bn)",
+      "gu": "Turmeric (gu)",
+      "ml": "Turmeric (ml)",
+      "pa": "Turmeric (pa)"
+    },
+    "scientific": "Turmeric_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Turmeric"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Turmeric is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "turmeric"
+    ]
+  },
+  {
+    "name": {
+      "en": "Black Pepper (en)",
+      "hi": "Black Pepper (hi)",
+      "kn": "Black Pepper (kn)",
+      "ta": "Black Pepper (ta)",
+      "te": "Black Pepper (te)",
+      "mr": "Black Pepper (mr)",
+      "bn": "Black Pepper (bn)",
+      "gu": "Black Pepper (gu)",
+      "ml": "Black Pepper (ml)",
+      "pa": "Black Pepper (pa)"
+    },
+    "scientific": "Black_Pepper_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Black"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Black Pepper is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "black pepper"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cardamom (en)",
+      "hi": "Cardamom (hi)",
+      "kn": "Cardamom (kn)",
+      "ta": "Cardamom (ta)",
+      "te": "Cardamom (te)",
+      "mr": "Cardamom (mr)",
+      "bn": "Cardamom (bn)",
+      "gu": "Cardamom (gu)",
+      "ml": "Cardamom (ml)",
+      "pa": "Cardamom (pa)"
+    },
+    "scientific": "Cardamom_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cardamom"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cardamom is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cardamom"
+    ]
+  },
+  {
+    "name": {
+      "en": "Clove (en)",
+      "hi": "Clove (hi)",
+      "kn": "Clove (kn)",
+      "ta": "Clove (ta)",
+      "te": "Clove (te)",
+      "mr": "Clove (mr)",
+      "bn": "Clove (bn)",
+      "gu": "Clove (gu)",
+      "ml": "Clove (ml)",
+      "pa": "Clove (pa)"
+    },
+    "scientific": "Clove_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Clove"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Clove is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "clove"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cumin (en)",
+      "hi": "Cumin (hi)",
+      "kn": "Cumin (kn)",
+      "ta": "Cumin (ta)",
+      "te": "Cumin (te)",
+      "mr": "Cumin (mr)",
+      "bn": "Cumin (bn)",
+      "gu": "Cumin (gu)",
+      "ml": "Cumin (ml)",
+      "pa": "Cumin (pa)"
+    },
+    "scientific": "Cumin_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cumin"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cumin is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cumin"
+    ]
+  },
+  {
+    "name": {
+      "en": "Turmeric (en)",
+      "hi": "Turmeric (hi)",
+      "kn": "Turmeric (kn)",
+      "ta": "Turmeric (ta)",
+      "te": "Turmeric (te)",
+      "mr": "Turmeric (mr)",
+      "bn": "Turmeric (bn)",
+      "gu": "Turmeric (gu)",
+      "ml": "Turmeric (ml)",
+      "pa": "Turmeric (pa)"
+    },
+    "scientific": "Turmeric_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Turmeric"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Turmeric is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "turmeric"
+    ]
+  },
+  {
+    "name": {
+      "en": "Black Pepper (en)",
+      "hi": "Black Pepper (hi)",
+      "kn": "Black Pepper (kn)",
+      "ta": "Black Pepper (ta)",
+      "te": "Black Pepper (te)",
+      "mr": "Black Pepper (mr)",
+      "bn": "Black Pepper (bn)",
+      "gu": "Black Pepper (gu)",
+      "ml": "Black Pepper (ml)",
+      "pa": "Black Pepper (pa)"
+    },
+    "scientific": "Black_Pepper_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Black"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Black Pepper is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "black pepper"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cardamom (en)",
+      "hi": "Cardamom (hi)",
+      "kn": "Cardamom (kn)",
+      "ta": "Cardamom (ta)",
+      "te": "Cardamom (te)",
+      "mr": "Cardamom (mr)",
+      "bn": "Cardamom (bn)",
+      "gu": "Cardamom (gu)",
+      "ml": "Cardamom (ml)",
+      "pa": "Cardamom (pa)"
+    },
+    "scientific": "Cardamom_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cardamom"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cardamom is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cardamom"
+    ]
+  },
+  {
+    "name": {
+      "en": "Clove (en)",
+      "hi": "Clove (hi)",
+      "kn": "Clove (kn)",
+      "ta": "Clove (ta)",
+      "te": "Clove (te)",
+      "mr": "Clove (mr)",
+      "bn": "Clove (bn)",
+      "gu": "Clove (gu)",
+      "ml": "Clove (ml)",
+      "pa": "Clove (pa)"
+    },
+    "scientific": "Clove_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Clove"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Clove is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "clove"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cumin (en)",
+      "hi": "Cumin (hi)",
+      "kn": "Cumin (kn)",
+      "ta": "Cumin (ta)",
+      "te": "Cumin (te)",
+      "mr": "Cumin (mr)",
+      "bn": "Cumin (bn)",
+      "gu": "Cumin (gu)",
+      "ml": "Cumin (ml)",
+      "pa": "Cumin (pa)"
+    },
+    "scientific": "Cumin_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cumin"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cumin is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cumin"
+    ]
+  },
+  {
+    "name": {
+      "en": "Turmeric (en)",
+      "hi": "Turmeric (hi)",
+      "kn": "Turmeric (kn)",
+      "ta": "Turmeric (ta)",
+      "te": "Turmeric (te)",
+      "mr": "Turmeric (mr)",
+      "bn": "Turmeric (bn)",
+      "gu": "Turmeric (gu)",
+      "ml": "Turmeric (ml)",
+      "pa": "Turmeric (pa)"
+    },
+    "scientific": "Turmeric_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Turmeric"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Turmeric is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "turmeric"
+    ]
+  },
+  {
+    "name": {
+      "en": "Black Pepper (en)",
+      "hi": "Black Pepper (hi)",
+      "kn": "Black Pepper (kn)",
+      "ta": "Black Pepper (ta)",
+      "te": "Black Pepper (te)",
+      "mr": "Black Pepper (mr)",
+      "bn": "Black Pepper (bn)",
+      "gu": "Black Pepper (gu)",
+      "ml": "Black Pepper (ml)",
+      "pa": "Black Pepper (pa)"
+    },
+    "scientific": "Black_Pepper_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Black"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Black Pepper is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "black pepper"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cardamom (en)",
+      "hi": "Cardamom (hi)",
+      "kn": "Cardamom (kn)",
+      "ta": "Cardamom (ta)",
+      "te": "Cardamom (te)",
+      "mr": "Cardamom (mr)",
+      "bn": "Cardamom (bn)",
+      "gu": "Cardamom (gu)",
+      "ml": "Cardamom (ml)",
+      "pa": "Cardamom (pa)"
+    },
+    "scientific": "Cardamom_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cardamom"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cardamom is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cardamom"
+    ]
+  },
+  {
+    "name": {
+      "en": "Clove (en)",
+      "hi": "Clove (hi)",
+      "kn": "Clove (kn)",
+      "ta": "Clove (ta)",
+      "te": "Clove (te)",
+      "mr": "Clove (mr)",
+      "bn": "Clove (bn)",
+      "gu": "Clove (gu)",
+      "ml": "Clove (ml)",
+      "pa": "Clove (pa)"
+    },
+    "scientific": "Clove_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Clove"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Clove is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "clove"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cumin (en)",
+      "hi": "Cumin (hi)",
+      "kn": "Cumin (kn)",
+      "ta": "Cumin (ta)",
+      "te": "Cumin (te)",
+      "mr": "Cumin (mr)",
+      "bn": "Cumin (bn)",
+      "gu": "Cumin (gu)",
+      "ml": "Cumin (ml)",
+      "pa": "Cumin (pa)"
+    },
+    "scientific": "Cumin_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cumin"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cumin is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cumin"
+    ]
+  },
+  {
+    "name": {
+      "en": "Turmeric (en)",
+      "hi": "Turmeric (hi)",
+      "kn": "Turmeric (kn)",
+      "ta": "Turmeric (ta)",
+      "te": "Turmeric (te)",
+      "mr": "Turmeric (mr)",
+      "bn": "Turmeric (bn)",
+      "gu": "Turmeric (gu)",
+      "ml": "Turmeric (ml)",
+      "pa": "Turmeric (pa)"
+    },
+    "scientific": "Turmeric_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Turmeric"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Turmeric is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "turmeric"
+    ]
+  },
+  {
+    "name": {
+      "en": "Black Pepper (en)",
+      "hi": "Black Pepper (hi)",
+      "kn": "Black Pepper (kn)",
+      "ta": "Black Pepper (ta)",
+      "te": "Black Pepper (te)",
+      "mr": "Black Pepper (mr)",
+      "bn": "Black Pepper (bn)",
+      "gu": "Black Pepper (gu)",
+      "ml": "Black Pepper (ml)",
+      "pa": "Black Pepper (pa)"
+    },
+    "scientific": "Black_Pepper_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Black"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Black Pepper is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "black pepper"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cardamom (en)",
+      "hi": "Cardamom (hi)",
+      "kn": "Cardamom (kn)",
+      "ta": "Cardamom (ta)",
+      "te": "Cardamom (te)",
+      "mr": "Cardamom (mr)",
+      "bn": "Cardamom (bn)",
+      "gu": "Cardamom (gu)",
+      "ml": "Cardamom (ml)",
+      "pa": "Cardamom (pa)"
+    },
+    "scientific": "Cardamom_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cardamom"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cardamom is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cardamom"
+    ]
+  },
+  {
+    "name": {
+      "en": "Clove (en)",
+      "hi": "Clove (hi)",
+      "kn": "Clove (kn)",
+      "ta": "Clove (ta)",
+      "te": "Clove (te)",
+      "mr": "Clove (mr)",
+      "bn": "Clove (bn)",
+      "gu": "Clove (gu)",
+      "ml": "Clove (ml)",
+      "pa": "Clove (pa)"
+    },
+    "scientific": "Clove_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Clove"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Clove is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "clove"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cumin (en)",
+      "hi": "Cumin (hi)",
+      "kn": "Cumin (kn)",
+      "ta": "Cumin (ta)",
+      "te": "Cumin (te)",
+      "mr": "Cumin (mr)",
+      "bn": "Cumin (bn)",
+      "gu": "Cumin (gu)",
+      "ml": "Cumin (ml)",
+      "pa": "Cumin (pa)"
+    },
+    "scientific": "Cumin_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cumin"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cumin is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cumin"
+    ]
+  },
+  {
+    "name": {
+      "en": "Turmeric (en)",
+      "hi": "Turmeric (hi)",
+      "kn": "Turmeric (kn)",
+      "ta": "Turmeric (ta)",
+      "te": "Turmeric (te)",
+      "mr": "Turmeric (mr)",
+      "bn": "Turmeric (bn)",
+      "gu": "Turmeric (gu)",
+      "ml": "Turmeric (ml)",
+      "pa": "Turmeric (pa)"
+    },
+    "scientific": "Turmeric_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Turmeric"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Turmeric is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "turmeric"
+    ]
+  },
+  {
+    "name": {
+      "en": "Black Pepper (en)",
+      "hi": "Black Pepper (hi)",
+      "kn": "Black Pepper (kn)",
+      "ta": "Black Pepper (ta)",
+      "te": "Black Pepper (te)",
+      "mr": "Black Pepper (mr)",
+      "bn": "Black Pepper (bn)",
+      "gu": "Black Pepper (gu)",
+      "ml": "Black Pepper (ml)",
+      "pa": "Black Pepper (pa)"
+    },
+    "scientific": "Black_Pepper_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Black"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Black Pepper is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "black pepper"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cardamom (en)",
+      "hi": "Cardamom (hi)",
+      "kn": "Cardamom (kn)",
+      "ta": "Cardamom (ta)",
+      "te": "Cardamom (te)",
+      "mr": "Cardamom (mr)",
+      "bn": "Cardamom (bn)",
+      "gu": "Cardamom (gu)",
+      "ml": "Cardamom (ml)",
+      "pa": "Cardamom (pa)"
+    },
+    "scientific": "Cardamom_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cardamom"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cardamom is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cardamom"
+    ]
+  },
+  {
+    "name": {
+      "en": "Clove (en)",
+      "hi": "Clove (hi)",
+      "kn": "Clove (kn)",
+      "ta": "Clove (ta)",
+      "te": "Clove (te)",
+      "mr": "Clove (mr)",
+      "bn": "Clove (bn)",
+      "gu": "Clove (gu)",
+      "ml": "Clove (ml)",
+      "pa": "Clove (pa)"
+    },
+    "scientific": "Clove_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Clove"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Clove is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "clove"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cumin (en)",
+      "hi": "Cumin (hi)",
+      "kn": "Cumin (kn)",
+      "ta": "Cumin (ta)",
+      "te": "Cumin (te)",
+      "mr": "Cumin (mr)",
+      "bn": "Cumin (bn)",
+      "gu": "Cumin (gu)",
+      "ml": "Cumin (ml)",
+      "pa": "Cumin (pa)"
+    },
+    "scientific": "Cumin_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cumin"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cumin is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cumin"
+    ]
+  },
+  {
+    "name": {
+      "en": "Turmeric (en)",
+      "hi": "Turmeric (hi)",
+      "kn": "Turmeric (kn)",
+      "ta": "Turmeric (ta)",
+      "te": "Turmeric (te)",
+      "mr": "Turmeric (mr)",
+      "bn": "Turmeric (bn)",
+      "gu": "Turmeric (gu)",
+      "ml": "Turmeric (ml)",
+      "pa": "Turmeric (pa)"
+    },
+    "scientific": "Turmeric_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Turmeric"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Turmeric is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "turmeric"
+    ]
+  },
+  {
+    "name": {
+      "en": "Black Pepper (en)",
+      "hi": "Black Pepper (hi)",
+      "kn": "Black Pepper (kn)",
+      "ta": "Black Pepper (ta)",
+      "te": "Black Pepper (te)",
+      "mr": "Black Pepper (mr)",
+      "bn": "Black Pepper (bn)",
+      "gu": "Black Pepper (gu)",
+      "ml": "Black Pepper (ml)",
+      "pa": "Black Pepper (pa)"
+    },
+    "scientific": "Black_Pepper_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Black"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Black Pepper is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "black pepper"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cardamom (en)",
+      "hi": "Cardamom (hi)",
+      "kn": "Cardamom (kn)",
+      "ta": "Cardamom (ta)",
+      "te": "Cardamom (te)",
+      "mr": "Cardamom (mr)",
+      "bn": "Cardamom (bn)",
+      "gu": "Cardamom (gu)",
+      "ml": "Cardamom (ml)",
+      "pa": "Cardamom (pa)"
+    },
+    "scientific": "Cardamom_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cardamom"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cardamom is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cardamom"
+    ]
+  },
+  {
+    "name": {
+      "en": "Clove (en)",
+      "hi": "Clove (hi)",
+      "kn": "Clove (kn)",
+      "ta": "Clove (ta)",
+      "te": "Clove (te)",
+      "mr": "Clove (mr)",
+      "bn": "Clove (bn)",
+      "gu": "Clove (gu)",
+      "ml": "Clove (ml)",
+      "pa": "Clove (pa)"
+    },
+    "scientific": "Clove_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Clove"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Clove is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "clove"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cumin (en)",
+      "hi": "Cumin (hi)",
+      "kn": "Cumin (kn)",
+      "ta": "Cumin (ta)",
+      "te": "Cumin (te)",
+      "mr": "Cumin (mr)",
+      "bn": "Cumin (bn)",
+      "gu": "Cumin (gu)",
+      "ml": "Cumin (ml)",
+      "pa": "Cumin (pa)"
+    },
+    "scientific": "Cumin_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Cumin"
+    },
+    "category": "Spices",
+    "description": {
+      "en": "Cumin is widely used in India under spices category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "cumin"
+    ]
+  }
+]

@@ -1,0 +1,6302 @@
+[
+  {
+    "name": {
+      "en": "Rice (en)",
+      "hi": "Rice (hi)",
+      "kn": "Rice (kn)",
+      "ta": "Rice (ta)",
+      "te": "Rice (te)",
+      "mr": "Rice (mr)",
+      "bn": "Rice (bn)",
+      "gu": "Rice (gu)",
+      "ml": "Rice (ml)",
+      "pa": "Rice (pa)"
+    },
+    "scientific": "Rice_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rice"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Rice is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rice"
+    ]
+  },
+  {
+    "name": {
+      "en": "Wheat (en)",
+      "hi": "Wheat (hi)",
+      "kn": "Wheat (kn)",
+      "ta": "Wheat (ta)",
+      "te": "Wheat (te)",
+      "mr": "Wheat (mr)",
+      "bn": "Wheat (bn)",
+      "gu": "Wheat (gu)",
+      "ml": "Wheat (ml)",
+      "pa": "Wheat (pa)"
+    },
+    "scientific": "Wheat_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Wheat"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Wheat is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "wheat"
+    ]
+  },
+  {
+    "name": {
+      "en": "Maize (en)",
+      "hi": "Maize (hi)",
+      "kn": "Maize (kn)",
+      "ta": "Maize (ta)",
+      "te": "Maize (te)",
+      "mr": "Maize (mr)",
+      "bn": "Maize (bn)",
+      "gu": "Maize (gu)",
+      "ml": "Maize (ml)",
+      "pa": "Maize (pa)"
+    },
+    "scientific": "Maize_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Maize"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Maize is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "maize"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sugarcane (en)",
+      "hi": "Sugarcane (hi)",
+      "kn": "Sugarcane (kn)",
+      "ta": "Sugarcane (ta)",
+      "te": "Sugarcane (te)",
+      "mr": "Sugarcane (mr)",
+      "bn": "Sugarcane (bn)",
+      "gu": "Sugarcane (gu)",
+      "ml": "Sugarcane (ml)",
+      "pa": "Sugarcane (pa)"
+    },
+    "scientific": "Sugarcane_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sugarcane"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Sugarcane is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sugarcane"
+    ]
+  },
+  {
+    "name": {
+      "en": "Barley (en)",
+      "hi": "Barley (hi)",
+      "kn": "Barley (kn)",
+      "ta": "Barley (ta)",
+      "te": "Barley (te)",
+      "mr": "Barley (mr)",
+      "bn": "Barley (bn)",
+      "gu": "Barley (gu)",
+      "ml": "Barley (ml)",
+      "pa": "Barley (pa)"
+    },
+    "scientific": "Barley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Barley"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Barley is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "barley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rice (en)",
+      "hi": "Rice (hi)",
+      "kn": "Rice (kn)",
+      "ta": "Rice (ta)",
+      "te": "Rice (te)",
+      "mr": "Rice (mr)",
+      "bn": "Rice (bn)",
+      "gu": "Rice (gu)",
+      "ml": "Rice (ml)",
+      "pa": "Rice (pa)"
+    },
+    "scientific": "Rice_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rice"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Rice is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rice"
+    ]
+  },
+  {
+    "name": {
+      "en": "Wheat (en)",
+      "hi": "Wheat (hi)",
+      "kn": "Wheat (kn)",
+      "ta": "Wheat (ta)",
+      "te": "Wheat (te)",
+      "mr": "Wheat (mr)",
+      "bn": "Wheat (bn)",
+      "gu": "Wheat (gu)",
+      "ml": "Wheat (ml)",
+      "pa": "Wheat (pa)"
+    },
+    "scientific": "Wheat_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Wheat"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Wheat is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "wheat"
+    ]
+  },
+  {
+    "name": {
+      "en": "Maize (en)",
+      "hi": "Maize (hi)",
+      "kn": "Maize (kn)",
+      "ta": "Maize (ta)",
+      "te": "Maize (te)",
+      "mr": "Maize (mr)",
+      "bn": "Maize (bn)",
+      "gu": "Maize (gu)",
+      "ml": "Maize (ml)",
+      "pa": "Maize (pa)"
+    },
+    "scientific": "Maize_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Maize"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Maize is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "maize"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sugarcane (en)",
+      "hi": "Sugarcane (hi)",
+      "kn": "Sugarcane (kn)",
+      "ta": "Sugarcane (ta)",
+      "te": "Sugarcane (te)",
+      "mr": "Sugarcane (mr)",
+      "bn": "Sugarcane (bn)",
+      "gu": "Sugarcane (gu)",
+      "ml": "Sugarcane (ml)",
+      "pa": "Sugarcane (pa)"
+    },
+    "scientific": "Sugarcane_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sugarcane"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Sugarcane is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sugarcane"
+    ]
+  },
+  {
+    "name": {
+      "en": "Barley (en)",
+      "hi": "Barley (hi)",
+      "kn": "Barley (kn)",
+      "ta": "Barley (ta)",
+      "te": "Barley (te)",
+      "mr": "Barley (mr)",
+      "bn": "Barley (bn)",
+      "gu": "Barley (gu)",
+      "ml": "Barley (ml)",
+      "pa": "Barley (pa)"
+    },
+    "scientific": "Barley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Barley"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Barley is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "barley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rice (en)",
+      "hi": "Rice (hi)",
+      "kn": "Rice (kn)",
+      "ta": "Rice (ta)",
+      "te": "Rice (te)",
+      "mr": "Rice (mr)",
+      "bn": "Rice (bn)",
+      "gu": "Rice (gu)",
+      "ml": "Rice (ml)",
+      "pa": "Rice (pa)"
+    },
+    "scientific": "Rice_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rice"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Rice is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rice"
+    ]
+  },
+  {
+    "name": {
+      "en": "Wheat (en)",
+      "hi": "Wheat (hi)",
+      "kn": "Wheat (kn)",
+      "ta": "Wheat (ta)",
+      "te": "Wheat (te)",
+      "mr": "Wheat (mr)",
+      "bn": "Wheat (bn)",
+      "gu": "Wheat (gu)",
+      "ml": "Wheat (ml)",
+      "pa": "Wheat (pa)"
+    },
+    "scientific": "Wheat_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Wheat"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Wheat is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "wheat"
+    ]
+  },
+  {
+    "name": {
+      "en": "Maize (en)",
+      "hi": "Maize (hi)",
+      "kn": "Maize (kn)",
+      "ta": "Maize (ta)",
+      "te": "Maize (te)",
+      "mr": "Maize (mr)",
+      "bn": "Maize (bn)",
+      "gu": "Maize (gu)",
+      "ml": "Maize (ml)",
+      "pa": "Maize (pa)"
+    },
+    "scientific": "Maize_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Maize"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Maize is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "maize"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sugarcane (en)",
+      "hi": "Sugarcane (hi)",
+      "kn": "Sugarcane (kn)",
+      "ta": "Sugarcane (ta)",
+      "te": "Sugarcane (te)",
+      "mr": "Sugarcane (mr)",
+      "bn": "Sugarcane (bn)",
+      "gu": "Sugarcane (gu)",
+      "ml": "Sugarcane (ml)",
+      "pa": "Sugarcane (pa)"
+    },
+    "scientific": "Sugarcane_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sugarcane"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Sugarcane is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sugarcane"
+    ]
+  },
+  {
+    "name": {
+      "en": "Barley (en)",
+      "hi": "Barley (hi)",
+      "kn": "Barley (kn)",
+      "ta": "Barley (ta)",
+      "te": "Barley (te)",
+      "mr": "Barley (mr)",
+      "bn": "Barley (bn)",
+      "gu": "Barley (gu)",
+      "ml": "Barley (ml)",
+      "pa": "Barley (pa)"
+    },
+    "scientific": "Barley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Barley"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Barley is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "barley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rice (en)",
+      "hi": "Rice (hi)",
+      "kn": "Rice (kn)",
+      "ta": "Rice (ta)",
+      "te": "Rice (te)",
+      "mr": "Rice (mr)",
+      "bn": "Rice (bn)",
+      "gu": "Rice (gu)",
+      "ml": "Rice (ml)",
+      "pa": "Rice (pa)"
+    },
+    "scientific": "Rice_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rice"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Rice is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rice"
+    ]
+  },
+  {
+    "name": {
+      "en": "Wheat (en)",
+      "hi": "Wheat (hi)",
+      "kn": "Wheat (kn)",
+      "ta": "Wheat (ta)",
+      "te": "Wheat (te)",
+      "mr": "Wheat (mr)",
+      "bn": "Wheat (bn)",
+      "gu": "Wheat (gu)",
+      "ml": "Wheat (ml)",
+      "pa": "Wheat (pa)"
+    },
+    "scientific": "Wheat_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Wheat"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Wheat is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "wheat"
+    ]
+  },
+  {
+    "name": {
+      "en": "Maize (en)",
+      "hi": "Maize (hi)",
+      "kn": "Maize (kn)",
+      "ta": "Maize (ta)",
+      "te": "Maize (te)",
+      "mr": "Maize (mr)",
+      "bn": "Maize (bn)",
+      "gu": "Maize (gu)",
+      "ml": "Maize (ml)",
+      "pa": "Maize (pa)"
+    },
+    "scientific": "Maize_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Maize"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Maize is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "maize"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sugarcane (en)",
+      "hi": "Sugarcane (hi)",
+      "kn": "Sugarcane (kn)",
+      "ta": "Sugarcane (ta)",
+      "te": "Sugarcane (te)",
+      "mr": "Sugarcane (mr)",
+      "bn": "Sugarcane (bn)",
+      "gu": "Sugarcane (gu)",
+      "ml": "Sugarcane (ml)",
+      "pa": "Sugarcane (pa)"
+    },
+    "scientific": "Sugarcane_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sugarcane"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Sugarcane is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sugarcane"
+    ]
+  },
+  {
+    "name": {
+      "en": "Barley (en)",
+      "hi": "Barley (hi)",
+      "kn": "Barley (kn)",
+      "ta": "Barley (ta)",
+      "te": "Barley (te)",
+      "mr": "Barley (mr)",
+      "bn": "Barley (bn)",
+      "gu": "Barley (gu)",
+      "ml": "Barley (ml)",
+      "pa": "Barley (pa)"
+    },
+    "scientific": "Barley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Barley"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Barley is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "barley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rice (en)",
+      "hi": "Rice (hi)",
+      "kn": "Rice (kn)",
+      "ta": "Rice (ta)",
+      "te": "Rice (te)",
+      "mr": "Rice (mr)",
+      "bn": "Rice (bn)",
+      "gu": "Rice (gu)",
+      "ml": "Rice (ml)",
+      "pa": "Rice (pa)"
+    },
+    "scientific": "Rice_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rice"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Rice is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rice"
+    ]
+  },
+  {
+    "name": {
+      "en": "Wheat (en)",
+      "hi": "Wheat (hi)",
+      "kn": "Wheat (kn)",
+      "ta": "Wheat (ta)",
+      "te": "Wheat (te)",
+      "mr": "Wheat (mr)",
+      "bn": "Wheat (bn)",
+      "gu": "Wheat (gu)",
+      "ml": "Wheat (ml)",
+      "pa": "Wheat (pa)"
+    },
+    "scientific": "Wheat_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Wheat"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Wheat is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "wheat"
+    ]
+  },
+  {
+    "name": {
+      "en": "Maize (en)",
+      "hi": "Maize (hi)",
+      "kn": "Maize (kn)",
+      "ta": "Maize (ta)",
+      "te": "Maize (te)",
+      "mr": "Maize (mr)",
+      "bn": "Maize (bn)",
+      "gu": "Maize (gu)",
+      "ml": "Maize (ml)",
+      "pa": "Maize (pa)"
+    },
+    "scientific": "Maize_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Maize"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Maize is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "maize"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sugarcane (en)",
+      "hi": "Sugarcane (hi)",
+      "kn": "Sugarcane (kn)",
+      "ta": "Sugarcane (ta)",
+      "te": "Sugarcane (te)",
+      "mr": "Sugarcane (mr)",
+      "bn": "Sugarcane (bn)",
+      "gu": "Sugarcane (gu)",
+      "ml": "Sugarcane (ml)",
+      "pa": "Sugarcane (pa)"
+    },
+    "scientific": "Sugarcane_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sugarcane"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Sugarcane is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sugarcane"
+    ]
+  },
+  {
+    "name": {
+      "en": "Barley (en)",
+      "hi": "Barley (hi)",
+      "kn": "Barley (kn)",
+      "ta": "Barley (ta)",
+      "te": "Barley (te)",
+      "mr": "Barley (mr)",
+      "bn": "Barley (bn)",
+      "gu": "Barley (gu)",
+      "ml": "Barley (ml)",
+      "pa": "Barley (pa)"
+    },
+    "scientific": "Barley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Barley"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Barley is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "barley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rice (en)",
+      "hi": "Rice (hi)",
+      "kn": "Rice (kn)",
+      "ta": "Rice (ta)",
+      "te": "Rice (te)",
+      "mr": "Rice (mr)",
+      "bn": "Rice (bn)",
+      "gu": "Rice (gu)",
+      "ml": "Rice (ml)",
+      "pa": "Rice (pa)"
+    },
+    "scientific": "Rice_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rice"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Rice is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rice"
+    ]
+  },
+  {
+    "name": {
+      "en": "Wheat (en)",
+      "hi": "Wheat (hi)",
+      "kn": "Wheat (kn)",
+      "ta": "Wheat (ta)",
+      "te": "Wheat (te)",
+      "mr": "Wheat (mr)",
+      "bn": "Wheat (bn)",
+      "gu": "Wheat (gu)",
+      "ml": "Wheat (ml)",
+      "pa": "Wheat (pa)"
+    },
+    "scientific": "Wheat_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Wheat"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Wheat is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "wheat"
+    ]
+  },
+  {
+    "name": {
+      "en": "Maize (en)",
+      "hi": "Maize (hi)",
+      "kn": "Maize (kn)",
+      "ta": "Maize (ta)",
+      "te": "Maize (te)",
+      "mr": "Maize (mr)",
+      "bn": "Maize (bn)",
+      "gu": "Maize (gu)",
+      "ml": "Maize (ml)",
+      "pa": "Maize (pa)"
+    },
+    "scientific": "Maize_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Maize"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Maize is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "maize"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sugarcane (en)",
+      "hi": "Sugarcane (hi)",
+      "kn": "Sugarcane (kn)",
+      "ta": "Sugarcane (ta)",
+      "te": "Sugarcane (te)",
+      "mr": "Sugarcane (mr)",
+      "bn": "Sugarcane (bn)",
+      "gu": "Sugarcane (gu)",
+      "ml": "Sugarcane (ml)",
+      "pa": "Sugarcane (pa)"
+    },
+    "scientific": "Sugarcane_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sugarcane"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Sugarcane is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sugarcane"
+    ]
+  },
+  {
+    "name": {
+      "en": "Barley (en)",
+      "hi": "Barley (hi)",
+      "kn": "Barley (kn)",
+      "ta": "Barley (ta)",
+      "te": "Barley (te)",
+      "mr": "Barley (mr)",
+      "bn": "Barley (bn)",
+      "gu": "Barley (gu)",
+      "ml": "Barley (ml)",
+      "pa": "Barley (pa)"
+    },
+    "scientific": "Barley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Barley"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Barley is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "barley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rice (en)",
+      "hi": "Rice (hi)",
+      "kn": "Rice (kn)",
+      "ta": "Rice (ta)",
+      "te": "Rice (te)",
+      "mr": "Rice (mr)",
+      "bn": "Rice (bn)",
+      "gu": "Rice (gu)",
+      "ml": "Rice (ml)",
+      "pa": "Rice (pa)"
+    },
+    "scientific": "Rice_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rice"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Rice is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rice"
+    ]
+  },
+  {
+    "name": {
+      "en": "Wheat (en)",
+      "hi": "Wheat (hi)",
+      "kn": "Wheat (kn)",
+      "ta": "Wheat (ta)",
+      "te": "Wheat (te)",
+      "mr": "Wheat (mr)",
+      "bn": "Wheat (bn)",
+      "gu": "Wheat (gu)",
+      "ml": "Wheat (ml)",
+      "pa": "Wheat (pa)"
+    },
+    "scientific": "Wheat_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Wheat"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Wheat is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "wheat"
+    ]
+  },
+  {
+    "name": {
+      "en": "Maize (en)",
+      "hi": "Maize (hi)",
+      "kn": "Maize (kn)",
+      "ta": "Maize (ta)",
+      "te": "Maize (te)",
+      "mr": "Maize (mr)",
+      "bn": "Maize (bn)",
+      "gu": "Maize (gu)",
+      "ml": "Maize (ml)",
+      "pa": "Maize (pa)"
+    },
+    "scientific": "Maize_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Maize"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Maize is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "maize"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sugarcane (en)",
+      "hi": "Sugarcane (hi)",
+      "kn": "Sugarcane (kn)",
+      "ta": "Sugarcane (ta)",
+      "te": "Sugarcane (te)",
+      "mr": "Sugarcane (mr)",
+      "bn": "Sugarcane (bn)",
+      "gu": "Sugarcane (gu)",
+      "ml": "Sugarcane (ml)",
+      "pa": "Sugarcane (pa)"
+    },
+    "scientific": "Sugarcane_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sugarcane"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Sugarcane is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sugarcane"
+    ]
+  },
+  {
+    "name": {
+      "en": "Barley (en)",
+      "hi": "Barley (hi)",
+      "kn": "Barley (kn)",
+      "ta": "Barley (ta)",
+      "te": "Barley (te)",
+      "mr": "Barley (mr)",
+      "bn": "Barley (bn)",
+      "gu": "Barley (gu)",
+      "ml": "Barley (ml)",
+      "pa": "Barley (pa)"
+    },
+    "scientific": "Barley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Barley"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Barley is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "barley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rice (en)",
+      "hi": "Rice (hi)",
+      "kn": "Rice (kn)",
+      "ta": "Rice (ta)",
+      "te": "Rice (te)",
+      "mr": "Rice (mr)",
+      "bn": "Rice (bn)",
+      "gu": "Rice (gu)",
+      "ml": "Rice (ml)",
+      "pa": "Rice (pa)"
+    },
+    "scientific": "Rice_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rice"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Rice is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rice"
+    ]
+  },
+  {
+    "name": {
+      "en": "Wheat (en)",
+      "hi": "Wheat (hi)",
+      "kn": "Wheat (kn)",
+      "ta": "Wheat (ta)",
+      "te": "Wheat (te)",
+      "mr": "Wheat (mr)",
+      "bn": "Wheat (bn)",
+      "gu": "Wheat (gu)",
+      "ml": "Wheat (ml)",
+      "pa": "Wheat (pa)"
+    },
+    "scientific": "Wheat_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Wheat"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Wheat is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "wheat"
+    ]
+  },
+  {
+    "name": {
+      "en": "Maize (en)",
+      "hi": "Maize (hi)",
+      "kn": "Maize (kn)",
+      "ta": "Maize (ta)",
+      "te": "Maize (te)",
+      "mr": "Maize (mr)",
+      "bn": "Maize (bn)",
+      "gu": "Maize (gu)",
+      "ml": "Maize (ml)",
+      "pa": "Maize (pa)"
+    },
+    "scientific": "Maize_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Maize"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Maize is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "maize"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sugarcane (en)",
+      "hi": "Sugarcane (hi)",
+      "kn": "Sugarcane (kn)",
+      "ta": "Sugarcane (ta)",
+      "te": "Sugarcane (te)",
+      "mr": "Sugarcane (mr)",
+      "bn": "Sugarcane (bn)",
+      "gu": "Sugarcane (gu)",
+      "ml": "Sugarcane (ml)",
+      "pa": "Sugarcane (pa)"
+    },
+    "scientific": "Sugarcane_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sugarcane"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Sugarcane is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sugarcane"
+    ]
+  },
+  {
+    "name": {
+      "en": "Barley (en)",
+      "hi": "Barley (hi)",
+      "kn": "Barley (kn)",
+      "ta": "Barley (ta)",
+      "te": "Barley (te)",
+      "mr": "Barley (mr)",
+      "bn": "Barley (bn)",
+      "gu": "Barley (gu)",
+      "ml": "Barley (ml)",
+      "pa": "Barley (pa)"
+    },
+    "scientific": "Barley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Barley"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Barley is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "barley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rice (en)",
+      "hi": "Rice (hi)",
+      "kn": "Rice (kn)",
+      "ta": "Rice (ta)",
+      "te": "Rice (te)",
+      "mr": "Rice (mr)",
+      "bn": "Rice (bn)",
+      "gu": "Rice (gu)",
+      "ml": "Rice (ml)",
+      "pa": "Rice (pa)"
+    },
+    "scientific": "Rice_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rice"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Rice is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rice"
+    ]
+  },
+  {
+    "name": {
+      "en": "Wheat (en)",
+      "hi": "Wheat (hi)",
+      "kn": "Wheat (kn)",
+      "ta": "Wheat (ta)",
+      "te": "Wheat (te)",
+      "mr": "Wheat (mr)",
+      "bn": "Wheat (bn)",
+      "gu": "Wheat (gu)",
+      "ml": "Wheat (ml)",
+      "pa": "Wheat (pa)"
+    },
+    "scientific": "Wheat_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Wheat"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Wheat is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "wheat"
+    ]
+  },
+  {
+    "name": {
+      "en": "Maize (en)",
+      "hi": "Maize (hi)",
+      "kn": "Maize (kn)",
+      "ta": "Maize (ta)",
+      "te": "Maize (te)",
+      "mr": "Maize (mr)",
+      "bn": "Maize (bn)",
+      "gu": "Maize (gu)",
+      "ml": "Maize (ml)",
+      "pa": "Maize (pa)"
+    },
+    "scientific": "Maize_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Maize"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Maize is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "maize"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sugarcane (en)",
+      "hi": "Sugarcane (hi)",
+      "kn": "Sugarcane (kn)",
+      "ta": "Sugarcane (ta)",
+      "te": "Sugarcane (te)",
+      "mr": "Sugarcane (mr)",
+      "bn": "Sugarcane (bn)",
+      "gu": "Sugarcane (gu)",
+      "ml": "Sugarcane (ml)",
+      "pa": "Sugarcane (pa)"
+    },
+    "scientific": "Sugarcane_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sugarcane"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Sugarcane is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sugarcane"
+    ]
+  },
+  {
+    "name": {
+      "en": "Barley (en)",
+      "hi": "Barley (hi)",
+      "kn": "Barley (kn)",
+      "ta": "Barley (ta)",
+      "te": "Barley (te)",
+      "mr": "Barley (mr)",
+      "bn": "Barley (bn)",
+      "gu": "Barley (gu)",
+      "ml": "Barley (ml)",
+      "pa": "Barley (pa)"
+    },
+    "scientific": "Barley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Barley"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Barley is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "barley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rice (en)",
+      "hi": "Rice (hi)",
+      "kn": "Rice (kn)",
+      "ta": "Rice (ta)",
+      "te": "Rice (te)",
+      "mr": "Rice (mr)",
+      "bn": "Rice (bn)",
+      "gu": "Rice (gu)",
+      "ml": "Rice (ml)",
+      "pa": "Rice (pa)"
+    },
+    "scientific": "Rice_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rice"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Rice is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rice"
+    ]
+  },
+  {
+    "name": {
+      "en": "Wheat (en)",
+      "hi": "Wheat (hi)",
+      "kn": "Wheat (kn)",
+      "ta": "Wheat (ta)",
+      "te": "Wheat (te)",
+      "mr": "Wheat (mr)",
+      "bn": "Wheat (bn)",
+      "gu": "Wheat (gu)",
+      "ml": "Wheat (ml)",
+      "pa": "Wheat (pa)"
+    },
+    "scientific": "Wheat_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Wheat"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Wheat is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "wheat"
+    ]
+  },
+  {
+    "name": {
+      "en": "Maize (en)",
+      "hi": "Maize (hi)",
+      "kn": "Maize (kn)",
+      "ta": "Maize (ta)",
+      "te": "Maize (te)",
+      "mr": "Maize (mr)",
+      "bn": "Maize (bn)",
+      "gu": "Maize (gu)",
+      "ml": "Maize (ml)",
+      "pa": "Maize (pa)"
+    },
+    "scientific": "Maize_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Maize"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Maize is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "maize"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sugarcane (en)",
+      "hi": "Sugarcane (hi)",
+      "kn": "Sugarcane (kn)",
+      "ta": "Sugarcane (ta)",
+      "te": "Sugarcane (te)",
+      "mr": "Sugarcane (mr)",
+      "bn": "Sugarcane (bn)",
+      "gu": "Sugarcane (gu)",
+      "ml": "Sugarcane (ml)",
+      "pa": "Sugarcane (pa)"
+    },
+    "scientific": "Sugarcane_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sugarcane"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Sugarcane is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sugarcane"
+    ]
+  },
+  {
+    "name": {
+      "en": "Barley (en)",
+      "hi": "Barley (hi)",
+      "kn": "Barley (kn)",
+      "ta": "Barley (ta)",
+      "te": "Barley (te)",
+      "mr": "Barley (mr)",
+      "bn": "Barley (bn)",
+      "gu": "Barley (gu)",
+      "ml": "Barley (ml)",
+      "pa": "Barley (pa)"
+    },
+    "scientific": "Barley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Barley"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Barley is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "barley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rice (en)",
+      "hi": "Rice (hi)",
+      "kn": "Rice (kn)",
+      "ta": "Rice (ta)",
+      "te": "Rice (te)",
+      "mr": "Rice (mr)",
+      "bn": "Rice (bn)",
+      "gu": "Rice (gu)",
+      "ml": "Rice (ml)",
+      "pa": "Rice (pa)"
+    },
+    "scientific": "Rice_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rice"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Rice is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rice"
+    ]
+  },
+  {
+    "name": {
+      "en": "Wheat (en)",
+      "hi": "Wheat (hi)",
+      "kn": "Wheat (kn)",
+      "ta": "Wheat (ta)",
+      "te": "Wheat (te)",
+      "mr": "Wheat (mr)",
+      "bn": "Wheat (bn)",
+      "gu": "Wheat (gu)",
+      "ml": "Wheat (ml)",
+      "pa": "Wheat (pa)"
+    },
+    "scientific": "Wheat_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Wheat"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Wheat is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "wheat"
+    ]
+  },
+  {
+    "name": {
+      "en": "Maize (en)",
+      "hi": "Maize (hi)",
+      "kn": "Maize (kn)",
+      "ta": "Maize (ta)",
+      "te": "Maize (te)",
+      "mr": "Maize (mr)",
+      "bn": "Maize (bn)",
+      "gu": "Maize (gu)",
+      "ml": "Maize (ml)",
+      "pa": "Maize (pa)"
+    },
+    "scientific": "Maize_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Maize"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Maize is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "maize"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sugarcane (en)",
+      "hi": "Sugarcane (hi)",
+      "kn": "Sugarcane (kn)",
+      "ta": "Sugarcane (ta)",
+      "te": "Sugarcane (te)",
+      "mr": "Sugarcane (mr)",
+      "bn": "Sugarcane (bn)",
+      "gu": "Sugarcane (gu)",
+      "ml": "Sugarcane (ml)",
+      "pa": "Sugarcane (pa)"
+    },
+    "scientific": "Sugarcane_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sugarcane"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Sugarcane is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sugarcane"
+    ]
+  },
+  {
+    "name": {
+      "en": "Barley (en)",
+      "hi": "Barley (hi)",
+      "kn": "Barley (kn)",
+      "ta": "Barley (ta)",
+      "te": "Barley (te)",
+      "mr": "Barley (mr)",
+      "bn": "Barley (bn)",
+      "gu": "Barley (gu)",
+      "ml": "Barley (ml)",
+      "pa": "Barley (pa)"
+    },
+    "scientific": "Barley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Barley"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Barley is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "barley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rice (en)",
+      "hi": "Rice (hi)",
+      "kn": "Rice (kn)",
+      "ta": "Rice (ta)",
+      "te": "Rice (te)",
+      "mr": "Rice (mr)",
+      "bn": "Rice (bn)",
+      "gu": "Rice (gu)",
+      "ml": "Rice (ml)",
+      "pa": "Rice (pa)"
+    },
+    "scientific": "Rice_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rice"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Rice is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rice"
+    ]
+  },
+  {
+    "name": {
+      "en": "Wheat (en)",
+      "hi": "Wheat (hi)",
+      "kn": "Wheat (kn)",
+      "ta": "Wheat (ta)",
+      "te": "Wheat (te)",
+      "mr": "Wheat (mr)",
+      "bn": "Wheat (bn)",
+      "gu": "Wheat (gu)",
+      "ml": "Wheat (ml)",
+      "pa": "Wheat (pa)"
+    },
+    "scientific": "Wheat_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Wheat"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Wheat is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "wheat"
+    ]
+  },
+  {
+    "name": {
+      "en": "Maize (en)",
+      "hi": "Maize (hi)",
+      "kn": "Maize (kn)",
+      "ta": "Maize (ta)",
+      "te": "Maize (te)",
+      "mr": "Maize (mr)",
+      "bn": "Maize (bn)",
+      "gu": "Maize (gu)",
+      "ml": "Maize (ml)",
+      "pa": "Maize (pa)"
+    },
+    "scientific": "Maize_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Maize"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Maize is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "maize"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sugarcane (en)",
+      "hi": "Sugarcane (hi)",
+      "kn": "Sugarcane (kn)",
+      "ta": "Sugarcane (ta)",
+      "te": "Sugarcane (te)",
+      "mr": "Sugarcane (mr)",
+      "bn": "Sugarcane (bn)",
+      "gu": "Sugarcane (gu)",
+      "ml": "Sugarcane (ml)",
+      "pa": "Sugarcane (pa)"
+    },
+    "scientific": "Sugarcane_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sugarcane"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Sugarcane is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sugarcane"
+    ]
+  },
+  {
+    "name": {
+      "en": "Barley (en)",
+      "hi": "Barley (hi)",
+      "kn": "Barley (kn)",
+      "ta": "Barley (ta)",
+      "te": "Barley (te)",
+      "mr": "Barley (mr)",
+      "bn": "Barley (bn)",
+      "gu": "Barley (gu)",
+      "ml": "Barley (ml)",
+      "pa": "Barley (pa)"
+    },
+    "scientific": "Barley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Barley"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Barley is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "barley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rice (en)",
+      "hi": "Rice (hi)",
+      "kn": "Rice (kn)",
+      "ta": "Rice (ta)",
+      "te": "Rice (te)",
+      "mr": "Rice (mr)",
+      "bn": "Rice (bn)",
+      "gu": "Rice (gu)",
+      "ml": "Rice (ml)",
+      "pa": "Rice (pa)"
+    },
+    "scientific": "Rice_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rice"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Rice is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rice"
+    ]
+  },
+  {
+    "name": {
+      "en": "Wheat (en)",
+      "hi": "Wheat (hi)",
+      "kn": "Wheat (kn)",
+      "ta": "Wheat (ta)",
+      "te": "Wheat (te)",
+      "mr": "Wheat (mr)",
+      "bn": "Wheat (bn)",
+      "gu": "Wheat (gu)",
+      "ml": "Wheat (ml)",
+      "pa": "Wheat (pa)"
+    },
+    "scientific": "Wheat_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Wheat"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Wheat is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "wheat"
+    ]
+  },
+  {
+    "name": {
+      "en": "Maize (en)",
+      "hi": "Maize (hi)",
+      "kn": "Maize (kn)",
+      "ta": "Maize (ta)",
+      "te": "Maize (te)",
+      "mr": "Maize (mr)",
+      "bn": "Maize (bn)",
+      "gu": "Maize (gu)",
+      "ml": "Maize (ml)",
+      "pa": "Maize (pa)"
+    },
+    "scientific": "Maize_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Maize"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Maize is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "maize"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sugarcane (en)",
+      "hi": "Sugarcane (hi)",
+      "kn": "Sugarcane (kn)",
+      "ta": "Sugarcane (ta)",
+      "te": "Sugarcane (te)",
+      "mr": "Sugarcane (mr)",
+      "bn": "Sugarcane (bn)",
+      "gu": "Sugarcane (gu)",
+      "ml": "Sugarcane (ml)",
+      "pa": "Sugarcane (pa)"
+    },
+    "scientific": "Sugarcane_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sugarcane"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Sugarcane is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sugarcane"
+    ]
+  },
+  {
+    "name": {
+      "en": "Barley (en)",
+      "hi": "Barley (hi)",
+      "kn": "Barley (kn)",
+      "ta": "Barley (ta)",
+      "te": "Barley (te)",
+      "mr": "Barley (mr)",
+      "bn": "Barley (bn)",
+      "gu": "Barley (gu)",
+      "ml": "Barley (ml)",
+      "pa": "Barley (pa)"
+    },
+    "scientific": "Barley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Barley"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Barley is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "barley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rice (en)",
+      "hi": "Rice (hi)",
+      "kn": "Rice (kn)",
+      "ta": "Rice (ta)",
+      "te": "Rice (te)",
+      "mr": "Rice (mr)",
+      "bn": "Rice (bn)",
+      "gu": "Rice (gu)",
+      "ml": "Rice (ml)",
+      "pa": "Rice (pa)"
+    },
+    "scientific": "Rice_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rice"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Rice is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rice"
+    ]
+  },
+  {
+    "name": {
+      "en": "Wheat (en)",
+      "hi": "Wheat (hi)",
+      "kn": "Wheat (kn)",
+      "ta": "Wheat (ta)",
+      "te": "Wheat (te)",
+      "mr": "Wheat (mr)",
+      "bn": "Wheat (bn)",
+      "gu": "Wheat (gu)",
+      "ml": "Wheat (ml)",
+      "pa": "Wheat (pa)"
+    },
+    "scientific": "Wheat_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Wheat"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Wheat is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "wheat"
+    ]
+  },
+  {
+    "name": {
+      "en": "Maize (en)",
+      "hi": "Maize (hi)",
+      "kn": "Maize (kn)",
+      "ta": "Maize (ta)",
+      "te": "Maize (te)",
+      "mr": "Maize (mr)",
+      "bn": "Maize (bn)",
+      "gu": "Maize (gu)",
+      "ml": "Maize (ml)",
+      "pa": "Maize (pa)"
+    },
+    "scientific": "Maize_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Maize"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Maize is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "maize"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sugarcane (en)",
+      "hi": "Sugarcane (hi)",
+      "kn": "Sugarcane (kn)",
+      "ta": "Sugarcane (ta)",
+      "te": "Sugarcane (te)",
+      "mr": "Sugarcane (mr)",
+      "bn": "Sugarcane (bn)",
+      "gu": "Sugarcane (gu)",
+      "ml": "Sugarcane (ml)",
+      "pa": "Sugarcane (pa)"
+    },
+    "scientific": "Sugarcane_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sugarcane"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Sugarcane is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sugarcane"
+    ]
+  },
+  {
+    "name": {
+      "en": "Barley (en)",
+      "hi": "Barley (hi)",
+      "kn": "Barley (kn)",
+      "ta": "Barley (ta)",
+      "te": "Barley (te)",
+      "mr": "Barley (mr)",
+      "bn": "Barley (bn)",
+      "gu": "Barley (gu)",
+      "ml": "Barley (ml)",
+      "pa": "Barley (pa)"
+    },
+    "scientific": "Barley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Barley"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Barley is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "barley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rice (en)",
+      "hi": "Rice (hi)",
+      "kn": "Rice (kn)",
+      "ta": "Rice (ta)",
+      "te": "Rice (te)",
+      "mr": "Rice (mr)",
+      "bn": "Rice (bn)",
+      "gu": "Rice (gu)",
+      "ml": "Rice (ml)",
+      "pa": "Rice (pa)"
+    },
+    "scientific": "Rice_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rice"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Rice is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rice"
+    ]
+  },
+  {
+    "name": {
+      "en": "Wheat (en)",
+      "hi": "Wheat (hi)",
+      "kn": "Wheat (kn)",
+      "ta": "Wheat (ta)",
+      "te": "Wheat (te)",
+      "mr": "Wheat (mr)",
+      "bn": "Wheat (bn)",
+      "gu": "Wheat (gu)",
+      "ml": "Wheat (ml)",
+      "pa": "Wheat (pa)"
+    },
+    "scientific": "Wheat_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Wheat"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Wheat is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "wheat"
+    ]
+  },
+  {
+    "name": {
+      "en": "Maize (en)",
+      "hi": "Maize (hi)",
+      "kn": "Maize (kn)",
+      "ta": "Maize (ta)",
+      "te": "Maize (te)",
+      "mr": "Maize (mr)",
+      "bn": "Maize (bn)",
+      "gu": "Maize (gu)",
+      "ml": "Maize (ml)",
+      "pa": "Maize (pa)"
+    },
+    "scientific": "Maize_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Maize"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Maize is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "maize"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sugarcane (en)",
+      "hi": "Sugarcane (hi)",
+      "kn": "Sugarcane (kn)",
+      "ta": "Sugarcane (ta)",
+      "te": "Sugarcane (te)",
+      "mr": "Sugarcane (mr)",
+      "bn": "Sugarcane (bn)",
+      "gu": "Sugarcane (gu)",
+      "ml": "Sugarcane (ml)",
+      "pa": "Sugarcane (pa)"
+    },
+    "scientific": "Sugarcane_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sugarcane"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Sugarcane is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sugarcane"
+    ]
+  },
+  {
+    "name": {
+      "en": "Barley (en)",
+      "hi": "Barley (hi)",
+      "kn": "Barley (kn)",
+      "ta": "Barley (ta)",
+      "te": "Barley (te)",
+      "mr": "Barley (mr)",
+      "bn": "Barley (bn)",
+      "gu": "Barley (gu)",
+      "ml": "Barley (ml)",
+      "pa": "Barley (pa)"
+    },
+    "scientific": "Barley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Barley"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Barley is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "barley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rice (en)",
+      "hi": "Rice (hi)",
+      "kn": "Rice (kn)",
+      "ta": "Rice (ta)",
+      "te": "Rice (te)",
+      "mr": "Rice (mr)",
+      "bn": "Rice (bn)",
+      "gu": "Rice (gu)",
+      "ml": "Rice (ml)",
+      "pa": "Rice (pa)"
+    },
+    "scientific": "Rice_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rice"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Rice is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rice"
+    ]
+  },
+  {
+    "name": {
+      "en": "Wheat (en)",
+      "hi": "Wheat (hi)",
+      "kn": "Wheat (kn)",
+      "ta": "Wheat (ta)",
+      "te": "Wheat (te)",
+      "mr": "Wheat (mr)",
+      "bn": "Wheat (bn)",
+      "gu": "Wheat (gu)",
+      "ml": "Wheat (ml)",
+      "pa": "Wheat (pa)"
+    },
+    "scientific": "Wheat_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Wheat"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Wheat is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "wheat"
+    ]
+  },
+  {
+    "name": {
+      "en": "Maize (en)",
+      "hi": "Maize (hi)",
+      "kn": "Maize (kn)",
+      "ta": "Maize (ta)",
+      "te": "Maize (te)",
+      "mr": "Maize (mr)",
+      "bn": "Maize (bn)",
+      "gu": "Maize (gu)",
+      "ml": "Maize (ml)",
+      "pa": "Maize (pa)"
+    },
+    "scientific": "Maize_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Maize"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Maize is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "maize"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sugarcane (en)",
+      "hi": "Sugarcane (hi)",
+      "kn": "Sugarcane (kn)",
+      "ta": "Sugarcane (ta)",
+      "te": "Sugarcane (te)",
+      "mr": "Sugarcane (mr)",
+      "bn": "Sugarcane (bn)",
+      "gu": "Sugarcane (gu)",
+      "ml": "Sugarcane (ml)",
+      "pa": "Sugarcane (pa)"
+    },
+    "scientific": "Sugarcane_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sugarcane"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Sugarcane is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sugarcane"
+    ]
+  },
+  {
+    "name": {
+      "en": "Barley (en)",
+      "hi": "Barley (hi)",
+      "kn": "Barley (kn)",
+      "ta": "Barley (ta)",
+      "te": "Barley (te)",
+      "mr": "Barley (mr)",
+      "bn": "Barley (bn)",
+      "gu": "Barley (gu)",
+      "ml": "Barley (ml)",
+      "pa": "Barley (pa)"
+    },
+    "scientific": "Barley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Barley"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Barley is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "barley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rice (en)",
+      "hi": "Rice (hi)",
+      "kn": "Rice (kn)",
+      "ta": "Rice (ta)",
+      "te": "Rice (te)",
+      "mr": "Rice (mr)",
+      "bn": "Rice (bn)",
+      "gu": "Rice (gu)",
+      "ml": "Rice (ml)",
+      "pa": "Rice (pa)"
+    },
+    "scientific": "Rice_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rice"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Rice is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rice"
+    ]
+  },
+  {
+    "name": {
+      "en": "Wheat (en)",
+      "hi": "Wheat (hi)",
+      "kn": "Wheat (kn)",
+      "ta": "Wheat (ta)",
+      "te": "Wheat (te)",
+      "mr": "Wheat (mr)",
+      "bn": "Wheat (bn)",
+      "gu": "Wheat (gu)",
+      "ml": "Wheat (ml)",
+      "pa": "Wheat (pa)"
+    },
+    "scientific": "Wheat_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Wheat"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Wheat is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "wheat"
+    ]
+  },
+  {
+    "name": {
+      "en": "Maize (en)",
+      "hi": "Maize (hi)",
+      "kn": "Maize (kn)",
+      "ta": "Maize (ta)",
+      "te": "Maize (te)",
+      "mr": "Maize (mr)",
+      "bn": "Maize (bn)",
+      "gu": "Maize (gu)",
+      "ml": "Maize (ml)",
+      "pa": "Maize (pa)"
+    },
+    "scientific": "Maize_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Maize"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Maize is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "maize"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sugarcane (en)",
+      "hi": "Sugarcane (hi)",
+      "kn": "Sugarcane (kn)",
+      "ta": "Sugarcane (ta)",
+      "te": "Sugarcane (te)",
+      "mr": "Sugarcane (mr)",
+      "bn": "Sugarcane (bn)",
+      "gu": "Sugarcane (gu)",
+      "ml": "Sugarcane (ml)",
+      "pa": "Sugarcane (pa)"
+    },
+    "scientific": "Sugarcane_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sugarcane"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Sugarcane is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sugarcane"
+    ]
+  },
+  {
+    "name": {
+      "en": "Barley (en)",
+      "hi": "Barley (hi)",
+      "kn": "Barley (kn)",
+      "ta": "Barley (ta)",
+      "te": "Barley (te)",
+      "mr": "Barley (mr)",
+      "bn": "Barley (bn)",
+      "gu": "Barley (gu)",
+      "ml": "Barley (ml)",
+      "pa": "Barley (pa)"
+    },
+    "scientific": "Barley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Barley"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Barley is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "barley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rice (en)",
+      "hi": "Rice (hi)",
+      "kn": "Rice (kn)",
+      "ta": "Rice (ta)",
+      "te": "Rice (te)",
+      "mr": "Rice (mr)",
+      "bn": "Rice (bn)",
+      "gu": "Rice (gu)",
+      "ml": "Rice (ml)",
+      "pa": "Rice (pa)"
+    },
+    "scientific": "Rice_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rice"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Rice is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rice"
+    ]
+  },
+  {
+    "name": {
+      "en": "Wheat (en)",
+      "hi": "Wheat (hi)",
+      "kn": "Wheat (kn)",
+      "ta": "Wheat (ta)",
+      "te": "Wheat (te)",
+      "mr": "Wheat (mr)",
+      "bn": "Wheat (bn)",
+      "gu": "Wheat (gu)",
+      "ml": "Wheat (ml)",
+      "pa": "Wheat (pa)"
+    },
+    "scientific": "Wheat_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Wheat"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Wheat is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "wheat"
+    ]
+  },
+  {
+    "name": {
+      "en": "Maize (en)",
+      "hi": "Maize (hi)",
+      "kn": "Maize (kn)",
+      "ta": "Maize (ta)",
+      "te": "Maize (te)",
+      "mr": "Maize (mr)",
+      "bn": "Maize (bn)",
+      "gu": "Maize (gu)",
+      "ml": "Maize (ml)",
+      "pa": "Maize (pa)"
+    },
+    "scientific": "Maize_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Maize"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Maize is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "maize"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sugarcane (en)",
+      "hi": "Sugarcane (hi)",
+      "kn": "Sugarcane (kn)",
+      "ta": "Sugarcane (ta)",
+      "te": "Sugarcane (te)",
+      "mr": "Sugarcane (mr)",
+      "bn": "Sugarcane (bn)",
+      "gu": "Sugarcane (gu)",
+      "ml": "Sugarcane (ml)",
+      "pa": "Sugarcane (pa)"
+    },
+    "scientific": "Sugarcane_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sugarcane"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Sugarcane is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sugarcane"
+    ]
+  },
+  {
+    "name": {
+      "en": "Barley (en)",
+      "hi": "Barley (hi)",
+      "kn": "Barley (kn)",
+      "ta": "Barley (ta)",
+      "te": "Barley (te)",
+      "mr": "Barley (mr)",
+      "bn": "Barley (bn)",
+      "gu": "Barley (gu)",
+      "ml": "Barley (ml)",
+      "pa": "Barley (pa)"
+    },
+    "scientific": "Barley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Barley"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Barley is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "barley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rice (en)",
+      "hi": "Rice (hi)",
+      "kn": "Rice (kn)",
+      "ta": "Rice (ta)",
+      "te": "Rice (te)",
+      "mr": "Rice (mr)",
+      "bn": "Rice (bn)",
+      "gu": "Rice (gu)",
+      "ml": "Rice (ml)",
+      "pa": "Rice (pa)"
+    },
+    "scientific": "Rice_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rice"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Rice is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rice"
+    ]
+  },
+  {
+    "name": {
+      "en": "Wheat (en)",
+      "hi": "Wheat (hi)",
+      "kn": "Wheat (kn)",
+      "ta": "Wheat (ta)",
+      "te": "Wheat (te)",
+      "mr": "Wheat (mr)",
+      "bn": "Wheat (bn)",
+      "gu": "Wheat (gu)",
+      "ml": "Wheat (ml)",
+      "pa": "Wheat (pa)"
+    },
+    "scientific": "Wheat_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Wheat"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Wheat is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "wheat"
+    ]
+  },
+  {
+    "name": {
+      "en": "Maize (en)",
+      "hi": "Maize (hi)",
+      "kn": "Maize (kn)",
+      "ta": "Maize (ta)",
+      "te": "Maize (te)",
+      "mr": "Maize (mr)",
+      "bn": "Maize (bn)",
+      "gu": "Maize (gu)",
+      "ml": "Maize (ml)",
+      "pa": "Maize (pa)"
+    },
+    "scientific": "Maize_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Maize"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Maize is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "maize"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sugarcane (en)",
+      "hi": "Sugarcane (hi)",
+      "kn": "Sugarcane (kn)",
+      "ta": "Sugarcane (ta)",
+      "te": "Sugarcane (te)",
+      "mr": "Sugarcane (mr)",
+      "bn": "Sugarcane (bn)",
+      "gu": "Sugarcane (gu)",
+      "ml": "Sugarcane (ml)",
+      "pa": "Sugarcane (pa)"
+    },
+    "scientific": "Sugarcane_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sugarcane"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Sugarcane is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sugarcane"
+    ]
+  },
+  {
+    "name": {
+      "en": "Barley (en)",
+      "hi": "Barley (hi)",
+      "kn": "Barley (kn)",
+      "ta": "Barley (ta)",
+      "te": "Barley (te)",
+      "mr": "Barley (mr)",
+      "bn": "Barley (bn)",
+      "gu": "Barley (gu)",
+      "ml": "Barley (ml)",
+      "pa": "Barley (pa)"
+    },
+    "scientific": "Barley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Barley"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Barley is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "barley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rice (en)",
+      "hi": "Rice (hi)",
+      "kn": "Rice (kn)",
+      "ta": "Rice (ta)",
+      "te": "Rice (te)",
+      "mr": "Rice (mr)",
+      "bn": "Rice (bn)",
+      "gu": "Rice (gu)",
+      "ml": "Rice (ml)",
+      "pa": "Rice (pa)"
+    },
+    "scientific": "Rice_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Rice"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Rice is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "rice"
+    ]
+  },
+  {
+    "name": {
+      "en": "Wheat (en)",
+      "hi": "Wheat (hi)",
+      "kn": "Wheat (kn)",
+      "ta": "Wheat (ta)",
+      "te": "Wheat (te)",
+      "mr": "Wheat (mr)",
+      "bn": "Wheat (bn)",
+      "gu": "Wheat (gu)",
+      "ml": "Wheat (ml)",
+      "pa": "Wheat (pa)"
+    },
+    "scientific": "Wheat_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Wheat"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Wheat is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "wheat"
+    ]
+  },
+  {
+    "name": {
+      "en": "Maize (en)",
+      "hi": "Maize (hi)",
+      "kn": "Maize (kn)",
+      "ta": "Maize (ta)",
+      "te": "Maize (te)",
+      "mr": "Maize (mr)",
+      "bn": "Maize (bn)",
+      "gu": "Maize (gu)",
+      "ml": "Maize (ml)",
+      "pa": "Maize (pa)"
+    },
+    "scientific": "Maize_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Maize"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Maize is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "maize"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sugarcane (en)",
+      "hi": "Sugarcane (hi)",
+      "kn": "Sugarcane (kn)",
+      "ta": "Sugarcane (ta)",
+      "te": "Sugarcane (te)",
+      "mr": "Sugarcane (mr)",
+      "bn": "Sugarcane (bn)",
+      "gu": "Sugarcane (gu)",
+      "ml": "Sugarcane (ml)",
+      "pa": "Sugarcane (pa)"
+    },
+    "scientific": "Sugarcane_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sugarcane"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Sugarcane is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sugarcane"
+    ]
+  },
+  {
+    "name": {
+      "en": "Barley (en)",
+      "hi": "Barley (hi)",
+      "kn": "Barley (kn)",
+      "ta": "Barley (ta)",
+      "te": "Barley (te)",
+      "mr": "Barley (mr)",
+      "bn": "Barley (bn)",
+      "gu": "Barley (gu)",
+      "ml": "Barley (ml)",
+      "pa": "Barley (pa)"
+    },
+    "scientific": "Barley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Barley"
+    },
+    "category": "Crops",
+    "description": {
+      "en": "Barley is widely used in India under crops category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "barley"
+    ]
+  }
+]

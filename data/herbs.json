@@ -1,0 +1,6302 @@
+[
+  {
+    "name": {
+      "en": "Mint (en)",
+      "hi": "Mint (hi)",
+      "kn": "Mint (kn)",
+      "ta": "Mint (ta)",
+      "te": "Mint (te)",
+      "mr": "Mint (mr)",
+      "bn": "Mint (bn)",
+      "gu": "Mint (gu)",
+      "ml": "Mint (ml)",
+      "pa": "Mint (pa)"
+    },
+    "scientific": "Mint_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Mint"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Mint is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "mint"
+    ]
+  },
+  {
+    "name": {
+      "en": "Coriander (en)",
+      "hi": "Coriander (hi)",
+      "kn": "Coriander (kn)",
+      "ta": "Coriander (ta)",
+      "te": "Coriander (te)",
+      "mr": "Coriander (mr)",
+      "bn": "Coriander (bn)",
+      "gu": "Coriander (gu)",
+      "ml": "Coriander (ml)",
+      "pa": "Coriander (pa)"
+    },
+    "scientific": "Coriander_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Coriander"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Coriander is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "coriander"
+    ]
+  },
+  {
+    "name": {
+      "en": "Basil (en)",
+      "hi": "Basil (hi)",
+      "kn": "Basil (kn)",
+      "ta": "Basil (ta)",
+      "te": "Basil (te)",
+      "mr": "Basil (mr)",
+      "bn": "Basil (bn)",
+      "gu": "Basil (gu)",
+      "ml": "Basil (ml)",
+      "pa": "Basil (pa)"
+    },
+    "scientific": "Basil_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Basil"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Basil is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "basil"
+    ]
+  },
+  {
+    "name": {
+      "en": "Parsley (en)",
+      "hi": "Parsley (hi)",
+      "kn": "Parsley (kn)",
+      "ta": "Parsley (ta)",
+      "te": "Parsley (te)",
+      "mr": "Parsley (mr)",
+      "bn": "Parsley (bn)",
+      "gu": "Parsley (gu)",
+      "ml": "Parsley (ml)",
+      "pa": "Parsley (pa)"
+    },
+    "scientific": "Parsley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Parsley"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Parsley is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "parsley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Dill (en)",
+      "hi": "Dill (hi)",
+      "kn": "Dill (kn)",
+      "ta": "Dill (ta)",
+      "te": "Dill (te)",
+      "mr": "Dill (mr)",
+      "bn": "Dill (bn)",
+      "gu": "Dill (gu)",
+      "ml": "Dill (ml)",
+      "pa": "Dill (pa)"
+    },
+    "scientific": "Dill_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Dill"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Dill is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "dill"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mint (en)",
+      "hi": "Mint (hi)",
+      "kn": "Mint (kn)",
+      "ta": "Mint (ta)",
+      "te": "Mint (te)",
+      "mr": "Mint (mr)",
+      "bn": "Mint (bn)",
+      "gu": "Mint (gu)",
+      "ml": "Mint (ml)",
+      "pa": "Mint (pa)"
+    },
+    "scientific": "Mint_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Mint"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Mint is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "mint"
+    ]
+  },
+  {
+    "name": {
+      "en": "Coriander (en)",
+      "hi": "Coriander (hi)",
+      "kn": "Coriander (kn)",
+      "ta": "Coriander (ta)",
+      "te": "Coriander (te)",
+      "mr": "Coriander (mr)",
+      "bn": "Coriander (bn)",
+      "gu": "Coriander (gu)",
+      "ml": "Coriander (ml)",
+      "pa": "Coriander (pa)"
+    },
+    "scientific": "Coriander_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Coriander"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Coriander is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "coriander"
+    ]
+  },
+  {
+    "name": {
+      "en": "Basil (en)",
+      "hi": "Basil (hi)",
+      "kn": "Basil (kn)",
+      "ta": "Basil (ta)",
+      "te": "Basil (te)",
+      "mr": "Basil (mr)",
+      "bn": "Basil (bn)",
+      "gu": "Basil (gu)",
+      "ml": "Basil (ml)",
+      "pa": "Basil (pa)"
+    },
+    "scientific": "Basil_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Basil"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Basil is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "basil"
+    ]
+  },
+  {
+    "name": {
+      "en": "Parsley (en)",
+      "hi": "Parsley (hi)",
+      "kn": "Parsley (kn)",
+      "ta": "Parsley (ta)",
+      "te": "Parsley (te)",
+      "mr": "Parsley (mr)",
+      "bn": "Parsley (bn)",
+      "gu": "Parsley (gu)",
+      "ml": "Parsley (ml)",
+      "pa": "Parsley (pa)"
+    },
+    "scientific": "Parsley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Parsley"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Parsley is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "parsley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Dill (en)",
+      "hi": "Dill (hi)",
+      "kn": "Dill (kn)",
+      "ta": "Dill (ta)",
+      "te": "Dill (te)",
+      "mr": "Dill (mr)",
+      "bn": "Dill (bn)",
+      "gu": "Dill (gu)",
+      "ml": "Dill (ml)",
+      "pa": "Dill (pa)"
+    },
+    "scientific": "Dill_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Dill"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Dill is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "dill"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mint (en)",
+      "hi": "Mint (hi)",
+      "kn": "Mint (kn)",
+      "ta": "Mint (ta)",
+      "te": "Mint (te)",
+      "mr": "Mint (mr)",
+      "bn": "Mint (bn)",
+      "gu": "Mint (gu)",
+      "ml": "Mint (ml)",
+      "pa": "Mint (pa)"
+    },
+    "scientific": "Mint_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Mint"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Mint is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "mint"
+    ]
+  },
+  {
+    "name": {
+      "en": "Coriander (en)",
+      "hi": "Coriander (hi)",
+      "kn": "Coriander (kn)",
+      "ta": "Coriander (ta)",
+      "te": "Coriander (te)",
+      "mr": "Coriander (mr)",
+      "bn": "Coriander (bn)",
+      "gu": "Coriander (gu)",
+      "ml": "Coriander (ml)",
+      "pa": "Coriander (pa)"
+    },
+    "scientific": "Coriander_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Coriander"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Coriander is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "coriander"
+    ]
+  },
+  {
+    "name": {
+      "en": "Basil (en)",
+      "hi": "Basil (hi)",
+      "kn": "Basil (kn)",
+      "ta": "Basil (ta)",
+      "te": "Basil (te)",
+      "mr": "Basil (mr)",
+      "bn": "Basil (bn)",
+      "gu": "Basil (gu)",
+      "ml": "Basil (ml)",
+      "pa": "Basil (pa)"
+    },
+    "scientific": "Basil_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Basil"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Basil is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "basil"
+    ]
+  },
+  {
+    "name": {
+      "en": "Parsley (en)",
+      "hi": "Parsley (hi)",
+      "kn": "Parsley (kn)",
+      "ta": "Parsley (ta)",
+      "te": "Parsley (te)",
+      "mr": "Parsley (mr)",
+      "bn": "Parsley (bn)",
+      "gu": "Parsley (gu)",
+      "ml": "Parsley (ml)",
+      "pa": "Parsley (pa)"
+    },
+    "scientific": "Parsley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Parsley"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Parsley is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "parsley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Dill (en)",
+      "hi": "Dill (hi)",
+      "kn": "Dill (kn)",
+      "ta": "Dill (ta)",
+      "te": "Dill (te)",
+      "mr": "Dill (mr)",
+      "bn": "Dill (bn)",
+      "gu": "Dill (gu)",
+      "ml": "Dill (ml)",
+      "pa": "Dill (pa)"
+    },
+    "scientific": "Dill_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Dill"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Dill is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "dill"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mint (en)",
+      "hi": "Mint (hi)",
+      "kn": "Mint (kn)",
+      "ta": "Mint (ta)",
+      "te": "Mint (te)",
+      "mr": "Mint (mr)",
+      "bn": "Mint (bn)",
+      "gu": "Mint (gu)",
+      "ml": "Mint (ml)",
+      "pa": "Mint (pa)"
+    },
+    "scientific": "Mint_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Mint"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Mint is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "mint"
+    ]
+  },
+  {
+    "name": {
+      "en": "Coriander (en)",
+      "hi": "Coriander (hi)",
+      "kn": "Coriander (kn)",
+      "ta": "Coriander (ta)",
+      "te": "Coriander (te)",
+      "mr": "Coriander (mr)",
+      "bn": "Coriander (bn)",
+      "gu": "Coriander (gu)",
+      "ml": "Coriander (ml)",
+      "pa": "Coriander (pa)"
+    },
+    "scientific": "Coriander_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Coriander"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Coriander is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "coriander"
+    ]
+  },
+  {
+    "name": {
+      "en": "Basil (en)",
+      "hi": "Basil (hi)",
+      "kn": "Basil (kn)",
+      "ta": "Basil (ta)",
+      "te": "Basil (te)",
+      "mr": "Basil (mr)",
+      "bn": "Basil (bn)",
+      "gu": "Basil (gu)",
+      "ml": "Basil (ml)",
+      "pa": "Basil (pa)"
+    },
+    "scientific": "Basil_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Basil"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Basil is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "basil"
+    ]
+  },
+  {
+    "name": {
+      "en": "Parsley (en)",
+      "hi": "Parsley (hi)",
+      "kn": "Parsley (kn)",
+      "ta": "Parsley (ta)",
+      "te": "Parsley (te)",
+      "mr": "Parsley (mr)",
+      "bn": "Parsley (bn)",
+      "gu": "Parsley (gu)",
+      "ml": "Parsley (ml)",
+      "pa": "Parsley (pa)"
+    },
+    "scientific": "Parsley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Parsley"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Parsley is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "parsley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Dill (en)",
+      "hi": "Dill (hi)",
+      "kn": "Dill (kn)",
+      "ta": "Dill (ta)",
+      "te": "Dill (te)",
+      "mr": "Dill (mr)",
+      "bn": "Dill (bn)",
+      "gu": "Dill (gu)",
+      "ml": "Dill (ml)",
+      "pa": "Dill (pa)"
+    },
+    "scientific": "Dill_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Dill"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Dill is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "dill"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mint (en)",
+      "hi": "Mint (hi)",
+      "kn": "Mint (kn)",
+      "ta": "Mint (ta)",
+      "te": "Mint (te)",
+      "mr": "Mint (mr)",
+      "bn": "Mint (bn)",
+      "gu": "Mint (gu)",
+      "ml": "Mint (ml)",
+      "pa": "Mint (pa)"
+    },
+    "scientific": "Mint_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Mint"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Mint is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "mint"
+    ]
+  },
+  {
+    "name": {
+      "en": "Coriander (en)",
+      "hi": "Coriander (hi)",
+      "kn": "Coriander (kn)",
+      "ta": "Coriander (ta)",
+      "te": "Coriander (te)",
+      "mr": "Coriander (mr)",
+      "bn": "Coriander (bn)",
+      "gu": "Coriander (gu)",
+      "ml": "Coriander (ml)",
+      "pa": "Coriander (pa)"
+    },
+    "scientific": "Coriander_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Coriander"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Coriander is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "coriander"
+    ]
+  },
+  {
+    "name": {
+      "en": "Basil (en)",
+      "hi": "Basil (hi)",
+      "kn": "Basil (kn)",
+      "ta": "Basil (ta)",
+      "te": "Basil (te)",
+      "mr": "Basil (mr)",
+      "bn": "Basil (bn)",
+      "gu": "Basil (gu)",
+      "ml": "Basil (ml)",
+      "pa": "Basil (pa)"
+    },
+    "scientific": "Basil_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Basil"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Basil is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "basil"
+    ]
+  },
+  {
+    "name": {
+      "en": "Parsley (en)",
+      "hi": "Parsley (hi)",
+      "kn": "Parsley (kn)",
+      "ta": "Parsley (ta)",
+      "te": "Parsley (te)",
+      "mr": "Parsley (mr)",
+      "bn": "Parsley (bn)",
+      "gu": "Parsley (gu)",
+      "ml": "Parsley (ml)",
+      "pa": "Parsley (pa)"
+    },
+    "scientific": "Parsley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Parsley"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Parsley is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "parsley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Dill (en)",
+      "hi": "Dill (hi)",
+      "kn": "Dill (kn)",
+      "ta": "Dill (ta)",
+      "te": "Dill (te)",
+      "mr": "Dill (mr)",
+      "bn": "Dill (bn)",
+      "gu": "Dill (gu)",
+      "ml": "Dill (ml)",
+      "pa": "Dill (pa)"
+    },
+    "scientific": "Dill_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Dill"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Dill is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "dill"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mint (en)",
+      "hi": "Mint (hi)",
+      "kn": "Mint (kn)",
+      "ta": "Mint (ta)",
+      "te": "Mint (te)",
+      "mr": "Mint (mr)",
+      "bn": "Mint (bn)",
+      "gu": "Mint (gu)",
+      "ml": "Mint (ml)",
+      "pa": "Mint (pa)"
+    },
+    "scientific": "Mint_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Mint"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Mint is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "mint"
+    ]
+  },
+  {
+    "name": {
+      "en": "Coriander (en)",
+      "hi": "Coriander (hi)",
+      "kn": "Coriander (kn)",
+      "ta": "Coriander (ta)",
+      "te": "Coriander (te)",
+      "mr": "Coriander (mr)",
+      "bn": "Coriander (bn)",
+      "gu": "Coriander (gu)",
+      "ml": "Coriander (ml)",
+      "pa": "Coriander (pa)"
+    },
+    "scientific": "Coriander_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Coriander"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Coriander is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "coriander"
+    ]
+  },
+  {
+    "name": {
+      "en": "Basil (en)",
+      "hi": "Basil (hi)",
+      "kn": "Basil (kn)",
+      "ta": "Basil (ta)",
+      "te": "Basil (te)",
+      "mr": "Basil (mr)",
+      "bn": "Basil (bn)",
+      "gu": "Basil (gu)",
+      "ml": "Basil (ml)",
+      "pa": "Basil (pa)"
+    },
+    "scientific": "Basil_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Basil"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Basil is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "basil"
+    ]
+  },
+  {
+    "name": {
+      "en": "Parsley (en)",
+      "hi": "Parsley (hi)",
+      "kn": "Parsley (kn)",
+      "ta": "Parsley (ta)",
+      "te": "Parsley (te)",
+      "mr": "Parsley (mr)",
+      "bn": "Parsley (bn)",
+      "gu": "Parsley (gu)",
+      "ml": "Parsley (ml)",
+      "pa": "Parsley (pa)"
+    },
+    "scientific": "Parsley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Parsley"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Parsley is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "parsley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Dill (en)",
+      "hi": "Dill (hi)",
+      "kn": "Dill (kn)",
+      "ta": "Dill (ta)",
+      "te": "Dill (te)",
+      "mr": "Dill (mr)",
+      "bn": "Dill (bn)",
+      "gu": "Dill (gu)",
+      "ml": "Dill (ml)",
+      "pa": "Dill (pa)"
+    },
+    "scientific": "Dill_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Dill"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Dill is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "dill"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mint (en)",
+      "hi": "Mint (hi)",
+      "kn": "Mint (kn)",
+      "ta": "Mint (ta)",
+      "te": "Mint (te)",
+      "mr": "Mint (mr)",
+      "bn": "Mint (bn)",
+      "gu": "Mint (gu)",
+      "ml": "Mint (ml)",
+      "pa": "Mint (pa)"
+    },
+    "scientific": "Mint_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Mint"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Mint is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "mint"
+    ]
+  },
+  {
+    "name": {
+      "en": "Coriander (en)",
+      "hi": "Coriander (hi)",
+      "kn": "Coriander (kn)",
+      "ta": "Coriander (ta)",
+      "te": "Coriander (te)",
+      "mr": "Coriander (mr)",
+      "bn": "Coriander (bn)",
+      "gu": "Coriander (gu)",
+      "ml": "Coriander (ml)",
+      "pa": "Coriander (pa)"
+    },
+    "scientific": "Coriander_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Coriander"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Coriander is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "coriander"
+    ]
+  },
+  {
+    "name": {
+      "en": "Basil (en)",
+      "hi": "Basil (hi)",
+      "kn": "Basil (kn)",
+      "ta": "Basil (ta)",
+      "te": "Basil (te)",
+      "mr": "Basil (mr)",
+      "bn": "Basil (bn)",
+      "gu": "Basil (gu)",
+      "ml": "Basil (ml)",
+      "pa": "Basil (pa)"
+    },
+    "scientific": "Basil_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Basil"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Basil is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "basil"
+    ]
+  },
+  {
+    "name": {
+      "en": "Parsley (en)",
+      "hi": "Parsley (hi)",
+      "kn": "Parsley (kn)",
+      "ta": "Parsley (ta)",
+      "te": "Parsley (te)",
+      "mr": "Parsley (mr)",
+      "bn": "Parsley (bn)",
+      "gu": "Parsley (gu)",
+      "ml": "Parsley (ml)",
+      "pa": "Parsley (pa)"
+    },
+    "scientific": "Parsley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Parsley"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Parsley is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "parsley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Dill (en)",
+      "hi": "Dill (hi)",
+      "kn": "Dill (kn)",
+      "ta": "Dill (ta)",
+      "te": "Dill (te)",
+      "mr": "Dill (mr)",
+      "bn": "Dill (bn)",
+      "gu": "Dill (gu)",
+      "ml": "Dill (ml)",
+      "pa": "Dill (pa)"
+    },
+    "scientific": "Dill_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Dill"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Dill is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "dill"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mint (en)",
+      "hi": "Mint (hi)",
+      "kn": "Mint (kn)",
+      "ta": "Mint (ta)",
+      "te": "Mint (te)",
+      "mr": "Mint (mr)",
+      "bn": "Mint (bn)",
+      "gu": "Mint (gu)",
+      "ml": "Mint (ml)",
+      "pa": "Mint (pa)"
+    },
+    "scientific": "Mint_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Mint"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Mint is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "mint"
+    ]
+  },
+  {
+    "name": {
+      "en": "Coriander (en)",
+      "hi": "Coriander (hi)",
+      "kn": "Coriander (kn)",
+      "ta": "Coriander (ta)",
+      "te": "Coriander (te)",
+      "mr": "Coriander (mr)",
+      "bn": "Coriander (bn)",
+      "gu": "Coriander (gu)",
+      "ml": "Coriander (ml)",
+      "pa": "Coriander (pa)"
+    },
+    "scientific": "Coriander_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Coriander"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Coriander is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "coriander"
+    ]
+  },
+  {
+    "name": {
+      "en": "Basil (en)",
+      "hi": "Basil (hi)",
+      "kn": "Basil (kn)",
+      "ta": "Basil (ta)",
+      "te": "Basil (te)",
+      "mr": "Basil (mr)",
+      "bn": "Basil (bn)",
+      "gu": "Basil (gu)",
+      "ml": "Basil (ml)",
+      "pa": "Basil (pa)"
+    },
+    "scientific": "Basil_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Basil"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Basil is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "basil"
+    ]
+  },
+  {
+    "name": {
+      "en": "Parsley (en)",
+      "hi": "Parsley (hi)",
+      "kn": "Parsley (kn)",
+      "ta": "Parsley (ta)",
+      "te": "Parsley (te)",
+      "mr": "Parsley (mr)",
+      "bn": "Parsley (bn)",
+      "gu": "Parsley (gu)",
+      "ml": "Parsley (ml)",
+      "pa": "Parsley (pa)"
+    },
+    "scientific": "Parsley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Parsley"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Parsley is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "parsley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Dill (en)",
+      "hi": "Dill (hi)",
+      "kn": "Dill (kn)",
+      "ta": "Dill (ta)",
+      "te": "Dill (te)",
+      "mr": "Dill (mr)",
+      "bn": "Dill (bn)",
+      "gu": "Dill (gu)",
+      "ml": "Dill (ml)",
+      "pa": "Dill (pa)"
+    },
+    "scientific": "Dill_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Dill"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Dill is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "dill"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mint (en)",
+      "hi": "Mint (hi)",
+      "kn": "Mint (kn)",
+      "ta": "Mint (ta)",
+      "te": "Mint (te)",
+      "mr": "Mint (mr)",
+      "bn": "Mint (bn)",
+      "gu": "Mint (gu)",
+      "ml": "Mint (ml)",
+      "pa": "Mint (pa)"
+    },
+    "scientific": "Mint_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Mint"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Mint is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "mint"
+    ]
+  },
+  {
+    "name": {
+      "en": "Coriander (en)",
+      "hi": "Coriander (hi)",
+      "kn": "Coriander (kn)",
+      "ta": "Coriander (ta)",
+      "te": "Coriander (te)",
+      "mr": "Coriander (mr)",
+      "bn": "Coriander (bn)",
+      "gu": "Coriander (gu)",
+      "ml": "Coriander (ml)",
+      "pa": "Coriander (pa)"
+    },
+    "scientific": "Coriander_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Coriander"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Coriander is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "coriander"
+    ]
+  },
+  {
+    "name": {
+      "en": "Basil (en)",
+      "hi": "Basil (hi)",
+      "kn": "Basil (kn)",
+      "ta": "Basil (ta)",
+      "te": "Basil (te)",
+      "mr": "Basil (mr)",
+      "bn": "Basil (bn)",
+      "gu": "Basil (gu)",
+      "ml": "Basil (ml)",
+      "pa": "Basil (pa)"
+    },
+    "scientific": "Basil_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Basil"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Basil is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "basil"
+    ]
+  },
+  {
+    "name": {
+      "en": "Parsley (en)",
+      "hi": "Parsley (hi)",
+      "kn": "Parsley (kn)",
+      "ta": "Parsley (ta)",
+      "te": "Parsley (te)",
+      "mr": "Parsley (mr)",
+      "bn": "Parsley (bn)",
+      "gu": "Parsley (gu)",
+      "ml": "Parsley (ml)",
+      "pa": "Parsley (pa)"
+    },
+    "scientific": "Parsley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Parsley"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Parsley is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "parsley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Dill (en)",
+      "hi": "Dill (hi)",
+      "kn": "Dill (kn)",
+      "ta": "Dill (ta)",
+      "te": "Dill (te)",
+      "mr": "Dill (mr)",
+      "bn": "Dill (bn)",
+      "gu": "Dill (gu)",
+      "ml": "Dill (ml)",
+      "pa": "Dill (pa)"
+    },
+    "scientific": "Dill_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Dill"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Dill is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "dill"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mint (en)",
+      "hi": "Mint (hi)",
+      "kn": "Mint (kn)",
+      "ta": "Mint (ta)",
+      "te": "Mint (te)",
+      "mr": "Mint (mr)",
+      "bn": "Mint (bn)",
+      "gu": "Mint (gu)",
+      "ml": "Mint (ml)",
+      "pa": "Mint (pa)"
+    },
+    "scientific": "Mint_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Mint"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Mint is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "mint"
+    ]
+  },
+  {
+    "name": {
+      "en": "Coriander (en)",
+      "hi": "Coriander (hi)",
+      "kn": "Coriander (kn)",
+      "ta": "Coriander (ta)",
+      "te": "Coriander (te)",
+      "mr": "Coriander (mr)",
+      "bn": "Coriander (bn)",
+      "gu": "Coriander (gu)",
+      "ml": "Coriander (ml)",
+      "pa": "Coriander (pa)"
+    },
+    "scientific": "Coriander_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Coriander"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Coriander is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "coriander"
+    ]
+  },
+  {
+    "name": {
+      "en": "Basil (en)",
+      "hi": "Basil (hi)",
+      "kn": "Basil (kn)",
+      "ta": "Basil (ta)",
+      "te": "Basil (te)",
+      "mr": "Basil (mr)",
+      "bn": "Basil (bn)",
+      "gu": "Basil (gu)",
+      "ml": "Basil (ml)",
+      "pa": "Basil (pa)"
+    },
+    "scientific": "Basil_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Basil"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Basil is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "basil"
+    ]
+  },
+  {
+    "name": {
+      "en": "Parsley (en)",
+      "hi": "Parsley (hi)",
+      "kn": "Parsley (kn)",
+      "ta": "Parsley (ta)",
+      "te": "Parsley (te)",
+      "mr": "Parsley (mr)",
+      "bn": "Parsley (bn)",
+      "gu": "Parsley (gu)",
+      "ml": "Parsley (ml)",
+      "pa": "Parsley (pa)"
+    },
+    "scientific": "Parsley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Parsley"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Parsley is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "parsley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Dill (en)",
+      "hi": "Dill (hi)",
+      "kn": "Dill (kn)",
+      "ta": "Dill (ta)",
+      "te": "Dill (te)",
+      "mr": "Dill (mr)",
+      "bn": "Dill (bn)",
+      "gu": "Dill (gu)",
+      "ml": "Dill (ml)",
+      "pa": "Dill (pa)"
+    },
+    "scientific": "Dill_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Dill"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Dill is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "dill"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mint (en)",
+      "hi": "Mint (hi)",
+      "kn": "Mint (kn)",
+      "ta": "Mint (ta)",
+      "te": "Mint (te)",
+      "mr": "Mint (mr)",
+      "bn": "Mint (bn)",
+      "gu": "Mint (gu)",
+      "ml": "Mint (ml)",
+      "pa": "Mint (pa)"
+    },
+    "scientific": "Mint_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Mint"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Mint is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "mint"
+    ]
+  },
+  {
+    "name": {
+      "en": "Coriander (en)",
+      "hi": "Coriander (hi)",
+      "kn": "Coriander (kn)",
+      "ta": "Coriander (ta)",
+      "te": "Coriander (te)",
+      "mr": "Coriander (mr)",
+      "bn": "Coriander (bn)",
+      "gu": "Coriander (gu)",
+      "ml": "Coriander (ml)",
+      "pa": "Coriander (pa)"
+    },
+    "scientific": "Coriander_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Coriander"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Coriander is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "coriander"
+    ]
+  },
+  {
+    "name": {
+      "en": "Basil (en)",
+      "hi": "Basil (hi)",
+      "kn": "Basil (kn)",
+      "ta": "Basil (ta)",
+      "te": "Basil (te)",
+      "mr": "Basil (mr)",
+      "bn": "Basil (bn)",
+      "gu": "Basil (gu)",
+      "ml": "Basil (ml)",
+      "pa": "Basil (pa)"
+    },
+    "scientific": "Basil_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Basil"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Basil is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "basil"
+    ]
+  },
+  {
+    "name": {
+      "en": "Parsley (en)",
+      "hi": "Parsley (hi)",
+      "kn": "Parsley (kn)",
+      "ta": "Parsley (ta)",
+      "te": "Parsley (te)",
+      "mr": "Parsley (mr)",
+      "bn": "Parsley (bn)",
+      "gu": "Parsley (gu)",
+      "ml": "Parsley (ml)",
+      "pa": "Parsley (pa)"
+    },
+    "scientific": "Parsley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Parsley"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Parsley is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "parsley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Dill (en)",
+      "hi": "Dill (hi)",
+      "kn": "Dill (kn)",
+      "ta": "Dill (ta)",
+      "te": "Dill (te)",
+      "mr": "Dill (mr)",
+      "bn": "Dill (bn)",
+      "gu": "Dill (gu)",
+      "ml": "Dill (ml)",
+      "pa": "Dill (pa)"
+    },
+    "scientific": "Dill_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Dill"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Dill is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "dill"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mint (en)",
+      "hi": "Mint (hi)",
+      "kn": "Mint (kn)",
+      "ta": "Mint (ta)",
+      "te": "Mint (te)",
+      "mr": "Mint (mr)",
+      "bn": "Mint (bn)",
+      "gu": "Mint (gu)",
+      "ml": "Mint (ml)",
+      "pa": "Mint (pa)"
+    },
+    "scientific": "Mint_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Mint"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Mint is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "mint"
+    ]
+  },
+  {
+    "name": {
+      "en": "Coriander (en)",
+      "hi": "Coriander (hi)",
+      "kn": "Coriander (kn)",
+      "ta": "Coriander (ta)",
+      "te": "Coriander (te)",
+      "mr": "Coriander (mr)",
+      "bn": "Coriander (bn)",
+      "gu": "Coriander (gu)",
+      "ml": "Coriander (ml)",
+      "pa": "Coriander (pa)"
+    },
+    "scientific": "Coriander_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Coriander"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Coriander is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "coriander"
+    ]
+  },
+  {
+    "name": {
+      "en": "Basil (en)",
+      "hi": "Basil (hi)",
+      "kn": "Basil (kn)",
+      "ta": "Basil (ta)",
+      "te": "Basil (te)",
+      "mr": "Basil (mr)",
+      "bn": "Basil (bn)",
+      "gu": "Basil (gu)",
+      "ml": "Basil (ml)",
+      "pa": "Basil (pa)"
+    },
+    "scientific": "Basil_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Basil"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Basil is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "basil"
+    ]
+  },
+  {
+    "name": {
+      "en": "Parsley (en)",
+      "hi": "Parsley (hi)",
+      "kn": "Parsley (kn)",
+      "ta": "Parsley (ta)",
+      "te": "Parsley (te)",
+      "mr": "Parsley (mr)",
+      "bn": "Parsley (bn)",
+      "gu": "Parsley (gu)",
+      "ml": "Parsley (ml)",
+      "pa": "Parsley (pa)"
+    },
+    "scientific": "Parsley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Parsley"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Parsley is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "parsley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Dill (en)",
+      "hi": "Dill (hi)",
+      "kn": "Dill (kn)",
+      "ta": "Dill (ta)",
+      "te": "Dill (te)",
+      "mr": "Dill (mr)",
+      "bn": "Dill (bn)",
+      "gu": "Dill (gu)",
+      "ml": "Dill (ml)",
+      "pa": "Dill (pa)"
+    },
+    "scientific": "Dill_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Dill"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Dill is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "dill"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mint (en)",
+      "hi": "Mint (hi)",
+      "kn": "Mint (kn)",
+      "ta": "Mint (ta)",
+      "te": "Mint (te)",
+      "mr": "Mint (mr)",
+      "bn": "Mint (bn)",
+      "gu": "Mint (gu)",
+      "ml": "Mint (ml)",
+      "pa": "Mint (pa)"
+    },
+    "scientific": "Mint_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Mint"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Mint is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "mint"
+    ]
+  },
+  {
+    "name": {
+      "en": "Coriander (en)",
+      "hi": "Coriander (hi)",
+      "kn": "Coriander (kn)",
+      "ta": "Coriander (ta)",
+      "te": "Coriander (te)",
+      "mr": "Coriander (mr)",
+      "bn": "Coriander (bn)",
+      "gu": "Coriander (gu)",
+      "ml": "Coriander (ml)",
+      "pa": "Coriander (pa)"
+    },
+    "scientific": "Coriander_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Coriander"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Coriander is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "coriander"
+    ]
+  },
+  {
+    "name": {
+      "en": "Basil (en)",
+      "hi": "Basil (hi)",
+      "kn": "Basil (kn)",
+      "ta": "Basil (ta)",
+      "te": "Basil (te)",
+      "mr": "Basil (mr)",
+      "bn": "Basil (bn)",
+      "gu": "Basil (gu)",
+      "ml": "Basil (ml)",
+      "pa": "Basil (pa)"
+    },
+    "scientific": "Basil_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Basil"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Basil is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "basil"
+    ]
+  },
+  {
+    "name": {
+      "en": "Parsley (en)",
+      "hi": "Parsley (hi)",
+      "kn": "Parsley (kn)",
+      "ta": "Parsley (ta)",
+      "te": "Parsley (te)",
+      "mr": "Parsley (mr)",
+      "bn": "Parsley (bn)",
+      "gu": "Parsley (gu)",
+      "ml": "Parsley (ml)",
+      "pa": "Parsley (pa)"
+    },
+    "scientific": "Parsley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Parsley"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Parsley is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "parsley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Dill (en)",
+      "hi": "Dill (hi)",
+      "kn": "Dill (kn)",
+      "ta": "Dill (ta)",
+      "te": "Dill (te)",
+      "mr": "Dill (mr)",
+      "bn": "Dill (bn)",
+      "gu": "Dill (gu)",
+      "ml": "Dill (ml)",
+      "pa": "Dill (pa)"
+    },
+    "scientific": "Dill_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Dill"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Dill is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "dill"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mint (en)",
+      "hi": "Mint (hi)",
+      "kn": "Mint (kn)",
+      "ta": "Mint (ta)",
+      "te": "Mint (te)",
+      "mr": "Mint (mr)",
+      "bn": "Mint (bn)",
+      "gu": "Mint (gu)",
+      "ml": "Mint (ml)",
+      "pa": "Mint (pa)"
+    },
+    "scientific": "Mint_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Mint"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Mint is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "mint"
+    ]
+  },
+  {
+    "name": {
+      "en": "Coriander (en)",
+      "hi": "Coriander (hi)",
+      "kn": "Coriander (kn)",
+      "ta": "Coriander (ta)",
+      "te": "Coriander (te)",
+      "mr": "Coriander (mr)",
+      "bn": "Coriander (bn)",
+      "gu": "Coriander (gu)",
+      "ml": "Coriander (ml)",
+      "pa": "Coriander (pa)"
+    },
+    "scientific": "Coriander_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Coriander"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Coriander is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "coriander"
+    ]
+  },
+  {
+    "name": {
+      "en": "Basil (en)",
+      "hi": "Basil (hi)",
+      "kn": "Basil (kn)",
+      "ta": "Basil (ta)",
+      "te": "Basil (te)",
+      "mr": "Basil (mr)",
+      "bn": "Basil (bn)",
+      "gu": "Basil (gu)",
+      "ml": "Basil (ml)",
+      "pa": "Basil (pa)"
+    },
+    "scientific": "Basil_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Basil"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Basil is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "basil"
+    ]
+  },
+  {
+    "name": {
+      "en": "Parsley (en)",
+      "hi": "Parsley (hi)",
+      "kn": "Parsley (kn)",
+      "ta": "Parsley (ta)",
+      "te": "Parsley (te)",
+      "mr": "Parsley (mr)",
+      "bn": "Parsley (bn)",
+      "gu": "Parsley (gu)",
+      "ml": "Parsley (ml)",
+      "pa": "Parsley (pa)"
+    },
+    "scientific": "Parsley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Parsley"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Parsley is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "parsley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Dill (en)",
+      "hi": "Dill (hi)",
+      "kn": "Dill (kn)",
+      "ta": "Dill (ta)",
+      "te": "Dill (te)",
+      "mr": "Dill (mr)",
+      "bn": "Dill (bn)",
+      "gu": "Dill (gu)",
+      "ml": "Dill (ml)",
+      "pa": "Dill (pa)"
+    },
+    "scientific": "Dill_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Dill"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Dill is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "dill"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mint (en)",
+      "hi": "Mint (hi)",
+      "kn": "Mint (kn)",
+      "ta": "Mint (ta)",
+      "te": "Mint (te)",
+      "mr": "Mint (mr)",
+      "bn": "Mint (bn)",
+      "gu": "Mint (gu)",
+      "ml": "Mint (ml)",
+      "pa": "Mint (pa)"
+    },
+    "scientific": "Mint_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Mint"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Mint is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "mint"
+    ]
+  },
+  {
+    "name": {
+      "en": "Coriander (en)",
+      "hi": "Coriander (hi)",
+      "kn": "Coriander (kn)",
+      "ta": "Coriander (ta)",
+      "te": "Coriander (te)",
+      "mr": "Coriander (mr)",
+      "bn": "Coriander (bn)",
+      "gu": "Coriander (gu)",
+      "ml": "Coriander (ml)",
+      "pa": "Coriander (pa)"
+    },
+    "scientific": "Coriander_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Coriander"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Coriander is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "coriander"
+    ]
+  },
+  {
+    "name": {
+      "en": "Basil (en)",
+      "hi": "Basil (hi)",
+      "kn": "Basil (kn)",
+      "ta": "Basil (ta)",
+      "te": "Basil (te)",
+      "mr": "Basil (mr)",
+      "bn": "Basil (bn)",
+      "gu": "Basil (gu)",
+      "ml": "Basil (ml)",
+      "pa": "Basil (pa)"
+    },
+    "scientific": "Basil_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Basil"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Basil is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "basil"
+    ]
+  },
+  {
+    "name": {
+      "en": "Parsley (en)",
+      "hi": "Parsley (hi)",
+      "kn": "Parsley (kn)",
+      "ta": "Parsley (ta)",
+      "te": "Parsley (te)",
+      "mr": "Parsley (mr)",
+      "bn": "Parsley (bn)",
+      "gu": "Parsley (gu)",
+      "ml": "Parsley (ml)",
+      "pa": "Parsley (pa)"
+    },
+    "scientific": "Parsley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Parsley"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Parsley is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "parsley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Dill (en)",
+      "hi": "Dill (hi)",
+      "kn": "Dill (kn)",
+      "ta": "Dill (ta)",
+      "te": "Dill (te)",
+      "mr": "Dill (mr)",
+      "bn": "Dill (bn)",
+      "gu": "Dill (gu)",
+      "ml": "Dill (ml)",
+      "pa": "Dill (pa)"
+    },
+    "scientific": "Dill_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Dill"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Dill is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "dill"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mint (en)",
+      "hi": "Mint (hi)",
+      "kn": "Mint (kn)",
+      "ta": "Mint (ta)",
+      "te": "Mint (te)",
+      "mr": "Mint (mr)",
+      "bn": "Mint (bn)",
+      "gu": "Mint (gu)",
+      "ml": "Mint (ml)",
+      "pa": "Mint (pa)"
+    },
+    "scientific": "Mint_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Mint"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Mint is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "mint"
+    ]
+  },
+  {
+    "name": {
+      "en": "Coriander (en)",
+      "hi": "Coriander (hi)",
+      "kn": "Coriander (kn)",
+      "ta": "Coriander (ta)",
+      "te": "Coriander (te)",
+      "mr": "Coriander (mr)",
+      "bn": "Coriander (bn)",
+      "gu": "Coriander (gu)",
+      "ml": "Coriander (ml)",
+      "pa": "Coriander (pa)"
+    },
+    "scientific": "Coriander_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Coriander"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Coriander is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "coriander"
+    ]
+  },
+  {
+    "name": {
+      "en": "Basil (en)",
+      "hi": "Basil (hi)",
+      "kn": "Basil (kn)",
+      "ta": "Basil (ta)",
+      "te": "Basil (te)",
+      "mr": "Basil (mr)",
+      "bn": "Basil (bn)",
+      "gu": "Basil (gu)",
+      "ml": "Basil (ml)",
+      "pa": "Basil (pa)"
+    },
+    "scientific": "Basil_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Basil"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Basil is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "basil"
+    ]
+  },
+  {
+    "name": {
+      "en": "Parsley (en)",
+      "hi": "Parsley (hi)",
+      "kn": "Parsley (kn)",
+      "ta": "Parsley (ta)",
+      "te": "Parsley (te)",
+      "mr": "Parsley (mr)",
+      "bn": "Parsley (bn)",
+      "gu": "Parsley (gu)",
+      "ml": "Parsley (ml)",
+      "pa": "Parsley (pa)"
+    },
+    "scientific": "Parsley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Parsley"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Parsley is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "parsley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Dill (en)",
+      "hi": "Dill (hi)",
+      "kn": "Dill (kn)",
+      "ta": "Dill (ta)",
+      "te": "Dill (te)",
+      "mr": "Dill (mr)",
+      "bn": "Dill (bn)",
+      "gu": "Dill (gu)",
+      "ml": "Dill (ml)",
+      "pa": "Dill (pa)"
+    },
+    "scientific": "Dill_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Dill"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Dill is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "dill"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mint (en)",
+      "hi": "Mint (hi)",
+      "kn": "Mint (kn)",
+      "ta": "Mint (ta)",
+      "te": "Mint (te)",
+      "mr": "Mint (mr)",
+      "bn": "Mint (bn)",
+      "gu": "Mint (gu)",
+      "ml": "Mint (ml)",
+      "pa": "Mint (pa)"
+    },
+    "scientific": "Mint_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Mint"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Mint is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "mint"
+    ]
+  },
+  {
+    "name": {
+      "en": "Coriander (en)",
+      "hi": "Coriander (hi)",
+      "kn": "Coriander (kn)",
+      "ta": "Coriander (ta)",
+      "te": "Coriander (te)",
+      "mr": "Coriander (mr)",
+      "bn": "Coriander (bn)",
+      "gu": "Coriander (gu)",
+      "ml": "Coriander (ml)",
+      "pa": "Coriander (pa)"
+    },
+    "scientific": "Coriander_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Coriander"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Coriander is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "coriander"
+    ]
+  },
+  {
+    "name": {
+      "en": "Basil (en)",
+      "hi": "Basil (hi)",
+      "kn": "Basil (kn)",
+      "ta": "Basil (ta)",
+      "te": "Basil (te)",
+      "mr": "Basil (mr)",
+      "bn": "Basil (bn)",
+      "gu": "Basil (gu)",
+      "ml": "Basil (ml)",
+      "pa": "Basil (pa)"
+    },
+    "scientific": "Basil_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Basil"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Basil is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "basil"
+    ]
+  },
+  {
+    "name": {
+      "en": "Parsley (en)",
+      "hi": "Parsley (hi)",
+      "kn": "Parsley (kn)",
+      "ta": "Parsley (ta)",
+      "te": "Parsley (te)",
+      "mr": "Parsley (mr)",
+      "bn": "Parsley (bn)",
+      "gu": "Parsley (gu)",
+      "ml": "Parsley (ml)",
+      "pa": "Parsley (pa)"
+    },
+    "scientific": "Parsley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Parsley"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Parsley is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "parsley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Dill (en)",
+      "hi": "Dill (hi)",
+      "kn": "Dill (kn)",
+      "ta": "Dill (ta)",
+      "te": "Dill (te)",
+      "mr": "Dill (mr)",
+      "bn": "Dill (bn)",
+      "gu": "Dill (gu)",
+      "ml": "Dill (ml)",
+      "pa": "Dill (pa)"
+    },
+    "scientific": "Dill_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Dill"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Dill is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "dill"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mint (en)",
+      "hi": "Mint (hi)",
+      "kn": "Mint (kn)",
+      "ta": "Mint (ta)",
+      "te": "Mint (te)",
+      "mr": "Mint (mr)",
+      "bn": "Mint (bn)",
+      "gu": "Mint (gu)",
+      "ml": "Mint (ml)",
+      "pa": "Mint (pa)"
+    },
+    "scientific": "Mint_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Mint"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Mint is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "mint"
+    ]
+  },
+  {
+    "name": {
+      "en": "Coriander (en)",
+      "hi": "Coriander (hi)",
+      "kn": "Coriander (kn)",
+      "ta": "Coriander (ta)",
+      "te": "Coriander (te)",
+      "mr": "Coriander (mr)",
+      "bn": "Coriander (bn)",
+      "gu": "Coriander (gu)",
+      "ml": "Coriander (ml)",
+      "pa": "Coriander (pa)"
+    },
+    "scientific": "Coriander_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Coriander"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Coriander is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "coriander"
+    ]
+  },
+  {
+    "name": {
+      "en": "Basil (en)",
+      "hi": "Basil (hi)",
+      "kn": "Basil (kn)",
+      "ta": "Basil (ta)",
+      "te": "Basil (te)",
+      "mr": "Basil (mr)",
+      "bn": "Basil (bn)",
+      "gu": "Basil (gu)",
+      "ml": "Basil (ml)",
+      "pa": "Basil (pa)"
+    },
+    "scientific": "Basil_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Basil"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Basil is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "basil"
+    ]
+  },
+  {
+    "name": {
+      "en": "Parsley (en)",
+      "hi": "Parsley (hi)",
+      "kn": "Parsley (kn)",
+      "ta": "Parsley (ta)",
+      "te": "Parsley (te)",
+      "mr": "Parsley (mr)",
+      "bn": "Parsley (bn)",
+      "gu": "Parsley (gu)",
+      "ml": "Parsley (ml)",
+      "pa": "Parsley (pa)"
+    },
+    "scientific": "Parsley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Parsley"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Parsley is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "parsley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Dill (en)",
+      "hi": "Dill (hi)",
+      "kn": "Dill (kn)",
+      "ta": "Dill (ta)",
+      "te": "Dill (te)",
+      "mr": "Dill (mr)",
+      "bn": "Dill (bn)",
+      "gu": "Dill (gu)",
+      "ml": "Dill (ml)",
+      "pa": "Dill (pa)"
+    },
+    "scientific": "Dill_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Dill"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Dill is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "dill"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mint (en)",
+      "hi": "Mint (hi)",
+      "kn": "Mint (kn)",
+      "ta": "Mint (ta)",
+      "te": "Mint (te)",
+      "mr": "Mint (mr)",
+      "bn": "Mint (bn)",
+      "gu": "Mint (gu)",
+      "ml": "Mint (ml)",
+      "pa": "Mint (pa)"
+    },
+    "scientific": "Mint_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Mint"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Mint is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "mint"
+    ]
+  },
+  {
+    "name": {
+      "en": "Coriander (en)",
+      "hi": "Coriander (hi)",
+      "kn": "Coriander (kn)",
+      "ta": "Coriander (ta)",
+      "te": "Coriander (te)",
+      "mr": "Coriander (mr)",
+      "bn": "Coriander (bn)",
+      "gu": "Coriander (gu)",
+      "ml": "Coriander (ml)",
+      "pa": "Coriander (pa)"
+    },
+    "scientific": "Coriander_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Coriander"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Coriander is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "coriander"
+    ]
+  },
+  {
+    "name": {
+      "en": "Basil (en)",
+      "hi": "Basil (hi)",
+      "kn": "Basil (kn)",
+      "ta": "Basil (ta)",
+      "te": "Basil (te)",
+      "mr": "Basil (mr)",
+      "bn": "Basil (bn)",
+      "gu": "Basil (gu)",
+      "ml": "Basil (ml)",
+      "pa": "Basil (pa)"
+    },
+    "scientific": "Basil_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Basil"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Basil is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "basil"
+    ]
+  },
+  {
+    "name": {
+      "en": "Parsley (en)",
+      "hi": "Parsley (hi)",
+      "kn": "Parsley (kn)",
+      "ta": "Parsley (ta)",
+      "te": "Parsley (te)",
+      "mr": "Parsley (mr)",
+      "bn": "Parsley (bn)",
+      "gu": "Parsley (gu)",
+      "ml": "Parsley (ml)",
+      "pa": "Parsley (pa)"
+    },
+    "scientific": "Parsley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Parsley"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Parsley is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "parsley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Dill (en)",
+      "hi": "Dill (hi)",
+      "kn": "Dill (kn)",
+      "ta": "Dill (ta)",
+      "te": "Dill (te)",
+      "mr": "Dill (mr)",
+      "bn": "Dill (bn)",
+      "gu": "Dill (gu)",
+      "ml": "Dill (ml)",
+      "pa": "Dill (pa)"
+    },
+    "scientific": "Dill_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Dill"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Dill is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "dill"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mint (en)",
+      "hi": "Mint (hi)",
+      "kn": "Mint (kn)",
+      "ta": "Mint (ta)",
+      "te": "Mint (te)",
+      "mr": "Mint (mr)",
+      "bn": "Mint (bn)",
+      "gu": "Mint (gu)",
+      "ml": "Mint (ml)",
+      "pa": "Mint (pa)"
+    },
+    "scientific": "Mint_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Mint"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Mint is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "mint"
+    ]
+  },
+  {
+    "name": {
+      "en": "Coriander (en)",
+      "hi": "Coriander (hi)",
+      "kn": "Coriander (kn)",
+      "ta": "Coriander (ta)",
+      "te": "Coriander (te)",
+      "mr": "Coriander (mr)",
+      "bn": "Coriander (bn)",
+      "gu": "Coriander (gu)",
+      "ml": "Coriander (ml)",
+      "pa": "Coriander (pa)"
+    },
+    "scientific": "Coriander_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Coriander"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Coriander is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "coriander"
+    ]
+  },
+  {
+    "name": {
+      "en": "Basil (en)",
+      "hi": "Basil (hi)",
+      "kn": "Basil (kn)",
+      "ta": "Basil (ta)",
+      "te": "Basil (te)",
+      "mr": "Basil (mr)",
+      "bn": "Basil (bn)",
+      "gu": "Basil (gu)",
+      "ml": "Basil (ml)",
+      "pa": "Basil (pa)"
+    },
+    "scientific": "Basil_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Basil"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Basil is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "basil"
+    ]
+  },
+  {
+    "name": {
+      "en": "Parsley (en)",
+      "hi": "Parsley (hi)",
+      "kn": "Parsley (kn)",
+      "ta": "Parsley (ta)",
+      "te": "Parsley (te)",
+      "mr": "Parsley (mr)",
+      "bn": "Parsley (bn)",
+      "gu": "Parsley (gu)",
+      "ml": "Parsley (ml)",
+      "pa": "Parsley (pa)"
+    },
+    "scientific": "Parsley_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Parsley"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Parsley is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "parsley"
+    ]
+  },
+  {
+    "name": {
+      "en": "Dill (en)",
+      "hi": "Dill (hi)",
+      "kn": "Dill (kn)",
+      "ta": "Dill (ta)",
+      "te": "Dill (te)",
+      "mr": "Dill (mr)",
+      "bn": "Dill (bn)",
+      "gu": "Dill (gu)",
+      "ml": "Dill (ml)",
+      "pa": "Dill (pa)"
+    },
+    "scientific": "Dill_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Dill"
+    },
+    "category": "Herbs",
+    "description": {
+      "en": "Dill is widely used in India under herbs category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "dill"
+    ]
+  }
+]

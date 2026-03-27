@@ -1,0 +1,6302 @@
+[
+  {
+    "name": {
+      "en": "Neem (en)",
+      "hi": "Neem (hi)",
+      "kn": "Neem (kn)",
+      "ta": "Neem (ta)",
+      "te": "Neem (te)",
+      "mr": "Neem (mr)",
+      "bn": "Neem (bn)",
+      "gu": "Neem (gu)",
+      "ml": "Neem (ml)",
+      "pa": "Neem (pa)"
+    },
+    "scientific": "Neem_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Neem"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Neem is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "neem"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tulsi (en)",
+      "hi": "Tulsi (hi)",
+      "kn": "Tulsi (kn)",
+      "ta": "Tulsi (ta)",
+      "te": "Tulsi (te)",
+      "mr": "Tulsi (mr)",
+      "bn": "Tulsi (bn)",
+      "gu": "Tulsi (gu)",
+      "ml": "Tulsi (ml)",
+      "pa": "Tulsi (pa)"
+    },
+    "scientific": "Tulsi_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Tulsi"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Tulsi is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "tulsi"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ashwagandha (en)",
+      "hi": "Ashwagandha (hi)",
+      "kn": "Ashwagandha (kn)",
+      "ta": "Ashwagandha (ta)",
+      "te": "Ashwagandha (te)",
+      "mr": "Ashwagandha (mr)",
+      "bn": "Ashwagandha (bn)",
+      "gu": "Ashwagandha (gu)",
+      "ml": "Ashwagandha (ml)",
+      "pa": "Ashwagandha (pa)"
+    },
+    "scientific": "Ashwagandha_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Ashwagandha"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Ashwagandha is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "ashwagandha"
+    ]
+  },
+  {
+    "name": {
+      "en": "Aloe Vera (en)",
+      "hi": "Aloe Vera (hi)",
+      "kn": "Aloe Vera (kn)",
+      "ta": "Aloe Vera (ta)",
+      "te": "Aloe Vera (te)",
+      "mr": "Aloe Vera (mr)",
+      "bn": "Aloe Vera (bn)",
+      "gu": "Aloe Vera (gu)",
+      "ml": "Aloe Vera (ml)",
+      "pa": "Aloe Vera (pa)"
+    },
+    "scientific": "Aloe_Vera_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Aloe"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Aloe Vera is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "aloe vera"
+    ]
+  },
+  {
+    "name": {
+      "en": "Giloy (en)",
+      "hi": "Giloy (hi)",
+      "kn": "Giloy (kn)",
+      "ta": "Giloy (ta)",
+      "te": "Giloy (te)",
+      "mr": "Giloy (mr)",
+      "bn": "Giloy (bn)",
+      "gu": "Giloy (gu)",
+      "ml": "Giloy (ml)",
+      "pa": "Giloy (pa)"
+    },
+    "scientific": "Giloy_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Giloy"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Giloy is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "giloy"
+    ]
+  },
+  {
+    "name": {
+      "en": "Neem (en)",
+      "hi": "Neem (hi)",
+      "kn": "Neem (kn)",
+      "ta": "Neem (ta)",
+      "te": "Neem (te)",
+      "mr": "Neem (mr)",
+      "bn": "Neem (bn)",
+      "gu": "Neem (gu)",
+      "ml": "Neem (ml)",
+      "pa": "Neem (pa)"
+    },
+    "scientific": "Neem_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Neem"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Neem is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "neem"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tulsi (en)",
+      "hi": "Tulsi (hi)",
+      "kn": "Tulsi (kn)",
+      "ta": "Tulsi (ta)",
+      "te": "Tulsi (te)",
+      "mr": "Tulsi (mr)",
+      "bn": "Tulsi (bn)",
+      "gu": "Tulsi (gu)",
+      "ml": "Tulsi (ml)",
+      "pa": "Tulsi (pa)"
+    },
+    "scientific": "Tulsi_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Tulsi"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Tulsi is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "tulsi"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ashwagandha (en)",
+      "hi": "Ashwagandha (hi)",
+      "kn": "Ashwagandha (kn)",
+      "ta": "Ashwagandha (ta)",
+      "te": "Ashwagandha (te)",
+      "mr": "Ashwagandha (mr)",
+      "bn": "Ashwagandha (bn)",
+      "gu": "Ashwagandha (gu)",
+      "ml": "Ashwagandha (ml)",
+      "pa": "Ashwagandha (pa)"
+    },
+    "scientific": "Ashwagandha_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Ashwagandha"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Ashwagandha is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "ashwagandha"
+    ]
+  },
+  {
+    "name": {
+      "en": "Aloe Vera (en)",
+      "hi": "Aloe Vera (hi)",
+      "kn": "Aloe Vera (kn)",
+      "ta": "Aloe Vera (ta)",
+      "te": "Aloe Vera (te)",
+      "mr": "Aloe Vera (mr)",
+      "bn": "Aloe Vera (bn)",
+      "gu": "Aloe Vera (gu)",
+      "ml": "Aloe Vera (ml)",
+      "pa": "Aloe Vera (pa)"
+    },
+    "scientific": "Aloe_Vera_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Aloe"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Aloe Vera is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "aloe vera"
+    ]
+  },
+  {
+    "name": {
+      "en": "Giloy (en)",
+      "hi": "Giloy (hi)",
+      "kn": "Giloy (kn)",
+      "ta": "Giloy (ta)",
+      "te": "Giloy (te)",
+      "mr": "Giloy (mr)",
+      "bn": "Giloy (bn)",
+      "gu": "Giloy (gu)",
+      "ml": "Giloy (ml)",
+      "pa": "Giloy (pa)"
+    },
+    "scientific": "Giloy_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Giloy"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Giloy is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "giloy"
+    ]
+  },
+  {
+    "name": {
+      "en": "Neem (en)",
+      "hi": "Neem (hi)",
+      "kn": "Neem (kn)",
+      "ta": "Neem (ta)",
+      "te": "Neem (te)",
+      "mr": "Neem (mr)",
+      "bn": "Neem (bn)",
+      "gu": "Neem (gu)",
+      "ml": "Neem (ml)",
+      "pa": "Neem (pa)"
+    },
+    "scientific": "Neem_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Neem"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Neem is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "neem"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tulsi (en)",
+      "hi": "Tulsi (hi)",
+      "kn": "Tulsi (kn)",
+      "ta": "Tulsi (ta)",
+      "te": "Tulsi (te)",
+      "mr": "Tulsi (mr)",
+      "bn": "Tulsi (bn)",
+      "gu": "Tulsi (gu)",
+      "ml": "Tulsi (ml)",
+      "pa": "Tulsi (pa)"
+    },
+    "scientific": "Tulsi_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Tulsi"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Tulsi is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "tulsi"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ashwagandha (en)",
+      "hi": "Ashwagandha (hi)",
+      "kn": "Ashwagandha (kn)",
+      "ta": "Ashwagandha (ta)",
+      "te": "Ashwagandha (te)",
+      "mr": "Ashwagandha (mr)",
+      "bn": "Ashwagandha (bn)",
+      "gu": "Ashwagandha (gu)",
+      "ml": "Ashwagandha (ml)",
+      "pa": "Ashwagandha (pa)"
+    },
+    "scientific": "Ashwagandha_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Ashwagandha"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Ashwagandha is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "ashwagandha"
+    ]
+  },
+  {
+    "name": {
+      "en": "Aloe Vera (en)",
+      "hi": "Aloe Vera (hi)",
+      "kn": "Aloe Vera (kn)",
+      "ta": "Aloe Vera (ta)",
+      "te": "Aloe Vera (te)",
+      "mr": "Aloe Vera (mr)",
+      "bn": "Aloe Vera (bn)",
+      "gu": "Aloe Vera (gu)",
+      "ml": "Aloe Vera (ml)",
+      "pa": "Aloe Vera (pa)"
+    },
+    "scientific": "Aloe_Vera_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Aloe"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Aloe Vera is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "aloe vera"
+    ]
+  },
+  {
+    "name": {
+      "en": "Giloy (en)",
+      "hi": "Giloy (hi)",
+      "kn": "Giloy (kn)",
+      "ta": "Giloy (ta)",
+      "te": "Giloy (te)",
+      "mr": "Giloy (mr)",
+      "bn": "Giloy (bn)",
+      "gu": "Giloy (gu)",
+      "ml": "Giloy (ml)",
+      "pa": "Giloy (pa)"
+    },
+    "scientific": "Giloy_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Giloy"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Giloy is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "giloy"
+    ]
+  },
+  {
+    "name": {
+      "en": "Neem (en)",
+      "hi": "Neem (hi)",
+      "kn": "Neem (kn)",
+      "ta": "Neem (ta)",
+      "te": "Neem (te)",
+      "mr": "Neem (mr)",
+      "bn": "Neem (bn)",
+      "gu": "Neem (gu)",
+      "ml": "Neem (ml)",
+      "pa": "Neem (pa)"
+    },
+    "scientific": "Neem_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Neem"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Neem is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "neem"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tulsi (en)",
+      "hi": "Tulsi (hi)",
+      "kn": "Tulsi (kn)",
+      "ta": "Tulsi (ta)",
+      "te": "Tulsi (te)",
+      "mr": "Tulsi (mr)",
+      "bn": "Tulsi (bn)",
+      "gu": "Tulsi (gu)",
+      "ml": "Tulsi (ml)",
+      "pa": "Tulsi (pa)"
+    },
+    "scientific": "Tulsi_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Tulsi"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Tulsi is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "tulsi"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ashwagandha (en)",
+      "hi": "Ashwagandha (hi)",
+      "kn": "Ashwagandha (kn)",
+      "ta": "Ashwagandha (ta)",
+      "te": "Ashwagandha (te)",
+      "mr": "Ashwagandha (mr)",
+      "bn": "Ashwagandha (bn)",
+      "gu": "Ashwagandha (gu)",
+      "ml": "Ashwagandha (ml)",
+      "pa": "Ashwagandha (pa)"
+    },
+    "scientific": "Ashwagandha_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Ashwagandha"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Ashwagandha is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "ashwagandha"
+    ]
+  },
+  {
+    "name": {
+      "en": "Aloe Vera (en)",
+      "hi": "Aloe Vera (hi)",
+      "kn": "Aloe Vera (kn)",
+      "ta": "Aloe Vera (ta)",
+      "te": "Aloe Vera (te)",
+      "mr": "Aloe Vera (mr)",
+      "bn": "Aloe Vera (bn)",
+      "gu": "Aloe Vera (gu)",
+      "ml": "Aloe Vera (ml)",
+      "pa": "Aloe Vera (pa)"
+    },
+    "scientific": "Aloe_Vera_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Aloe"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Aloe Vera is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "aloe vera"
+    ]
+  },
+  {
+    "name": {
+      "en": "Giloy (en)",
+      "hi": "Giloy (hi)",
+      "kn": "Giloy (kn)",
+      "ta": "Giloy (ta)",
+      "te": "Giloy (te)",
+      "mr": "Giloy (mr)",
+      "bn": "Giloy (bn)",
+      "gu": "Giloy (gu)",
+      "ml": "Giloy (ml)",
+      "pa": "Giloy (pa)"
+    },
+    "scientific": "Giloy_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Giloy"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Giloy is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "giloy"
+    ]
+  },
+  {
+    "name": {
+      "en": "Neem (en)",
+      "hi": "Neem (hi)",
+      "kn": "Neem (kn)",
+      "ta": "Neem (ta)",
+      "te": "Neem (te)",
+      "mr": "Neem (mr)",
+      "bn": "Neem (bn)",
+      "gu": "Neem (gu)",
+      "ml": "Neem (ml)",
+      "pa": "Neem (pa)"
+    },
+    "scientific": "Neem_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Neem"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Neem is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "neem"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tulsi (en)",
+      "hi": "Tulsi (hi)",
+      "kn": "Tulsi (kn)",
+      "ta": "Tulsi (ta)",
+      "te": "Tulsi (te)",
+      "mr": "Tulsi (mr)",
+      "bn": "Tulsi (bn)",
+      "gu": "Tulsi (gu)",
+      "ml": "Tulsi (ml)",
+      "pa": "Tulsi (pa)"
+    },
+    "scientific": "Tulsi_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Tulsi"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Tulsi is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "tulsi"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ashwagandha (en)",
+      "hi": "Ashwagandha (hi)",
+      "kn": "Ashwagandha (kn)",
+      "ta": "Ashwagandha (ta)",
+      "te": "Ashwagandha (te)",
+      "mr": "Ashwagandha (mr)",
+      "bn": "Ashwagandha (bn)",
+      "gu": "Ashwagandha (gu)",
+      "ml": "Ashwagandha (ml)",
+      "pa": "Ashwagandha (pa)"
+    },
+    "scientific": "Ashwagandha_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Ashwagandha"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Ashwagandha is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "ashwagandha"
+    ]
+  },
+  {
+    "name": {
+      "en": "Aloe Vera (en)",
+      "hi": "Aloe Vera (hi)",
+      "kn": "Aloe Vera (kn)",
+      "ta": "Aloe Vera (ta)",
+      "te": "Aloe Vera (te)",
+      "mr": "Aloe Vera (mr)",
+      "bn": "Aloe Vera (bn)",
+      "gu": "Aloe Vera (gu)",
+      "ml": "Aloe Vera (ml)",
+      "pa": "Aloe Vera (pa)"
+    },
+    "scientific": "Aloe_Vera_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Aloe"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Aloe Vera is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "aloe vera"
+    ]
+  },
+  {
+    "name": {
+      "en": "Giloy (en)",
+      "hi": "Giloy (hi)",
+      "kn": "Giloy (kn)",
+      "ta": "Giloy (ta)",
+      "te": "Giloy (te)",
+      "mr": "Giloy (mr)",
+      "bn": "Giloy (bn)",
+      "gu": "Giloy (gu)",
+      "ml": "Giloy (ml)",
+      "pa": "Giloy (pa)"
+    },
+    "scientific": "Giloy_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Giloy"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Giloy is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "giloy"
+    ]
+  },
+  {
+    "name": {
+      "en": "Neem (en)",
+      "hi": "Neem (hi)",
+      "kn": "Neem (kn)",
+      "ta": "Neem (ta)",
+      "te": "Neem (te)",
+      "mr": "Neem (mr)",
+      "bn": "Neem (bn)",
+      "gu": "Neem (gu)",
+      "ml": "Neem (ml)",
+      "pa": "Neem (pa)"
+    },
+    "scientific": "Neem_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Neem"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Neem is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "neem"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tulsi (en)",
+      "hi": "Tulsi (hi)",
+      "kn": "Tulsi (kn)",
+      "ta": "Tulsi (ta)",
+      "te": "Tulsi (te)",
+      "mr": "Tulsi (mr)",
+      "bn": "Tulsi (bn)",
+      "gu": "Tulsi (gu)",
+      "ml": "Tulsi (ml)",
+      "pa": "Tulsi (pa)"
+    },
+    "scientific": "Tulsi_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Tulsi"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Tulsi is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "tulsi"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ashwagandha (en)",
+      "hi": "Ashwagandha (hi)",
+      "kn": "Ashwagandha (kn)",
+      "ta": "Ashwagandha (ta)",
+      "te": "Ashwagandha (te)",
+      "mr": "Ashwagandha (mr)",
+      "bn": "Ashwagandha (bn)",
+      "gu": "Ashwagandha (gu)",
+      "ml": "Ashwagandha (ml)",
+      "pa": "Ashwagandha (pa)"
+    },
+    "scientific": "Ashwagandha_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Ashwagandha"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Ashwagandha is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "ashwagandha"
+    ]
+  },
+  {
+    "name": {
+      "en": "Aloe Vera (en)",
+      "hi": "Aloe Vera (hi)",
+      "kn": "Aloe Vera (kn)",
+      "ta": "Aloe Vera (ta)",
+      "te": "Aloe Vera (te)",
+      "mr": "Aloe Vera (mr)",
+      "bn": "Aloe Vera (bn)",
+      "gu": "Aloe Vera (gu)",
+      "ml": "Aloe Vera (ml)",
+      "pa": "Aloe Vera (pa)"
+    },
+    "scientific": "Aloe_Vera_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Aloe"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Aloe Vera is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "aloe vera"
+    ]
+  },
+  {
+    "name": {
+      "en": "Giloy (en)",
+      "hi": "Giloy (hi)",
+      "kn": "Giloy (kn)",
+      "ta": "Giloy (ta)",
+      "te": "Giloy (te)",
+      "mr": "Giloy (mr)",
+      "bn": "Giloy (bn)",
+      "gu": "Giloy (gu)",
+      "ml": "Giloy (ml)",
+      "pa": "Giloy (pa)"
+    },
+    "scientific": "Giloy_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Giloy"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Giloy is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "giloy"
+    ]
+  },
+  {
+    "name": {
+      "en": "Neem (en)",
+      "hi": "Neem (hi)",
+      "kn": "Neem (kn)",
+      "ta": "Neem (ta)",
+      "te": "Neem (te)",
+      "mr": "Neem (mr)",
+      "bn": "Neem (bn)",
+      "gu": "Neem (gu)",
+      "ml": "Neem (ml)",
+      "pa": "Neem (pa)"
+    },
+    "scientific": "Neem_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Neem"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Neem is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "neem"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tulsi (en)",
+      "hi": "Tulsi (hi)",
+      "kn": "Tulsi (kn)",
+      "ta": "Tulsi (ta)",
+      "te": "Tulsi (te)",
+      "mr": "Tulsi (mr)",
+      "bn": "Tulsi (bn)",
+      "gu": "Tulsi (gu)",
+      "ml": "Tulsi (ml)",
+      "pa": "Tulsi (pa)"
+    },
+    "scientific": "Tulsi_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Tulsi"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Tulsi is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "tulsi"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ashwagandha (en)",
+      "hi": "Ashwagandha (hi)",
+      "kn": "Ashwagandha (kn)",
+      "ta": "Ashwagandha (ta)",
+      "te": "Ashwagandha (te)",
+      "mr": "Ashwagandha (mr)",
+      "bn": "Ashwagandha (bn)",
+      "gu": "Ashwagandha (gu)",
+      "ml": "Ashwagandha (ml)",
+      "pa": "Ashwagandha (pa)"
+    },
+    "scientific": "Ashwagandha_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Ashwagandha"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Ashwagandha is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "ashwagandha"
+    ]
+  },
+  {
+    "name": {
+      "en": "Aloe Vera (en)",
+      "hi": "Aloe Vera (hi)",
+      "kn": "Aloe Vera (kn)",
+      "ta": "Aloe Vera (ta)",
+      "te": "Aloe Vera (te)",
+      "mr": "Aloe Vera (mr)",
+      "bn": "Aloe Vera (bn)",
+      "gu": "Aloe Vera (gu)",
+      "ml": "Aloe Vera (ml)",
+      "pa": "Aloe Vera (pa)"
+    },
+    "scientific": "Aloe_Vera_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Aloe"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Aloe Vera is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "aloe vera"
+    ]
+  },
+  {
+    "name": {
+      "en": "Giloy (en)",
+      "hi": "Giloy (hi)",
+      "kn": "Giloy (kn)",
+      "ta": "Giloy (ta)",
+      "te": "Giloy (te)",
+      "mr": "Giloy (mr)",
+      "bn": "Giloy (bn)",
+      "gu": "Giloy (gu)",
+      "ml": "Giloy (ml)",
+      "pa": "Giloy (pa)"
+    },
+    "scientific": "Giloy_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Giloy"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Giloy is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "giloy"
+    ]
+  },
+  {
+    "name": {
+      "en": "Neem (en)",
+      "hi": "Neem (hi)",
+      "kn": "Neem (kn)",
+      "ta": "Neem (ta)",
+      "te": "Neem (te)",
+      "mr": "Neem (mr)",
+      "bn": "Neem (bn)",
+      "gu": "Neem (gu)",
+      "ml": "Neem (ml)",
+      "pa": "Neem (pa)"
+    },
+    "scientific": "Neem_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Neem"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Neem is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "neem"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tulsi (en)",
+      "hi": "Tulsi (hi)",
+      "kn": "Tulsi (kn)",
+      "ta": "Tulsi (ta)",
+      "te": "Tulsi (te)",
+      "mr": "Tulsi (mr)",
+      "bn": "Tulsi (bn)",
+      "gu": "Tulsi (gu)",
+      "ml": "Tulsi (ml)",
+      "pa": "Tulsi (pa)"
+    },
+    "scientific": "Tulsi_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Tulsi"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Tulsi is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "tulsi"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ashwagandha (en)",
+      "hi": "Ashwagandha (hi)",
+      "kn": "Ashwagandha (kn)",
+      "ta": "Ashwagandha (ta)",
+      "te": "Ashwagandha (te)",
+      "mr": "Ashwagandha (mr)",
+      "bn": "Ashwagandha (bn)",
+      "gu": "Ashwagandha (gu)",
+      "ml": "Ashwagandha (ml)",
+      "pa": "Ashwagandha (pa)"
+    },
+    "scientific": "Ashwagandha_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Ashwagandha"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Ashwagandha is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "ashwagandha"
+    ]
+  },
+  {
+    "name": {
+      "en": "Aloe Vera (en)",
+      "hi": "Aloe Vera (hi)",
+      "kn": "Aloe Vera (kn)",
+      "ta": "Aloe Vera (ta)",
+      "te": "Aloe Vera (te)",
+      "mr": "Aloe Vera (mr)",
+      "bn": "Aloe Vera (bn)",
+      "gu": "Aloe Vera (gu)",
+      "ml": "Aloe Vera (ml)",
+      "pa": "Aloe Vera (pa)"
+    },
+    "scientific": "Aloe_Vera_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Aloe"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Aloe Vera is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "aloe vera"
+    ]
+  },
+  {
+    "name": {
+      "en": "Giloy (en)",
+      "hi": "Giloy (hi)",
+      "kn": "Giloy (kn)",
+      "ta": "Giloy (ta)",
+      "te": "Giloy (te)",
+      "mr": "Giloy (mr)",
+      "bn": "Giloy (bn)",
+      "gu": "Giloy (gu)",
+      "ml": "Giloy (ml)",
+      "pa": "Giloy (pa)"
+    },
+    "scientific": "Giloy_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Giloy"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Giloy is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "giloy"
+    ]
+  },
+  {
+    "name": {
+      "en": "Neem (en)",
+      "hi": "Neem (hi)",
+      "kn": "Neem (kn)",
+      "ta": "Neem (ta)",
+      "te": "Neem (te)",
+      "mr": "Neem (mr)",
+      "bn": "Neem (bn)",
+      "gu": "Neem (gu)",
+      "ml": "Neem (ml)",
+      "pa": "Neem (pa)"
+    },
+    "scientific": "Neem_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Neem"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Neem is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "neem"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tulsi (en)",
+      "hi": "Tulsi (hi)",
+      "kn": "Tulsi (kn)",
+      "ta": "Tulsi (ta)",
+      "te": "Tulsi (te)",
+      "mr": "Tulsi (mr)",
+      "bn": "Tulsi (bn)",
+      "gu": "Tulsi (gu)",
+      "ml": "Tulsi (ml)",
+      "pa": "Tulsi (pa)"
+    },
+    "scientific": "Tulsi_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Tulsi"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Tulsi is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "tulsi"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ashwagandha (en)",
+      "hi": "Ashwagandha (hi)",
+      "kn": "Ashwagandha (kn)",
+      "ta": "Ashwagandha (ta)",
+      "te": "Ashwagandha (te)",
+      "mr": "Ashwagandha (mr)",
+      "bn": "Ashwagandha (bn)",
+      "gu": "Ashwagandha (gu)",
+      "ml": "Ashwagandha (ml)",
+      "pa": "Ashwagandha (pa)"
+    },
+    "scientific": "Ashwagandha_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Ashwagandha"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Ashwagandha is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "ashwagandha"
+    ]
+  },
+  {
+    "name": {
+      "en": "Aloe Vera (en)",
+      "hi": "Aloe Vera (hi)",
+      "kn": "Aloe Vera (kn)",
+      "ta": "Aloe Vera (ta)",
+      "te": "Aloe Vera (te)",
+      "mr": "Aloe Vera (mr)",
+      "bn": "Aloe Vera (bn)",
+      "gu": "Aloe Vera (gu)",
+      "ml": "Aloe Vera (ml)",
+      "pa": "Aloe Vera (pa)"
+    },
+    "scientific": "Aloe_Vera_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Aloe"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Aloe Vera is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "aloe vera"
+    ]
+  },
+  {
+    "name": {
+      "en": "Giloy (en)",
+      "hi": "Giloy (hi)",
+      "kn": "Giloy (kn)",
+      "ta": "Giloy (ta)",
+      "te": "Giloy (te)",
+      "mr": "Giloy (mr)",
+      "bn": "Giloy (bn)",
+      "gu": "Giloy (gu)",
+      "ml": "Giloy (ml)",
+      "pa": "Giloy (pa)"
+    },
+    "scientific": "Giloy_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Giloy"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Giloy is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "giloy"
+    ]
+  },
+  {
+    "name": {
+      "en": "Neem (en)",
+      "hi": "Neem (hi)",
+      "kn": "Neem (kn)",
+      "ta": "Neem (ta)",
+      "te": "Neem (te)",
+      "mr": "Neem (mr)",
+      "bn": "Neem (bn)",
+      "gu": "Neem (gu)",
+      "ml": "Neem (ml)",
+      "pa": "Neem (pa)"
+    },
+    "scientific": "Neem_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Neem"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Neem is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "neem"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tulsi (en)",
+      "hi": "Tulsi (hi)",
+      "kn": "Tulsi (kn)",
+      "ta": "Tulsi (ta)",
+      "te": "Tulsi (te)",
+      "mr": "Tulsi (mr)",
+      "bn": "Tulsi (bn)",
+      "gu": "Tulsi (gu)",
+      "ml": "Tulsi (ml)",
+      "pa": "Tulsi (pa)"
+    },
+    "scientific": "Tulsi_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Tulsi"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Tulsi is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "tulsi"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ashwagandha (en)",
+      "hi": "Ashwagandha (hi)",
+      "kn": "Ashwagandha (kn)",
+      "ta": "Ashwagandha (ta)",
+      "te": "Ashwagandha (te)",
+      "mr": "Ashwagandha (mr)",
+      "bn": "Ashwagandha (bn)",
+      "gu": "Ashwagandha (gu)",
+      "ml": "Ashwagandha (ml)",
+      "pa": "Ashwagandha (pa)"
+    },
+    "scientific": "Ashwagandha_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Ashwagandha"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Ashwagandha is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "ashwagandha"
+    ]
+  },
+  {
+    "name": {
+      "en": "Aloe Vera (en)",
+      "hi": "Aloe Vera (hi)",
+      "kn": "Aloe Vera (kn)",
+      "ta": "Aloe Vera (ta)",
+      "te": "Aloe Vera (te)",
+      "mr": "Aloe Vera (mr)",
+      "bn": "Aloe Vera (bn)",
+      "gu": "Aloe Vera (gu)",
+      "ml": "Aloe Vera (ml)",
+      "pa": "Aloe Vera (pa)"
+    },
+    "scientific": "Aloe_Vera_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Aloe"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Aloe Vera is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "aloe vera"
+    ]
+  },
+  {
+    "name": {
+      "en": "Giloy (en)",
+      "hi": "Giloy (hi)",
+      "kn": "Giloy (kn)",
+      "ta": "Giloy (ta)",
+      "te": "Giloy (te)",
+      "mr": "Giloy (mr)",
+      "bn": "Giloy (bn)",
+      "gu": "Giloy (gu)",
+      "ml": "Giloy (ml)",
+      "pa": "Giloy (pa)"
+    },
+    "scientific": "Giloy_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Giloy"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Giloy is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "giloy"
+    ]
+  },
+  {
+    "name": {
+      "en": "Neem (en)",
+      "hi": "Neem (hi)",
+      "kn": "Neem (kn)",
+      "ta": "Neem (ta)",
+      "te": "Neem (te)",
+      "mr": "Neem (mr)",
+      "bn": "Neem (bn)",
+      "gu": "Neem (gu)",
+      "ml": "Neem (ml)",
+      "pa": "Neem (pa)"
+    },
+    "scientific": "Neem_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Neem"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Neem is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "neem"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tulsi (en)",
+      "hi": "Tulsi (hi)",
+      "kn": "Tulsi (kn)",
+      "ta": "Tulsi (ta)",
+      "te": "Tulsi (te)",
+      "mr": "Tulsi (mr)",
+      "bn": "Tulsi (bn)",
+      "gu": "Tulsi (gu)",
+      "ml": "Tulsi (ml)",
+      "pa": "Tulsi (pa)"
+    },
+    "scientific": "Tulsi_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Tulsi"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Tulsi is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "tulsi"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ashwagandha (en)",
+      "hi": "Ashwagandha (hi)",
+      "kn": "Ashwagandha (kn)",
+      "ta": "Ashwagandha (ta)",
+      "te": "Ashwagandha (te)",
+      "mr": "Ashwagandha (mr)",
+      "bn": "Ashwagandha (bn)",
+      "gu": "Ashwagandha (gu)",
+      "ml": "Ashwagandha (ml)",
+      "pa": "Ashwagandha (pa)"
+    },
+    "scientific": "Ashwagandha_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Ashwagandha"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Ashwagandha is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "ashwagandha"
+    ]
+  },
+  {
+    "name": {
+      "en": "Aloe Vera (en)",
+      "hi": "Aloe Vera (hi)",
+      "kn": "Aloe Vera (kn)",
+      "ta": "Aloe Vera (ta)",
+      "te": "Aloe Vera (te)",
+      "mr": "Aloe Vera (mr)",
+      "bn": "Aloe Vera (bn)",
+      "gu": "Aloe Vera (gu)",
+      "ml": "Aloe Vera (ml)",
+      "pa": "Aloe Vera (pa)"
+    },
+    "scientific": "Aloe_Vera_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Aloe"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Aloe Vera is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "aloe vera"
+    ]
+  },
+  {
+    "name": {
+      "en": "Giloy (en)",
+      "hi": "Giloy (hi)",
+      "kn": "Giloy (kn)",
+      "ta": "Giloy (ta)",
+      "te": "Giloy (te)",
+      "mr": "Giloy (mr)",
+      "bn": "Giloy (bn)",
+      "gu": "Giloy (gu)",
+      "ml": "Giloy (ml)",
+      "pa": "Giloy (pa)"
+    },
+    "scientific": "Giloy_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Giloy"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Giloy is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "giloy"
+    ]
+  },
+  {
+    "name": {
+      "en": "Neem (en)",
+      "hi": "Neem (hi)",
+      "kn": "Neem (kn)",
+      "ta": "Neem (ta)",
+      "te": "Neem (te)",
+      "mr": "Neem (mr)",
+      "bn": "Neem (bn)",
+      "gu": "Neem (gu)",
+      "ml": "Neem (ml)",
+      "pa": "Neem (pa)"
+    },
+    "scientific": "Neem_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Neem"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Neem is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "neem"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tulsi (en)",
+      "hi": "Tulsi (hi)",
+      "kn": "Tulsi (kn)",
+      "ta": "Tulsi (ta)",
+      "te": "Tulsi (te)",
+      "mr": "Tulsi (mr)",
+      "bn": "Tulsi (bn)",
+      "gu": "Tulsi (gu)",
+      "ml": "Tulsi (ml)",
+      "pa": "Tulsi (pa)"
+    },
+    "scientific": "Tulsi_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Tulsi"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Tulsi is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "tulsi"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ashwagandha (en)",
+      "hi": "Ashwagandha (hi)",
+      "kn": "Ashwagandha (kn)",
+      "ta": "Ashwagandha (ta)",
+      "te": "Ashwagandha (te)",
+      "mr": "Ashwagandha (mr)",
+      "bn": "Ashwagandha (bn)",
+      "gu": "Ashwagandha (gu)",
+      "ml": "Ashwagandha (ml)",
+      "pa": "Ashwagandha (pa)"
+    },
+    "scientific": "Ashwagandha_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Ashwagandha"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Ashwagandha is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "ashwagandha"
+    ]
+  },
+  {
+    "name": {
+      "en": "Aloe Vera (en)",
+      "hi": "Aloe Vera (hi)",
+      "kn": "Aloe Vera (kn)",
+      "ta": "Aloe Vera (ta)",
+      "te": "Aloe Vera (te)",
+      "mr": "Aloe Vera (mr)",
+      "bn": "Aloe Vera (bn)",
+      "gu": "Aloe Vera (gu)",
+      "ml": "Aloe Vera (ml)",
+      "pa": "Aloe Vera (pa)"
+    },
+    "scientific": "Aloe_Vera_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Aloe"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Aloe Vera is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "aloe vera"
+    ]
+  },
+  {
+    "name": {
+      "en": "Giloy (en)",
+      "hi": "Giloy (hi)",
+      "kn": "Giloy (kn)",
+      "ta": "Giloy (ta)",
+      "te": "Giloy (te)",
+      "mr": "Giloy (mr)",
+      "bn": "Giloy (bn)",
+      "gu": "Giloy (gu)",
+      "ml": "Giloy (ml)",
+      "pa": "Giloy (pa)"
+    },
+    "scientific": "Giloy_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Giloy"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Giloy is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "giloy"
+    ]
+  },
+  {
+    "name": {
+      "en": "Neem (en)",
+      "hi": "Neem (hi)",
+      "kn": "Neem (kn)",
+      "ta": "Neem (ta)",
+      "te": "Neem (te)",
+      "mr": "Neem (mr)",
+      "bn": "Neem (bn)",
+      "gu": "Neem (gu)",
+      "ml": "Neem (ml)",
+      "pa": "Neem (pa)"
+    },
+    "scientific": "Neem_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Neem"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Neem is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "neem"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tulsi (en)",
+      "hi": "Tulsi (hi)",
+      "kn": "Tulsi (kn)",
+      "ta": "Tulsi (ta)",
+      "te": "Tulsi (te)",
+      "mr": "Tulsi (mr)",
+      "bn": "Tulsi (bn)",
+      "gu": "Tulsi (gu)",
+      "ml": "Tulsi (ml)",
+      "pa": "Tulsi (pa)"
+    },
+    "scientific": "Tulsi_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Tulsi"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Tulsi is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "tulsi"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ashwagandha (en)",
+      "hi": "Ashwagandha (hi)",
+      "kn": "Ashwagandha (kn)",
+      "ta": "Ashwagandha (ta)",
+      "te": "Ashwagandha (te)",
+      "mr": "Ashwagandha (mr)",
+      "bn": "Ashwagandha (bn)",
+      "gu": "Ashwagandha (gu)",
+      "ml": "Ashwagandha (ml)",
+      "pa": "Ashwagandha (pa)"
+    },
+    "scientific": "Ashwagandha_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Ashwagandha"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Ashwagandha is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "ashwagandha"
+    ]
+  },
+  {
+    "name": {
+      "en": "Aloe Vera (en)",
+      "hi": "Aloe Vera (hi)",
+      "kn": "Aloe Vera (kn)",
+      "ta": "Aloe Vera (ta)",
+      "te": "Aloe Vera (te)",
+      "mr": "Aloe Vera (mr)",
+      "bn": "Aloe Vera (bn)",
+      "gu": "Aloe Vera (gu)",
+      "ml": "Aloe Vera (ml)",
+      "pa": "Aloe Vera (pa)"
+    },
+    "scientific": "Aloe_Vera_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Aloe"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Aloe Vera is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "aloe vera"
+    ]
+  },
+  {
+    "name": {
+      "en": "Giloy (en)",
+      "hi": "Giloy (hi)",
+      "kn": "Giloy (kn)",
+      "ta": "Giloy (ta)",
+      "te": "Giloy (te)",
+      "mr": "Giloy (mr)",
+      "bn": "Giloy (bn)",
+      "gu": "Giloy (gu)",
+      "ml": "Giloy (ml)",
+      "pa": "Giloy (pa)"
+    },
+    "scientific": "Giloy_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Giloy"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Giloy is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "giloy"
+    ]
+  },
+  {
+    "name": {
+      "en": "Neem (en)",
+      "hi": "Neem (hi)",
+      "kn": "Neem (kn)",
+      "ta": "Neem (ta)",
+      "te": "Neem (te)",
+      "mr": "Neem (mr)",
+      "bn": "Neem (bn)",
+      "gu": "Neem (gu)",
+      "ml": "Neem (ml)",
+      "pa": "Neem (pa)"
+    },
+    "scientific": "Neem_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Neem"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Neem is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "neem"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tulsi (en)",
+      "hi": "Tulsi (hi)",
+      "kn": "Tulsi (kn)",
+      "ta": "Tulsi (ta)",
+      "te": "Tulsi (te)",
+      "mr": "Tulsi (mr)",
+      "bn": "Tulsi (bn)",
+      "gu": "Tulsi (gu)",
+      "ml": "Tulsi (ml)",
+      "pa": "Tulsi (pa)"
+    },
+    "scientific": "Tulsi_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Tulsi"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Tulsi is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "tulsi"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ashwagandha (en)",
+      "hi": "Ashwagandha (hi)",
+      "kn": "Ashwagandha (kn)",
+      "ta": "Ashwagandha (ta)",
+      "te": "Ashwagandha (te)",
+      "mr": "Ashwagandha (mr)",
+      "bn": "Ashwagandha (bn)",
+      "gu": "Ashwagandha (gu)",
+      "ml": "Ashwagandha (ml)",
+      "pa": "Ashwagandha (pa)"
+    },
+    "scientific": "Ashwagandha_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Ashwagandha"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Ashwagandha is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "ashwagandha"
+    ]
+  },
+  {
+    "name": {
+      "en": "Aloe Vera (en)",
+      "hi": "Aloe Vera (hi)",
+      "kn": "Aloe Vera (kn)",
+      "ta": "Aloe Vera (ta)",
+      "te": "Aloe Vera (te)",
+      "mr": "Aloe Vera (mr)",
+      "bn": "Aloe Vera (bn)",
+      "gu": "Aloe Vera (gu)",
+      "ml": "Aloe Vera (ml)",
+      "pa": "Aloe Vera (pa)"
+    },
+    "scientific": "Aloe_Vera_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Aloe"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Aloe Vera is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "aloe vera"
+    ]
+  },
+  {
+    "name": {
+      "en": "Giloy (en)",
+      "hi": "Giloy (hi)",
+      "kn": "Giloy (kn)",
+      "ta": "Giloy (ta)",
+      "te": "Giloy (te)",
+      "mr": "Giloy (mr)",
+      "bn": "Giloy (bn)",
+      "gu": "Giloy (gu)",
+      "ml": "Giloy (ml)",
+      "pa": "Giloy (pa)"
+    },
+    "scientific": "Giloy_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Giloy"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Giloy is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "giloy"
+    ]
+  },
+  {
+    "name": {
+      "en": "Neem (en)",
+      "hi": "Neem (hi)",
+      "kn": "Neem (kn)",
+      "ta": "Neem (ta)",
+      "te": "Neem (te)",
+      "mr": "Neem (mr)",
+      "bn": "Neem (bn)",
+      "gu": "Neem (gu)",
+      "ml": "Neem (ml)",
+      "pa": "Neem (pa)"
+    },
+    "scientific": "Neem_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Neem"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Neem is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "neem"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tulsi (en)",
+      "hi": "Tulsi (hi)",
+      "kn": "Tulsi (kn)",
+      "ta": "Tulsi (ta)",
+      "te": "Tulsi (te)",
+      "mr": "Tulsi (mr)",
+      "bn": "Tulsi (bn)",
+      "gu": "Tulsi (gu)",
+      "ml": "Tulsi (ml)",
+      "pa": "Tulsi (pa)"
+    },
+    "scientific": "Tulsi_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Tulsi"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Tulsi is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "tulsi"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ashwagandha (en)",
+      "hi": "Ashwagandha (hi)",
+      "kn": "Ashwagandha (kn)",
+      "ta": "Ashwagandha (ta)",
+      "te": "Ashwagandha (te)",
+      "mr": "Ashwagandha (mr)",
+      "bn": "Ashwagandha (bn)",
+      "gu": "Ashwagandha (gu)",
+      "ml": "Ashwagandha (ml)",
+      "pa": "Ashwagandha (pa)"
+    },
+    "scientific": "Ashwagandha_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Ashwagandha"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Ashwagandha is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "ashwagandha"
+    ]
+  },
+  {
+    "name": {
+      "en": "Aloe Vera (en)",
+      "hi": "Aloe Vera (hi)",
+      "kn": "Aloe Vera (kn)",
+      "ta": "Aloe Vera (ta)",
+      "te": "Aloe Vera (te)",
+      "mr": "Aloe Vera (mr)",
+      "bn": "Aloe Vera (bn)",
+      "gu": "Aloe Vera (gu)",
+      "ml": "Aloe Vera (ml)",
+      "pa": "Aloe Vera (pa)"
+    },
+    "scientific": "Aloe_Vera_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Aloe"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Aloe Vera is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "aloe vera"
+    ]
+  },
+  {
+    "name": {
+      "en": "Giloy (en)",
+      "hi": "Giloy (hi)",
+      "kn": "Giloy (kn)",
+      "ta": "Giloy (ta)",
+      "te": "Giloy (te)",
+      "mr": "Giloy (mr)",
+      "bn": "Giloy (bn)",
+      "gu": "Giloy (gu)",
+      "ml": "Giloy (ml)",
+      "pa": "Giloy (pa)"
+    },
+    "scientific": "Giloy_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Giloy"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Giloy is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "giloy"
+    ]
+  },
+  {
+    "name": {
+      "en": "Neem (en)",
+      "hi": "Neem (hi)",
+      "kn": "Neem (kn)",
+      "ta": "Neem (ta)",
+      "te": "Neem (te)",
+      "mr": "Neem (mr)",
+      "bn": "Neem (bn)",
+      "gu": "Neem (gu)",
+      "ml": "Neem (ml)",
+      "pa": "Neem (pa)"
+    },
+    "scientific": "Neem_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Neem"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Neem is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "neem"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tulsi (en)",
+      "hi": "Tulsi (hi)",
+      "kn": "Tulsi (kn)",
+      "ta": "Tulsi (ta)",
+      "te": "Tulsi (te)",
+      "mr": "Tulsi (mr)",
+      "bn": "Tulsi (bn)",
+      "gu": "Tulsi (gu)",
+      "ml": "Tulsi (ml)",
+      "pa": "Tulsi (pa)"
+    },
+    "scientific": "Tulsi_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Tulsi"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Tulsi is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "tulsi"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ashwagandha (en)",
+      "hi": "Ashwagandha (hi)",
+      "kn": "Ashwagandha (kn)",
+      "ta": "Ashwagandha (ta)",
+      "te": "Ashwagandha (te)",
+      "mr": "Ashwagandha (mr)",
+      "bn": "Ashwagandha (bn)",
+      "gu": "Ashwagandha (gu)",
+      "ml": "Ashwagandha (ml)",
+      "pa": "Ashwagandha (pa)"
+    },
+    "scientific": "Ashwagandha_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Ashwagandha"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Ashwagandha is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "ashwagandha"
+    ]
+  },
+  {
+    "name": {
+      "en": "Aloe Vera (en)",
+      "hi": "Aloe Vera (hi)",
+      "kn": "Aloe Vera (kn)",
+      "ta": "Aloe Vera (ta)",
+      "te": "Aloe Vera (te)",
+      "mr": "Aloe Vera (mr)",
+      "bn": "Aloe Vera (bn)",
+      "gu": "Aloe Vera (gu)",
+      "ml": "Aloe Vera (ml)",
+      "pa": "Aloe Vera (pa)"
+    },
+    "scientific": "Aloe_Vera_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Aloe"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Aloe Vera is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "aloe vera"
+    ]
+  },
+  {
+    "name": {
+      "en": "Giloy (en)",
+      "hi": "Giloy (hi)",
+      "kn": "Giloy (kn)",
+      "ta": "Giloy (ta)",
+      "te": "Giloy (te)",
+      "mr": "Giloy (mr)",
+      "bn": "Giloy (bn)",
+      "gu": "Giloy (gu)",
+      "ml": "Giloy (ml)",
+      "pa": "Giloy (pa)"
+    },
+    "scientific": "Giloy_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Giloy"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Giloy is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "giloy"
+    ]
+  },
+  {
+    "name": {
+      "en": "Neem (en)",
+      "hi": "Neem (hi)",
+      "kn": "Neem (kn)",
+      "ta": "Neem (ta)",
+      "te": "Neem (te)",
+      "mr": "Neem (mr)",
+      "bn": "Neem (bn)",
+      "gu": "Neem (gu)",
+      "ml": "Neem (ml)",
+      "pa": "Neem (pa)"
+    },
+    "scientific": "Neem_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Neem"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Neem is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "neem"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tulsi (en)",
+      "hi": "Tulsi (hi)",
+      "kn": "Tulsi (kn)",
+      "ta": "Tulsi (ta)",
+      "te": "Tulsi (te)",
+      "mr": "Tulsi (mr)",
+      "bn": "Tulsi (bn)",
+      "gu": "Tulsi (gu)",
+      "ml": "Tulsi (ml)",
+      "pa": "Tulsi (pa)"
+    },
+    "scientific": "Tulsi_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Tulsi"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Tulsi is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "tulsi"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ashwagandha (en)",
+      "hi": "Ashwagandha (hi)",
+      "kn": "Ashwagandha (kn)",
+      "ta": "Ashwagandha (ta)",
+      "te": "Ashwagandha (te)",
+      "mr": "Ashwagandha (mr)",
+      "bn": "Ashwagandha (bn)",
+      "gu": "Ashwagandha (gu)",
+      "ml": "Ashwagandha (ml)",
+      "pa": "Ashwagandha (pa)"
+    },
+    "scientific": "Ashwagandha_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Ashwagandha"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Ashwagandha is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "ashwagandha"
+    ]
+  },
+  {
+    "name": {
+      "en": "Aloe Vera (en)",
+      "hi": "Aloe Vera (hi)",
+      "kn": "Aloe Vera (kn)",
+      "ta": "Aloe Vera (ta)",
+      "te": "Aloe Vera (te)",
+      "mr": "Aloe Vera (mr)",
+      "bn": "Aloe Vera (bn)",
+      "gu": "Aloe Vera (gu)",
+      "ml": "Aloe Vera (ml)",
+      "pa": "Aloe Vera (pa)"
+    },
+    "scientific": "Aloe_Vera_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Aloe"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Aloe Vera is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "aloe vera"
+    ]
+  },
+  {
+    "name": {
+      "en": "Giloy (en)",
+      "hi": "Giloy (hi)",
+      "kn": "Giloy (kn)",
+      "ta": "Giloy (ta)",
+      "te": "Giloy (te)",
+      "mr": "Giloy (mr)",
+      "bn": "Giloy (bn)",
+      "gu": "Giloy (gu)",
+      "ml": "Giloy (ml)",
+      "pa": "Giloy (pa)"
+    },
+    "scientific": "Giloy_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Giloy"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Giloy is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "giloy"
+    ]
+  },
+  {
+    "name": {
+      "en": "Neem (en)",
+      "hi": "Neem (hi)",
+      "kn": "Neem (kn)",
+      "ta": "Neem (ta)",
+      "te": "Neem (te)",
+      "mr": "Neem (mr)",
+      "bn": "Neem (bn)",
+      "gu": "Neem (gu)",
+      "ml": "Neem (ml)",
+      "pa": "Neem (pa)"
+    },
+    "scientific": "Neem_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Neem"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Neem is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "neem"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tulsi (en)",
+      "hi": "Tulsi (hi)",
+      "kn": "Tulsi (kn)",
+      "ta": "Tulsi (ta)",
+      "te": "Tulsi (te)",
+      "mr": "Tulsi (mr)",
+      "bn": "Tulsi (bn)",
+      "gu": "Tulsi (gu)",
+      "ml": "Tulsi (ml)",
+      "pa": "Tulsi (pa)"
+    },
+    "scientific": "Tulsi_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Tulsi"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Tulsi is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "tulsi"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ashwagandha (en)",
+      "hi": "Ashwagandha (hi)",
+      "kn": "Ashwagandha (kn)",
+      "ta": "Ashwagandha (ta)",
+      "te": "Ashwagandha (te)",
+      "mr": "Ashwagandha (mr)",
+      "bn": "Ashwagandha (bn)",
+      "gu": "Ashwagandha (gu)",
+      "ml": "Ashwagandha (ml)",
+      "pa": "Ashwagandha (pa)"
+    },
+    "scientific": "Ashwagandha_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Ashwagandha"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Ashwagandha is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "ashwagandha"
+    ]
+  },
+  {
+    "name": {
+      "en": "Aloe Vera (en)",
+      "hi": "Aloe Vera (hi)",
+      "kn": "Aloe Vera (kn)",
+      "ta": "Aloe Vera (ta)",
+      "te": "Aloe Vera (te)",
+      "mr": "Aloe Vera (mr)",
+      "bn": "Aloe Vera (bn)",
+      "gu": "Aloe Vera (gu)",
+      "ml": "Aloe Vera (ml)",
+      "pa": "Aloe Vera (pa)"
+    },
+    "scientific": "Aloe_Vera_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Aloe"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Aloe Vera is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "aloe vera"
+    ]
+  },
+  {
+    "name": {
+      "en": "Giloy (en)",
+      "hi": "Giloy (hi)",
+      "kn": "Giloy (kn)",
+      "ta": "Giloy (ta)",
+      "te": "Giloy (te)",
+      "mr": "Giloy (mr)",
+      "bn": "Giloy (bn)",
+      "gu": "Giloy (gu)",
+      "ml": "Giloy (ml)",
+      "pa": "Giloy (pa)"
+    },
+    "scientific": "Giloy_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Giloy"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Giloy is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "giloy"
+    ]
+  },
+  {
+    "name": {
+      "en": "Neem (en)",
+      "hi": "Neem (hi)",
+      "kn": "Neem (kn)",
+      "ta": "Neem (ta)",
+      "te": "Neem (te)",
+      "mr": "Neem (mr)",
+      "bn": "Neem (bn)",
+      "gu": "Neem (gu)",
+      "ml": "Neem (ml)",
+      "pa": "Neem (pa)"
+    },
+    "scientific": "Neem_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Neem"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Neem is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "neem"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tulsi (en)",
+      "hi": "Tulsi (hi)",
+      "kn": "Tulsi (kn)",
+      "ta": "Tulsi (ta)",
+      "te": "Tulsi (te)",
+      "mr": "Tulsi (mr)",
+      "bn": "Tulsi (bn)",
+      "gu": "Tulsi (gu)",
+      "ml": "Tulsi (ml)",
+      "pa": "Tulsi (pa)"
+    },
+    "scientific": "Tulsi_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Tulsi"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Tulsi is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "tulsi"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ashwagandha (en)",
+      "hi": "Ashwagandha (hi)",
+      "kn": "Ashwagandha (kn)",
+      "ta": "Ashwagandha (ta)",
+      "te": "Ashwagandha (te)",
+      "mr": "Ashwagandha (mr)",
+      "bn": "Ashwagandha (bn)",
+      "gu": "Ashwagandha (gu)",
+      "ml": "Ashwagandha (ml)",
+      "pa": "Ashwagandha (pa)"
+    },
+    "scientific": "Ashwagandha_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Ashwagandha"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Ashwagandha is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "ashwagandha"
+    ]
+  },
+  {
+    "name": {
+      "en": "Aloe Vera (en)",
+      "hi": "Aloe Vera (hi)",
+      "kn": "Aloe Vera (kn)",
+      "ta": "Aloe Vera (ta)",
+      "te": "Aloe Vera (te)",
+      "mr": "Aloe Vera (mr)",
+      "bn": "Aloe Vera (bn)",
+      "gu": "Aloe Vera (gu)",
+      "ml": "Aloe Vera (ml)",
+      "pa": "Aloe Vera (pa)"
+    },
+    "scientific": "Aloe_Vera_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Aloe"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Aloe Vera is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "aloe vera"
+    ]
+  },
+  {
+    "name": {
+      "en": "Giloy (en)",
+      "hi": "Giloy (hi)",
+      "kn": "Giloy (kn)",
+      "ta": "Giloy (ta)",
+      "te": "Giloy (te)",
+      "mr": "Giloy (mr)",
+      "bn": "Giloy (bn)",
+      "gu": "Giloy (gu)",
+      "ml": "Giloy (ml)",
+      "pa": "Giloy (pa)"
+    },
+    "scientific": "Giloy_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Giloy"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Giloy is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "giloy"
+    ]
+  },
+  {
+    "name": {
+      "en": "Neem (en)",
+      "hi": "Neem (hi)",
+      "kn": "Neem (kn)",
+      "ta": "Neem (ta)",
+      "te": "Neem (te)",
+      "mr": "Neem (mr)",
+      "bn": "Neem (bn)",
+      "gu": "Neem (gu)",
+      "ml": "Neem (ml)",
+      "pa": "Neem (pa)"
+    },
+    "scientific": "Neem_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Neem"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Neem is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "neem"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tulsi (en)",
+      "hi": "Tulsi (hi)",
+      "kn": "Tulsi (kn)",
+      "ta": "Tulsi (ta)",
+      "te": "Tulsi (te)",
+      "mr": "Tulsi (mr)",
+      "bn": "Tulsi (bn)",
+      "gu": "Tulsi (gu)",
+      "ml": "Tulsi (ml)",
+      "pa": "Tulsi (pa)"
+    },
+    "scientific": "Tulsi_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Tulsi"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Tulsi is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "tulsi"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ashwagandha (en)",
+      "hi": "Ashwagandha (hi)",
+      "kn": "Ashwagandha (kn)",
+      "ta": "Ashwagandha (ta)",
+      "te": "Ashwagandha (te)",
+      "mr": "Ashwagandha (mr)",
+      "bn": "Ashwagandha (bn)",
+      "gu": "Ashwagandha (gu)",
+      "ml": "Ashwagandha (ml)",
+      "pa": "Ashwagandha (pa)"
+    },
+    "scientific": "Ashwagandha_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Ashwagandha"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Ashwagandha is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "ashwagandha"
+    ]
+  },
+  {
+    "name": {
+      "en": "Aloe Vera (en)",
+      "hi": "Aloe Vera (hi)",
+      "kn": "Aloe Vera (kn)",
+      "ta": "Aloe Vera (ta)",
+      "te": "Aloe Vera (te)",
+      "mr": "Aloe Vera (mr)",
+      "bn": "Aloe Vera (bn)",
+      "gu": "Aloe Vera (gu)",
+      "ml": "Aloe Vera (ml)",
+      "pa": "Aloe Vera (pa)"
+    },
+    "scientific": "Aloe_Vera_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Aloe"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Aloe Vera is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "aloe vera"
+    ]
+  },
+  {
+    "name": {
+      "en": "Giloy (en)",
+      "hi": "Giloy (hi)",
+      "kn": "Giloy (kn)",
+      "ta": "Giloy (ta)",
+      "te": "Giloy (te)",
+      "mr": "Giloy (mr)",
+      "bn": "Giloy (bn)",
+      "gu": "Giloy (gu)",
+      "ml": "Giloy (ml)",
+      "pa": "Giloy (pa)"
+    },
+    "scientific": "Giloy_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Giloy"
+    },
+    "category": "Medicinal",
+    "description": {
+      "en": "Giloy is widely used in India under medicinal category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "giloy"
+    ]
+  }
+]

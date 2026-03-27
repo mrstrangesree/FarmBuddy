@@ -1,0 +1,6302 @@
+[
+  {
+    "name": {
+      "en": "Teak (en)",
+      "hi": "Teak (hi)",
+      "kn": "Teak (kn)",
+      "ta": "Teak (ta)",
+      "te": "Teak (te)",
+      "mr": "Teak (mr)",
+      "bn": "Teak (bn)",
+      "gu": "Teak (gu)",
+      "ml": "Teak (ml)",
+      "pa": "Teak (pa)"
+    },
+    "scientific": "Teak_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Teak"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Teak is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "teak"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sal (en)",
+      "hi": "Sal (hi)",
+      "kn": "Sal (kn)",
+      "ta": "Sal (ta)",
+      "te": "Sal (te)",
+      "mr": "Sal (mr)",
+      "bn": "Sal (bn)",
+      "gu": "Sal (gu)",
+      "ml": "Sal (ml)",
+      "pa": "Sal (pa)"
+    },
+    "scientific": "Sal_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sal"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Sal is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sal"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bamboo (en)",
+      "hi": "Bamboo (hi)",
+      "kn": "Bamboo (kn)",
+      "ta": "Bamboo (ta)",
+      "te": "Bamboo (te)",
+      "mr": "Bamboo (mr)",
+      "bn": "Bamboo (bn)",
+      "gu": "Bamboo (gu)",
+      "ml": "Bamboo (ml)",
+      "pa": "Bamboo (pa)"
+    },
+    "scientific": "Bamboo_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Bamboo"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Bamboo is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "bamboo"
+    ]
+  },
+  {
+    "name": {
+      "en": "Eucalyptus (en)",
+      "hi": "Eucalyptus (hi)",
+      "kn": "Eucalyptus (kn)",
+      "ta": "Eucalyptus (ta)",
+      "te": "Eucalyptus (te)",
+      "mr": "Eucalyptus (mr)",
+      "bn": "Eucalyptus (bn)",
+      "gu": "Eucalyptus (gu)",
+      "ml": "Eucalyptus (ml)",
+      "pa": "Eucalyptus (pa)"
+    },
+    "scientific": "Eucalyptus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Eucalyptus"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Eucalyptus is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "eucalyptus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Pine (en)",
+      "hi": "Pine (hi)",
+      "kn": "Pine (kn)",
+      "ta": "Pine (ta)",
+      "te": "Pine (te)",
+      "mr": "Pine (mr)",
+      "bn": "Pine (bn)",
+      "gu": "Pine (gu)",
+      "ml": "Pine (ml)",
+      "pa": "Pine (pa)"
+    },
+    "scientific": "Pine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Pine"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Pine is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "pine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Teak (en)",
+      "hi": "Teak (hi)",
+      "kn": "Teak (kn)",
+      "ta": "Teak (ta)",
+      "te": "Teak (te)",
+      "mr": "Teak (mr)",
+      "bn": "Teak (bn)",
+      "gu": "Teak (gu)",
+      "ml": "Teak (ml)",
+      "pa": "Teak (pa)"
+    },
+    "scientific": "Teak_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Teak"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Teak is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "teak"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sal (en)",
+      "hi": "Sal (hi)",
+      "kn": "Sal (kn)",
+      "ta": "Sal (ta)",
+      "te": "Sal (te)",
+      "mr": "Sal (mr)",
+      "bn": "Sal (bn)",
+      "gu": "Sal (gu)",
+      "ml": "Sal (ml)",
+      "pa": "Sal (pa)"
+    },
+    "scientific": "Sal_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sal"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Sal is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sal"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bamboo (en)",
+      "hi": "Bamboo (hi)",
+      "kn": "Bamboo (kn)",
+      "ta": "Bamboo (ta)",
+      "te": "Bamboo (te)",
+      "mr": "Bamboo (mr)",
+      "bn": "Bamboo (bn)",
+      "gu": "Bamboo (gu)",
+      "ml": "Bamboo (ml)",
+      "pa": "Bamboo (pa)"
+    },
+    "scientific": "Bamboo_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Bamboo"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Bamboo is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "bamboo"
+    ]
+  },
+  {
+    "name": {
+      "en": "Eucalyptus (en)",
+      "hi": "Eucalyptus (hi)",
+      "kn": "Eucalyptus (kn)",
+      "ta": "Eucalyptus (ta)",
+      "te": "Eucalyptus (te)",
+      "mr": "Eucalyptus (mr)",
+      "bn": "Eucalyptus (bn)",
+      "gu": "Eucalyptus (gu)",
+      "ml": "Eucalyptus (ml)",
+      "pa": "Eucalyptus (pa)"
+    },
+    "scientific": "Eucalyptus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Eucalyptus"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Eucalyptus is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "eucalyptus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Pine (en)",
+      "hi": "Pine (hi)",
+      "kn": "Pine (kn)",
+      "ta": "Pine (ta)",
+      "te": "Pine (te)",
+      "mr": "Pine (mr)",
+      "bn": "Pine (bn)",
+      "gu": "Pine (gu)",
+      "ml": "Pine (ml)",
+      "pa": "Pine (pa)"
+    },
+    "scientific": "Pine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Pine"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Pine is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "pine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Teak (en)",
+      "hi": "Teak (hi)",
+      "kn": "Teak (kn)",
+      "ta": "Teak (ta)",
+      "te": "Teak (te)",
+      "mr": "Teak (mr)",
+      "bn": "Teak (bn)",
+      "gu": "Teak (gu)",
+      "ml": "Teak (ml)",
+      "pa": "Teak (pa)"
+    },
+    "scientific": "Teak_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Teak"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Teak is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "teak"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sal (en)",
+      "hi": "Sal (hi)",
+      "kn": "Sal (kn)",
+      "ta": "Sal (ta)",
+      "te": "Sal (te)",
+      "mr": "Sal (mr)",
+      "bn": "Sal (bn)",
+      "gu": "Sal (gu)",
+      "ml": "Sal (ml)",
+      "pa": "Sal (pa)"
+    },
+    "scientific": "Sal_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sal"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Sal is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sal"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bamboo (en)",
+      "hi": "Bamboo (hi)",
+      "kn": "Bamboo (kn)",
+      "ta": "Bamboo (ta)",
+      "te": "Bamboo (te)",
+      "mr": "Bamboo (mr)",
+      "bn": "Bamboo (bn)",
+      "gu": "Bamboo (gu)",
+      "ml": "Bamboo (ml)",
+      "pa": "Bamboo (pa)"
+    },
+    "scientific": "Bamboo_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Bamboo"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Bamboo is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "bamboo"
+    ]
+  },
+  {
+    "name": {
+      "en": "Eucalyptus (en)",
+      "hi": "Eucalyptus (hi)",
+      "kn": "Eucalyptus (kn)",
+      "ta": "Eucalyptus (ta)",
+      "te": "Eucalyptus (te)",
+      "mr": "Eucalyptus (mr)",
+      "bn": "Eucalyptus (bn)",
+      "gu": "Eucalyptus (gu)",
+      "ml": "Eucalyptus (ml)",
+      "pa": "Eucalyptus (pa)"
+    },
+    "scientific": "Eucalyptus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Eucalyptus"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Eucalyptus is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "eucalyptus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Pine (en)",
+      "hi": "Pine (hi)",
+      "kn": "Pine (kn)",
+      "ta": "Pine (ta)",
+      "te": "Pine (te)",
+      "mr": "Pine (mr)",
+      "bn": "Pine (bn)",
+      "gu": "Pine (gu)",
+      "ml": "Pine (ml)",
+      "pa": "Pine (pa)"
+    },
+    "scientific": "Pine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Pine"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Pine is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "pine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Teak (en)",
+      "hi": "Teak (hi)",
+      "kn": "Teak (kn)",
+      "ta": "Teak (ta)",
+      "te": "Teak (te)",
+      "mr": "Teak (mr)",
+      "bn": "Teak (bn)",
+      "gu": "Teak (gu)",
+      "ml": "Teak (ml)",
+      "pa": "Teak (pa)"
+    },
+    "scientific": "Teak_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Teak"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Teak is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "teak"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sal (en)",
+      "hi": "Sal (hi)",
+      "kn": "Sal (kn)",
+      "ta": "Sal (ta)",
+      "te": "Sal (te)",
+      "mr": "Sal (mr)",
+      "bn": "Sal (bn)",
+      "gu": "Sal (gu)",
+      "ml": "Sal (ml)",
+      "pa": "Sal (pa)"
+    },
+    "scientific": "Sal_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sal"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Sal is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sal"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bamboo (en)",
+      "hi": "Bamboo (hi)",
+      "kn": "Bamboo (kn)",
+      "ta": "Bamboo (ta)",
+      "te": "Bamboo (te)",
+      "mr": "Bamboo (mr)",
+      "bn": "Bamboo (bn)",
+      "gu": "Bamboo (gu)",
+      "ml": "Bamboo (ml)",
+      "pa": "Bamboo (pa)"
+    },
+    "scientific": "Bamboo_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Bamboo"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Bamboo is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "bamboo"
+    ]
+  },
+  {
+    "name": {
+      "en": "Eucalyptus (en)",
+      "hi": "Eucalyptus (hi)",
+      "kn": "Eucalyptus (kn)",
+      "ta": "Eucalyptus (ta)",
+      "te": "Eucalyptus (te)",
+      "mr": "Eucalyptus (mr)",
+      "bn": "Eucalyptus (bn)",
+      "gu": "Eucalyptus (gu)",
+      "ml": "Eucalyptus (ml)",
+      "pa": "Eucalyptus (pa)"
+    },
+    "scientific": "Eucalyptus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Eucalyptus"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Eucalyptus is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "eucalyptus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Pine (en)",
+      "hi": "Pine (hi)",
+      "kn": "Pine (kn)",
+      "ta": "Pine (ta)",
+      "te": "Pine (te)",
+      "mr": "Pine (mr)",
+      "bn": "Pine (bn)",
+      "gu": "Pine (gu)",
+      "ml": "Pine (ml)",
+      "pa": "Pine (pa)"
+    },
+    "scientific": "Pine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Pine"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Pine is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "pine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Teak (en)",
+      "hi": "Teak (hi)",
+      "kn": "Teak (kn)",
+      "ta": "Teak (ta)",
+      "te": "Teak (te)",
+      "mr": "Teak (mr)",
+      "bn": "Teak (bn)",
+      "gu": "Teak (gu)",
+      "ml": "Teak (ml)",
+      "pa": "Teak (pa)"
+    },
+    "scientific": "Teak_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Teak"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Teak is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "teak"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sal (en)",
+      "hi": "Sal (hi)",
+      "kn": "Sal (kn)",
+      "ta": "Sal (ta)",
+      "te": "Sal (te)",
+      "mr": "Sal (mr)",
+      "bn": "Sal (bn)",
+      "gu": "Sal (gu)",
+      "ml": "Sal (ml)",
+      "pa": "Sal (pa)"
+    },
+    "scientific": "Sal_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sal"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Sal is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sal"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bamboo (en)",
+      "hi": "Bamboo (hi)",
+      "kn": "Bamboo (kn)",
+      "ta": "Bamboo (ta)",
+      "te": "Bamboo (te)",
+      "mr": "Bamboo (mr)",
+      "bn": "Bamboo (bn)",
+      "gu": "Bamboo (gu)",
+      "ml": "Bamboo (ml)",
+      "pa": "Bamboo (pa)"
+    },
+    "scientific": "Bamboo_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Bamboo"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Bamboo is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "bamboo"
+    ]
+  },
+  {
+    "name": {
+      "en": "Eucalyptus (en)",
+      "hi": "Eucalyptus (hi)",
+      "kn": "Eucalyptus (kn)",
+      "ta": "Eucalyptus (ta)",
+      "te": "Eucalyptus (te)",
+      "mr": "Eucalyptus (mr)",
+      "bn": "Eucalyptus (bn)",
+      "gu": "Eucalyptus (gu)",
+      "ml": "Eucalyptus (ml)",
+      "pa": "Eucalyptus (pa)"
+    },
+    "scientific": "Eucalyptus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Eucalyptus"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Eucalyptus is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "eucalyptus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Pine (en)",
+      "hi": "Pine (hi)",
+      "kn": "Pine (kn)",
+      "ta": "Pine (ta)",
+      "te": "Pine (te)",
+      "mr": "Pine (mr)",
+      "bn": "Pine (bn)",
+      "gu": "Pine (gu)",
+      "ml": "Pine (ml)",
+      "pa": "Pine (pa)"
+    },
+    "scientific": "Pine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Pine"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Pine is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "pine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Teak (en)",
+      "hi": "Teak (hi)",
+      "kn": "Teak (kn)",
+      "ta": "Teak (ta)",
+      "te": "Teak (te)",
+      "mr": "Teak (mr)",
+      "bn": "Teak (bn)",
+      "gu": "Teak (gu)",
+      "ml": "Teak (ml)",
+      "pa": "Teak (pa)"
+    },
+    "scientific": "Teak_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Teak"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Teak is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "teak"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sal (en)",
+      "hi": "Sal (hi)",
+      "kn": "Sal (kn)",
+      "ta": "Sal (ta)",
+      "te": "Sal (te)",
+      "mr": "Sal (mr)",
+      "bn": "Sal (bn)",
+      "gu": "Sal (gu)",
+      "ml": "Sal (ml)",
+      "pa": "Sal (pa)"
+    },
+    "scientific": "Sal_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sal"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Sal is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sal"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bamboo (en)",
+      "hi": "Bamboo (hi)",
+      "kn": "Bamboo (kn)",
+      "ta": "Bamboo (ta)",
+      "te": "Bamboo (te)",
+      "mr": "Bamboo (mr)",
+      "bn": "Bamboo (bn)",
+      "gu": "Bamboo (gu)",
+      "ml": "Bamboo (ml)",
+      "pa": "Bamboo (pa)"
+    },
+    "scientific": "Bamboo_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Bamboo"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Bamboo is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "bamboo"
+    ]
+  },
+  {
+    "name": {
+      "en": "Eucalyptus (en)",
+      "hi": "Eucalyptus (hi)",
+      "kn": "Eucalyptus (kn)",
+      "ta": "Eucalyptus (ta)",
+      "te": "Eucalyptus (te)",
+      "mr": "Eucalyptus (mr)",
+      "bn": "Eucalyptus (bn)",
+      "gu": "Eucalyptus (gu)",
+      "ml": "Eucalyptus (ml)",
+      "pa": "Eucalyptus (pa)"
+    },
+    "scientific": "Eucalyptus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Eucalyptus"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Eucalyptus is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "eucalyptus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Pine (en)",
+      "hi": "Pine (hi)",
+      "kn": "Pine (kn)",
+      "ta": "Pine (ta)",
+      "te": "Pine (te)",
+      "mr": "Pine (mr)",
+      "bn": "Pine (bn)",
+      "gu": "Pine (gu)",
+      "ml": "Pine (ml)",
+      "pa": "Pine (pa)"
+    },
+    "scientific": "Pine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Pine"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Pine is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "pine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Teak (en)",
+      "hi": "Teak (hi)",
+      "kn": "Teak (kn)",
+      "ta": "Teak (ta)",
+      "te": "Teak (te)",
+      "mr": "Teak (mr)",
+      "bn": "Teak (bn)",
+      "gu": "Teak (gu)",
+      "ml": "Teak (ml)",
+      "pa": "Teak (pa)"
+    },
+    "scientific": "Teak_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Teak"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Teak is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "teak"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sal (en)",
+      "hi": "Sal (hi)",
+      "kn": "Sal (kn)",
+      "ta": "Sal (ta)",
+      "te": "Sal (te)",
+      "mr": "Sal (mr)",
+      "bn": "Sal (bn)",
+      "gu": "Sal (gu)",
+      "ml": "Sal (ml)",
+      "pa": "Sal (pa)"
+    },
+    "scientific": "Sal_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sal"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Sal is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sal"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bamboo (en)",
+      "hi": "Bamboo (hi)",
+      "kn": "Bamboo (kn)",
+      "ta": "Bamboo (ta)",
+      "te": "Bamboo (te)",
+      "mr": "Bamboo (mr)",
+      "bn": "Bamboo (bn)",
+      "gu": "Bamboo (gu)",
+      "ml": "Bamboo (ml)",
+      "pa": "Bamboo (pa)"
+    },
+    "scientific": "Bamboo_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Bamboo"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Bamboo is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "bamboo"
+    ]
+  },
+  {
+    "name": {
+      "en": "Eucalyptus (en)",
+      "hi": "Eucalyptus (hi)",
+      "kn": "Eucalyptus (kn)",
+      "ta": "Eucalyptus (ta)",
+      "te": "Eucalyptus (te)",
+      "mr": "Eucalyptus (mr)",
+      "bn": "Eucalyptus (bn)",
+      "gu": "Eucalyptus (gu)",
+      "ml": "Eucalyptus (ml)",
+      "pa": "Eucalyptus (pa)"
+    },
+    "scientific": "Eucalyptus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Eucalyptus"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Eucalyptus is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "eucalyptus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Pine (en)",
+      "hi": "Pine (hi)",
+      "kn": "Pine (kn)",
+      "ta": "Pine (ta)",
+      "te": "Pine (te)",
+      "mr": "Pine (mr)",
+      "bn": "Pine (bn)",
+      "gu": "Pine (gu)",
+      "ml": "Pine (ml)",
+      "pa": "Pine (pa)"
+    },
+    "scientific": "Pine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Pine"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Pine is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "pine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Teak (en)",
+      "hi": "Teak (hi)",
+      "kn": "Teak (kn)",
+      "ta": "Teak (ta)",
+      "te": "Teak (te)",
+      "mr": "Teak (mr)",
+      "bn": "Teak (bn)",
+      "gu": "Teak (gu)",
+      "ml": "Teak (ml)",
+      "pa": "Teak (pa)"
+    },
+    "scientific": "Teak_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Teak"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Teak is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "teak"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sal (en)",
+      "hi": "Sal (hi)",
+      "kn": "Sal (kn)",
+      "ta": "Sal (ta)",
+      "te": "Sal (te)",
+      "mr": "Sal (mr)",
+      "bn": "Sal (bn)",
+      "gu": "Sal (gu)",
+      "ml": "Sal (ml)",
+      "pa": "Sal (pa)"
+    },
+    "scientific": "Sal_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sal"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Sal is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sal"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bamboo (en)",
+      "hi": "Bamboo (hi)",
+      "kn": "Bamboo (kn)",
+      "ta": "Bamboo (ta)",
+      "te": "Bamboo (te)",
+      "mr": "Bamboo (mr)",
+      "bn": "Bamboo (bn)",
+      "gu": "Bamboo (gu)",
+      "ml": "Bamboo (ml)",
+      "pa": "Bamboo (pa)"
+    },
+    "scientific": "Bamboo_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Bamboo"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Bamboo is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "bamboo"
+    ]
+  },
+  {
+    "name": {
+      "en": "Eucalyptus (en)",
+      "hi": "Eucalyptus (hi)",
+      "kn": "Eucalyptus (kn)",
+      "ta": "Eucalyptus (ta)",
+      "te": "Eucalyptus (te)",
+      "mr": "Eucalyptus (mr)",
+      "bn": "Eucalyptus (bn)",
+      "gu": "Eucalyptus (gu)",
+      "ml": "Eucalyptus (ml)",
+      "pa": "Eucalyptus (pa)"
+    },
+    "scientific": "Eucalyptus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Eucalyptus"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Eucalyptus is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "eucalyptus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Pine (en)",
+      "hi": "Pine (hi)",
+      "kn": "Pine (kn)",
+      "ta": "Pine (ta)",
+      "te": "Pine (te)",
+      "mr": "Pine (mr)",
+      "bn": "Pine (bn)",
+      "gu": "Pine (gu)",
+      "ml": "Pine (ml)",
+      "pa": "Pine (pa)"
+    },
+    "scientific": "Pine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Pine"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Pine is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "pine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Teak (en)",
+      "hi": "Teak (hi)",
+      "kn": "Teak (kn)",
+      "ta": "Teak (ta)",
+      "te": "Teak (te)",
+      "mr": "Teak (mr)",
+      "bn": "Teak (bn)",
+      "gu": "Teak (gu)",
+      "ml": "Teak (ml)",
+      "pa": "Teak (pa)"
+    },
+    "scientific": "Teak_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Teak"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Teak is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "teak"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sal (en)",
+      "hi": "Sal (hi)",
+      "kn": "Sal (kn)",
+      "ta": "Sal (ta)",
+      "te": "Sal (te)",
+      "mr": "Sal (mr)",
+      "bn": "Sal (bn)",
+      "gu": "Sal (gu)",
+      "ml": "Sal (ml)",
+      "pa": "Sal (pa)"
+    },
+    "scientific": "Sal_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sal"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Sal is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sal"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bamboo (en)",
+      "hi": "Bamboo (hi)",
+      "kn": "Bamboo (kn)",
+      "ta": "Bamboo (ta)",
+      "te": "Bamboo (te)",
+      "mr": "Bamboo (mr)",
+      "bn": "Bamboo (bn)",
+      "gu": "Bamboo (gu)",
+      "ml": "Bamboo (ml)",
+      "pa": "Bamboo (pa)"
+    },
+    "scientific": "Bamboo_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Bamboo"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Bamboo is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "bamboo"
+    ]
+  },
+  {
+    "name": {
+      "en": "Eucalyptus (en)",
+      "hi": "Eucalyptus (hi)",
+      "kn": "Eucalyptus (kn)",
+      "ta": "Eucalyptus (ta)",
+      "te": "Eucalyptus (te)",
+      "mr": "Eucalyptus (mr)",
+      "bn": "Eucalyptus (bn)",
+      "gu": "Eucalyptus (gu)",
+      "ml": "Eucalyptus (ml)",
+      "pa": "Eucalyptus (pa)"
+    },
+    "scientific": "Eucalyptus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Eucalyptus"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Eucalyptus is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "eucalyptus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Pine (en)",
+      "hi": "Pine (hi)",
+      "kn": "Pine (kn)",
+      "ta": "Pine (ta)",
+      "te": "Pine (te)",
+      "mr": "Pine (mr)",
+      "bn": "Pine (bn)",
+      "gu": "Pine (gu)",
+      "ml": "Pine (ml)",
+      "pa": "Pine (pa)"
+    },
+    "scientific": "Pine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Pine"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Pine is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "pine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Teak (en)",
+      "hi": "Teak (hi)",
+      "kn": "Teak (kn)",
+      "ta": "Teak (ta)",
+      "te": "Teak (te)",
+      "mr": "Teak (mr)",
+      "bn": "Teak (bn)",
+      "gu": "Teak (gu)",
+      "ml": "Teak (ml)",
+      "pa": "Teak (pa)"
+    },
+    "scientific": "Teak_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Teak"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Teak is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "teak"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sal (en)",
+      "hi": "Sal (hi)",
+      "kn": "Sal (kn)",
+      "ta": "Sal (ta)",
+      "te": "Sal (te)",
+      "mr": "Sal (mr)",
+      "bn": "Sal (bn)",
+      "gu": "Sal (gu)",
+      "ml": "Sal (ml)",
+      "pa": "Sal (pa)"
+    },
+    "scientific": "Sal_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sal"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Sal is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sal"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bamboo (en)",
+      "hi": "Bamboo (hi)",
+      "kn": "Bamboo (kn)",
+      "ta": "Bamboo (ta)",
+      "te": "Bamboo (te)",
+      "mr": "Bamboo (mr)",
+      "bn": "Bamboo (bn)",
+      "gu": "Bamboo (gu)",
+      "ml": "Bamboo (ml)",
+      "pa": "Bamboo (pa)"
+    },
+    "scientific": "Bamboo_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Bamboo"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Bamboo is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "bamboo"
+    ]
+  },
+  {
+    "name": {
+      "en": "Eucalyptus (en)",
+      "hi": "Eucalyptus (hi)",
+      "kn": "Eucalyptus (kn)",
+      "ta": "Eucalyptus (ta)",
+      "te": "Eucalyptus (te)",
+      "mr": "Eucalyptus (mr)",
+      "bn": "Eucalyptus (bn)",
+      "gu": "Eucalyptus (gu)",
+      "ml": "Eucalyptus (ml)",
+      "pa": "Eucalyptus (pa)"
+    },
+    "scientific": "Eucalyptus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Eucalyptus"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Eucalyptus is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "eucalyptus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Pine (en)",
+      "hi": "Pine (hi)",
+      "kn": "Pine (kn)",
+      "ta": "Pine (ta)",
+      "te": "Pine (te)",
+      "mr": "Pine (mr)",
+      "bn": "Pine (bn)",
+      "gu": "Pine (gu)",
+      "ml": "Pine (ml)",
+      "pa": "Pine (pa)"
+    },
+    "scientific": "Pine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Pine"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Pine is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "pine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Teak (en)",
+      "hi": "Teak (hi)",
+      "kn": "Teak (kn)",
+      "ta": "Teak (ta)",
+      "te": "Teak (te)",
+      "mr": "Teak (mr)",
+      "bn": "Teak (bn)",
+      "gu": "Teak (gu)",
+      "ml": "Teak (ml)",
+      "pa": "Teak (pa)"
+    },
+    "scientific": "Teak_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Teak"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Teak is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "teak"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sal (en)",
+      "hi": "Sal (hi)",
+      "kn": "Sal (kn)",
+      "ta": "Sal (ta)",
+      "te": "Sal (te)",
+      "mr": "Sal (mr)",
+      "bn": "Sal (bn)",
+      "gu": "Sal (gu)",
+      "ml": "Sal (ml)",
+      "pa": "Sal (pa)"
+    },
+    "scientific": "Sal_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sal"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Sal is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sal"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bamboo (en)",
+      "hi": "Bamboo (hi)",
+      "kn": "Bamboo (kn)",
+      "ta": "Bamboo (ta)",
+      "te": "Bamboo (te)",
+      "mr": "Bamboo (mr)",
+      "bn": "Bamboo (bn)",
+      "gu": "Bamboo (gu)",
+      "ml": "Bamboo (ml)",
+      "pa": "Bamboo (pa)"
+    },
+    "scientific": "Bamboo_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Bamboo"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Bamboo is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "bamboo"
+    ]
+  },
+  {
+    "name": {
+      "en": "Eucalyptus (en)",
+      "hi": "Eucalyptus (hi)",
+      "kn": "Eucalyptus (kn)",
+      "ta": "Eucalyptus (ta)",
+      "te": "Eucalyptus (te)",
+      "mr": "Eucalyptus (mr)",
+      "bn": "Eucalyptus (bn)",
+      "gu": "Eucalyptus (gu)",
+      "ml": "Eucalyptus (ml)",
+      "pa": "Eucalyptus (pa)"
+    },
+    "scientific": "Eucalyptus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Eucalyptus"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Eucalyptus is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "eucalyptus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Pine (en)",
+      "hi": "Pine (hi)",
+      "kn": "Pine (kn)",
+      "ta": "Pine (ta)",
+      "te": "Pine (te)",
+      "mr": "Pine (mr)",
+      "bn": "Pine (bn)",
+      "gu": "Pine (gu)",
+      "ml": "Pine (ml)",
+      "pa": "Pine (pa)"
+    },
+    "scientific": "Pine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Pine"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Pine is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "pine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Teak (en)",
+      "hi": "Teak (hi)",
+      "kn": "Teak (kn)",
+      "ta": "Teak (ta)",
+      "te": "Teak (te)",
+      "mr": "Teak (mr)",
+      "bn": "Teak (bn)",
+      "gu": "Teak (gu)",
+      "ml": "Teak (ml)",
+      "pa": "Teak (pa)"
+    },
+    "scientific": "Teak_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Teak"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Teak is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "teak"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sal (en)",
+      "hi": "Sal (hi)",
+      "kn": "Sal (kn)",
+      "ta": "Sal (ta)",
+      "te": "Sal (te)",
+      "mr": "Sal (mr)",
+      "bn": "Sal (bn)",
+      "gu": "Sal (gu)",
+      "ml": "Sal (ml)",
+      "pa": "Sal (pa)"
+    },
+    "scientific": "Sal_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sal"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Sal is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sal"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bamboo (en)",
+      "hi": "Bamboo (hi)",
+      "kn": "Bamboo (kn)",
+      "ta": "Bamboo (ta)",
+      "te": "Bamboo (te)",
+      "mr": "Bamboo (mr)",
+      "bn": "Bamboo (bn)",
+      "gu": "Bamboo (gu)",
+      "ml": "Bamboo (ml)",
+      "pa": "Bamboo (pa)"
+    },
+    "scientific": "Bamboo_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Bamboo"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Bamboo is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "bamboo"
+    ]
+  },
+  {
+    "name": {
+      "en": "Eucalyptus (en)",
+      "hi": "Eucalyptus (hi)",
+      "kn": "Eucalyptus (kn)",
+      "ta": "Eucalyptus (ta)",
+      "te": "Eucalyptus (te)",
+      "mr": "Eucalyptus (mr)",
+      "bn": "Eucalyptus (bn)",
+      "gu": "Eucalyptus (gu)",
+      "ml": "Eucalyptus (ml)",
+      "pa": "Eucalyptus (pa)"
+    },
+    "scientific": "Eucalyptus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Eucalyptus"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Eucalyptus is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "eucalyptus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Pine (en)",
+      "hi": "Pine (hi)",
+      "kn": "Pine (kn)",
+      "ta": "Pine (ta)",
+      "te": "Pine (te)",
+      "mr": "Pine (mr)",
+      "bn": "Pine (bn)",
+      "gu": "Pine (gu)",
+      "ml": "Pine (ml)",
+      "pa": "Pine (pa)"
+    },
+    "scientific": "Pine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Pine"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Pine is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "pine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Teak (en)",
+      "hi": "Teak (hi)",
+      "kn": "Teak (kn)",
+      "ta": "Teak (ta)",
+      "te": "Teak (te)",
+      "mr": "Teak (mr)",
+      "bn": "Teak (bn)",
+      "gu": "Teak (gu)",
+      "ml": "Teak (ml)",
+      "pa": "Teak (pa)"
+    },
+    "scientific": "Teak_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Teak"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Teak is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "teak"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sal (en)",
+      "hi": "Sal (hi)",
+      "kn": "Sal (kn)",
+      "ta": "Sal (ta)",
+      "te": "Sal (te)",
+      "mr": "Sal (mr)",
+      "bn": "Sal (bn)",
+      "gu": "Sal (gu)",
+      "ml": "Sal (ml)",
+      "pa": "Sal (pa)"
+    },
+    "scientific": "Sal_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sal"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Sal is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sal"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bamboo (en)",
+      "hi": "Bamboo (hi)",
+      "kn": "Bamboo (kn)",
+      "ta": "Bamboo (ta)",
+      "te": "Bamboo (te)",
+      "mr": "Bamboo (mr)",
+      "bn": "Bamboo (bn)",
+      "gu": "Bamboo (gu)",
+      "ml": "Bamboo (ml)",
+      "pa": "Bamboo (pa)"
+    },
+    "scientific": "Bamboo_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Bamboo"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Bamboo is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "bamboo"
+    ]
+  },
+  {
+    "name": {
+      "en": "Eucalyptus (en)",
+      "hi": "Eucalyptus (hi)",
+      "kn": "Eucalyptus (kn)",
+      "ta": "Eucalyptus (ta)",
+      "te": "Eucalyptus (te)",
+      "mr": "Eucalyptus (mr)",
+      "bn": "Eucalyptus (bn)",
+      "gu": "Eucalyptus (gu)",
+      "ml": "Eucalyptus (ml)",
+      "pa": "Eucalyptus (pa)"
+    },
+    "scientific": "Eucalyptus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Eucalyptus"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Eucalyptus is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "eucalyptus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Pine (en)",
+      "hi": "Pine (hi)",
+      "kn": "Pine (kn)",
+      "ta": "Pine (ta)",
+      "te": "Pine (te)",
+      "mr": "Pine (mr)",
+      "bn": "Pine (bn)",
+      "gu": "Pine (gu)",
+      "ml": "Pine (ml)",
+      "pa": "Pine (pa)"
+    },
+    "scientific": "Pine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Pine"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Pine is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "pine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Teak (en)",
+      "hi": "Teak (hi)",
+      "kn": "Teak (kn)",
+      "ta": "Teak (ta)",
+      "te": "Teak (te)",
+      "mr": "Teak (mr)",
+      "bn": "Teak (bn)",
+      "gu": "Teak (gu)",
+      "ml": "Teak (ml)",
+      "pa": "Teak (pa)"
+    },
+    "scientific": "Teak_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Teak"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Teak is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "teak"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sal (en)",
+      "hi": "Sal (hi)",
+      "kn": "Sal (kn)",
+      "ta": "Sal (ta)",
+      "te": "Sal (te)",
+      "mr": "Sal (mr)",
+      "bn": "Sal (bn)",
+      "gu": "Sal (gu)",
+      "ml": "Sal (ml)",
+      "pa": "Sal (pa)"
+    },
+    "scientific": "Sal_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sal"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Sal is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sal"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bamboo (en)",
+      "hi": "Bamboo (hi)",
+      "kn": "Bamboo (kn)",
+      "ta": "Bamboo (ta)",
+      "te": "Bamboo (te)",
+      "mr": "Bamboo (mr)",
+      "bn": "Bamboo (bn)",
+      "gu": "Bamboo (gu)",
+      "ml": "Bamboo (ml)",
+      "pa": "Bamboo (pa)"
+    },
+    "scientific": "Bamboo_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Bamboo"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Bamboo is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "bamboo"
+    ]
+  },
+  {
+    "name": {
+      "en": "Eucalyptus (en)",
+      "hi": "Eucalyptus (hi)",
+      "kn": "Eucalyptus (kn)",
+      "ta": "Eucalyptus (ta)",
+      "te": "Eucalyptus (te)",
+      "mr": "Eucalyptus (mr)",
+      "bn": "Eucalyptus (bn)",
+      "gu": "Eucalyptus (gu)",
+      "ml": "Eucalyptus (ml)",
+      "pa": "Eucalyptus (pa)"
+    },
+    "scientific": "Eucalyptus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Eucalyptus"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Eucalyptus is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "eucalyptus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Pine (en)",
+      "hi": "Pine (hi)",
+      "kn": "Pine (kn)",
+      "ta": "Pine (ta)",
+      "te": "Pine (te)",
+      "mr": "Pine (mr)",
+      "bn": "Pine (bn)",
+      "gu": "Pine (gu)",
+      "ml": "Pine (ml)",
+      "pa": "Pine (pa)"
+    },
+    "scientific": "Pine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Pine"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Pine is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "pine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Teak (en)",
+      "hi": "Teak (hi)",
+      "kn": "Teak (kn)",
+      "ta": "Teak (ta)",
+      "te": "Teak (te)",
+      "mr": "Teak (mr)",
+      "bn": "Teak (bn)",
+      "gu": "Teak (gu)",
+      "ml": "Teak (ml)",
+      "pa": "Teak (pa)"
+    },
+    "scientific": "Teak_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Teak"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Teak is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "teak"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sal (en)",
+      "hi": "Sal (hi)",
+      "kn": "Sal (kn)",
+      "ta": "Sal (ta)",
+      "te": "Sal (te)",
+      "mr": "Sal (mr)",
+      "bn": "Sal (bn)",
+      "gu": "Sal (gu)",
+      "ml": "Sal (ml)",
+      "pa": "Sal (pa)"
+    },
+    "scientific": "Sal_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sal"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Sal is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sal"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bamboo (en)",
+      "hi": "Bamboo (hi)",
+      "kn": "Bamboo (kn)",
+      "ta": "Bamboo (ta)",
+      "te": "Bamboo (te)",
+      "mr": "Bamboo (mr)",
+      "bn": "Bamboo (bn)",
+      "gu": "Bamboo (gu)",
+      "ml": "Bamboo (ml)",
+      "pa": "Bamboo (pa)"
+    },
+    "scientific": "Bamboo_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Bamboo"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Bamboo is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "bamboo"
+    ]
+  },
+  {
+    "name": {
+      "en": "Eucalyptus (en)",
+      "hi": "Eucalyptus (hi)",
+      "kn": "Eucalyptus (kn)",
+      "ta": "Eucalyptus (ta)",
+      "te": "Eucalyptus (te)",
+      "mr": "Eucalyptus (mr)",
+      "bn": "Eucalyptus (bn)",
+      "gu": "Eucalyptus (gu)",
+      "ml": "Eucalyptus (ml)",
+      "pa": "Eucalyptus (pa)"
+    },
+    "scientific": "Eucalyptus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Eucalyptus"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Eucalyptus is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "eucalyptus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Pine (en)",
+      "hi": "Pine (hi)",
+      "kn": "Pine (kn)",
+      "ta": "Pine (ta)",
+      "te": "Pine (te)",
+      "mr": "Pine (mr)",
+      "bn": "Pine (bn)",
+      "gu": "Pine (gu)",
+      "ml": "Pine (ml)",
+      "pa": "Pine (pa)"
+    },
+    "scientific": "Pine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Pine"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Pine is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "pine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Teak (en)",
+      "hi": "Teak (hi)",
+      "kn": "Teak (kn)",
+      "ta": "Teak (ta)",
+      "te": "Teak (te)",
+      "mr": "Teak (mr)",
+      "bn": "Teak (bn)",
+      "gu": "Teak (gu)",
+      "ml": "Teak (ml)",
+      "pa": "Teak (pa)"
+    },
+    "scientific": "Teak_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Teak"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Teak is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "teak"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sal (en)",
+      "hi": "Sal (hi)",
+      "kn": "Sal (kn)",
+      "ta": "Sal (ta)",
+      "te": "Sal (te)",
+      "mr": "Sal (mr)",
+      "bn": "Sal (bn)",
+      "gu": "Sal (gu)",
+      "ml": "Sal (ml)",
+      "pa": "Sal (pa)"
+    },
+    "scientific": "Sal_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sal"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Sal is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sal"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bamboo (en)",
+      "hi": "Bamboo (hi)",
+      "kn": "Bamboo (kn)",
+      "ta": "Bamboo (ta)",
+      "te": "Bamboo (te)",
+      "mr": "Bamboo (mr)",
+      "bn": "Bamboo (bn)",
+      "gu": "Bamboo (gu)",
+      "ml": "Bamboo (ml)",
+      "pa": "Bamboo (pa)"
+    },
+    "scientific": "Bamboo_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Bamboo"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Bamboo is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "bamboo"
+    ]
+  },
+  {
+    "name": {
+      "en": "Eucalyptus (en)",
+      "hi": "Eucalyptus (hi)",
+      "kn": "Eucalyptus (kn)",
+      "ta": "Eucalyptus (ta)",
+      "te": "Eucalyptus (te)",
+      "mr": "Eucalyptus (mr)",
+      "bn": "Eucalyptus (bn)",
+      "gu": "Eucalyptus (gu)",
+      "ml": "Eucalyptus (ml)",
+      "pa": "Eucalyptus (pa)"
+    },
+    "scientific": "Eucalyptus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Eucalyptus"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Eucalyptus is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "eucalyptus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Pine (en)",
+      "hi": "Pine (hi)",
+      "kn": "Pine (kn)",
+      "ta": "Pine (ta)",
+      "te": "Pine (te)",
+      "mr": "Pine (mr)",
+      "bn": "Pine (bn)",
+      "gu": "Pine (gu)",
+      "ml": "Pine (ml)",
+      "pa": "Pine (pa)"
+    },
+    "scientific": "Pine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Pine"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Pine is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "pine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Teak (en)",
+      "hi": "Teak (hi)",
+      "kn": "Teak (kn)",
+      "ta": "Teak (ta)",
+      "te": "Teak (te)",
+      "mr": "Teak (mr)",
+      "bn": "Teak (bn)",
+      "gu": "Teak (gu)",
+      "ml": "Teak (ml)",
+      "pa": "Teak (pa)"
+    },
+    "scientific": "Teak_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Teak"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Teak is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "teak"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sal (en)",
+      "hi": "Sal (hi)",
+      "kn": "Sal (kn)",
+      "ta": "Sal (ta)",
+      "te": "Sal (te)",
+      "mr": "Sal (mr)",
+      "bn": "Sal (bn)",
+      "gu": "Sal (gu)",
+      "ml": "Sal (ml)",
+      "pa": "Sal (pa)"
+    },
+    "scientific": "Sal_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sal"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Sal is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sal"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bamboo (en)",
+      "hi": "Bamboo (hi)",
+      "kn": "Bamboo (kn)",
+      "ta": "Bamboo (ta)",
+      "te": "Bamboo (te)",
+      "mr": "Bamboo (mr)",
+      "bn": "Bamboo (bn)",
+      "gu": "Bamboo (gu)",
+      "ml": "Bamboo (ml)",
+      "pa": "Bamboo (pa)"
+    },
+    "scientific": "Bamboo_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Bamboo"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Bamboo is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "bamboo"
+    ]
+  },
+  {
+    "name": {
+      "en": "Eucalyptus (en)",
+      "hi": "Eucalyptus (hi)",
+      "kn": "Eucalyptus (kn)",
+      "ta": "Eucalyptus (ta)",
+      "te": "Eucalyptus (te)",
+      "mr": "Eucalyptus (mr)",
+      "bn": "Eucalyptus (bn)",
+      "gu": "Eucalyptus (gu)",
+      "ml": "Eucalyptus (ml)",
+      "pa": "Eucalyptus (pa)"
+    },
+    "scientific": "Eucalyptus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Eucalyptus"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Eucalyptus is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "eucalyptus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Pine (en)",
+      "hi": "Pine (hi)",
+      "kn": "Pine (kn)",
+      "ta": "Pine (ta)",
+      "te": "Pine (te)",
+      "mr": "Pine (mr)",
+      "bn": "Pine (bn)",
+      "gu": "Pine (gu)",
+      "ml": "Pine (ml)",
+      "pa": "Pine (pa)"
+    },
+    "scientific": "Pine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Pine"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Pine is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "pine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Teak (en)",
+      "hi": "Teak (hi)",
+      "kn": "Teak (kn)",
+      "ta": "Teak (ta)",
+      "te": "Teak (te)",
+      "mr": "Teak (mr)",
+      "bn": "Teak (bn)",
+      "gu": "Teak (gu)",
+      "ml": "Teak (ml)",
+      "pa": "Teak (pa)"
+    },
+    "scientific": "Teak_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Teak"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Teak is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "teak"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sal (en)",
+      "hi": "Sal (hi)",
+      "kn": "Sal (kn)",
+      "ta": "Sal (ta)",
+      "te": "Sal (te)",
+      "mr": "Sal (mr)",
+      "bn": "Sal (bn)",
+      "gu": "Sal (gu)",
+      "ml": "Sal (ml)",
+      "pa": "Sal (pa)"
+    },
+    "scientific": "Sal_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sal"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Sal is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sal"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bamboo (en)",
+      "hi": "Bamboo (hi)",
+      "kn": "Bamboo (kn)",
+      "ta": "Bamboo (ta)",
+      "te": "Bamboo (te)",
+      "mr": "Bamboo (mr)",
+      "bn": "Bamboo (bn)",
+      "gu": "Bamboo (gu)",
+      "ml": "Bamboo (ml)",
+      "pa": "Bamboo (pa)"
+    },
+    "scientific": "Bamboo_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Bamboo"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Bamboo is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "bamboo"
+    ]
+  },
+  {
+    "name": {
+      "en": "Eucalyptus (en)",
+      "hi": "Eucalyptus (hi)",
+      "kn": "Eucalyptus (kn)",
+      "ta": "Eucalyptus (ta)",
+      "te": "Eucalyptus (te)",
+      "mr": "Eucalyptus (mr)",
+      "bn": "Eucalyptus (bn)",
+      "gu": "Eucalyptus (gu)",
+      "ml": "Eucalyptus (ml)",
+      "pa": "Eucalyptus (pa)"
+    },
+    "scientific": "Eucalyptus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Eucalyptus"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Eucalyptus is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "eucalyptus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Pine (en)",
+      "hi": "Pine (hi)",
+      "kn": "Pine (kn)",
+      "ta": "Pine (ta)",
+      "te": "Pine (te)",
+      "mr": "Pine (mr)",
+      "bn": "Pine (bn)",
+      "gu": "Pine (gu)",
+      "ml": "Pine (ml)",
+      "pa": "Pine (pa)"
+    },
+    "scientific": "Pine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Pine"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Pine is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "pine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Teak (en)",
+      "hi": "Teak (hi)",
+      "kn": "Teak (kn)",
+      "ta": "Teak (ta)",
+      "te": "Teak (te)",
+      "mr": "Teak (mr)",
+      "bn": "Teak (bn)",
+      "gu": "Teak (gu)",
+      "ml": "Teak (ml)",
+      "pa": "Teak (pa)"
+    },
+    "scientific": "Teak_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Teak"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Teak is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "teak"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sal (en)",
+      "hi": "Sal (hi)",
+      "kn": "Sal (kn)",
+      "ta": "Sal (ta)",
+      "te": "Sal (te)",
+      "mr": "Sal (mr)",
+      "bn": "Sal (bn)",
+      "gu": "Sal (gu)",
+      "ml": "Sal (ml)",
+      "pa": "Sal (pa)"
+    },
+    "scientific": "Sal_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sal"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Sal is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sal"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bamboo (en)",
+      "hi": "Bamboo (hi)",
+      "kn": "Bamboo (kn)",
+      "ta": "Bamboo (ta)",
+      "te": "Bamboo (te)",
+      "mr": "Bamboo (mr)",
+      "bn": "Bamboo (bn)",
+      "gu": "Bamboo (gu)",
+      "ml": "Bamboo (ml)",
+      "pa": "Bamboo (pa)"
+    },
+    "scientific": "Bamboo_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Bamboo"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Bamboo is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "bamboo"
+    ]
+  },
+  {
+    "name": {
+      "en": "Eucalyptus (en)",
+      "hi": "Eucalyptus (hi)",
+      "kn": "Eucalyptus (kn)",
+      "ta": "Eucalyptus (ta)",
+      "te": "Eucalyptus (te)",
+      "mr": "Eucalyptus (mr)",
+      "bn": "Eucalyptus (bn)",
+      "gu": "Eucalyptus (gu)",
+      "ml": "Eucalyptus (ml)",
+      "pa": "Eucalyptus (pa)"
+    },
+    "scientific": "Eucalyptus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Eucalyptus"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Eucalyptus is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "eucalyptus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Pine (en)",
+      "hi": "Pine (hi)",
+      "kn": "Pine (kn)",
+      "ta": "Pine (ta)",
+      "te": "Pine (te)",
+      "mr": "Pine (mr)",
+      "bn": "Pine (bn)",
+      "gu": "Pine (gu)",
+      "ml": "Pine (ml)",
+      "pa": "Pine (pa)"
+    },
+    "scientific": "Pine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Pine"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Pine is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "pine"
+    ]
+  },
+  {
+    "name": {
+      "en": "Teak (en)",
+      "hi": "Teak (hi)",
+      "kn": "Teak (kn)",
+      "ta": "Teak (ta)",
+      "te": "Teak (te)",
+      "mr": "Teak (mr)",
+      "bn": "Teak (bn)",
+      "gu": "Teak (gu)",
+      "ml": "Teak (ml)",
+      "pa": "Teak (pa)"
+    },
+    "scientific": "Teak_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Teak"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Teak is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "teak"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sal (en)",
+      "hi": "Sal (hi)",
+      "kn": "Sal (kn)",
+      "ta": "Sal (ta)",
+      "te": "Sal (te)",
+      "mr": "Sal (mr)",
+      "bn": "Sal (bn)",
+      "gu": "Sal (gu)",
+      "ml": "Sal (ml)",
+      "pa": "Sal (pa)"
+    },
+    "scientific": "Sal_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Sal"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Sal is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "sal"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bamboo (en)",
+      "hi": "Bamboo (hi)",
+      "kn": "Bamboo (kn)",
+      "ta": "Bamboo (ta)",
+      "te": "Bamboo (te)",
+      "mr": "Bamboo (mr)",
+      "bn": "Bamboo (bn)",
+      "gu": "Bamboo (gu)",
+      "ml": "Bamboo (ml)",
+      "pa": "Bamboo (pa)"
+    },
+    "scientific": "Bamboo_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Bamboo"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Bamboo is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "bamboo"
+    ]
+  },
+  {
+    "name": {
+      "en": "Eucalyptus (en)",
+      "hi": "Eucalyptus (hi)",
+      "kn": "Eucalyptus (kn)",
+      "ta": "Eucalyptus (ta)",
+      "te": "Eucalyptus (te)",
+      "mr": "Eucalyptus (mr)",
+      "bn": "Eucalyptus (bn)",
+      "gu": "Eucalyptus (gu)",
+      "ml": "Eucalyptus (ml)",
+      "pa": "Eucalyptus (pa)"
+    },
+    "scientific": "Eucalyptus_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Eucalyptus"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Eucalyptus is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "eucalyptus"
+    ]
+  },
+  {
+    "name": {
+      "en": "Pine (en)",
+      "hi": "Pine (hi)",
+      "kn": "Pine (kn)",
+      "ta": "Pine (ta)",
+      "te": "Pine (te)",
+      "mr": "Pine (mr)",
+      "bn": "Pine (bn)",
+      "gu": "Pine (gu)",
+      "ml": "Pine (ml)",
+      "pa": "Pine (pa)"
+    },
+    "scientific": "Pine_scientific",
+    "classification": {
+      "kingdom": "Plantae",
+      "order": "Order",
+      "family": "Family",
+      "genus": "Pine"
+    },
+    "category": "Forestry",
+    "description": {
+      "en": "Pine is widely used in India under forestry category."
+    },
+    "agriculture": {
+      "soil": [
+        "Loamy",
+        "Alluvial"
+      ],
+      "climate": [
+        "Tropical",
+        "Subtropical"
+      ],
+      "season": [
+        "All"
+      ]
+    },
+    "region": [
+      {
+        "state": "Maharashtra",
+        "cultivated": true,
+        "wild": false
+      },
+      {
+        "state": "Kerala",
+        "cultivated": true,
+        "wild": true
+      }
+    ],
+    "uses": [
+      "Food",
+      "Medicinal"
+    ],
+    "toxicity": "Non-toxic",
+    "growth": {
+      "duration_days": 120,
+      "yield": "2 tons/acre"
+    },
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+    "searchTerms": [
+      "pine"
+    ]
+  }
+]
